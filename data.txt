@@ -1,0 +1,3809 @@
+Portugal,Estonia,7,0,08.06.2016
+Japan,Bosnia & Herzegovina,1,2,07.06.2016
+Spain,Georgia,0,1,07.06.2016
+Australia,Greece,1,2,07.06.2016
+Bulgaria,Denmark,0,4,07.06.2016
+China,Kazakhstan,0,1,07.06.2016
+Italy,Finland,2,0,06.06.2016
+Poland,Lithuania,0,0,06.06.2016
+Iceland,Liechtenstein,4,0,06.06.2016
+Belgium,Norway,3,2,05.06.2016
+Slovenia,Turkey,0,1,05.06.2016
+Czech Republic,South Korea,1,2,05.06.2016
+Sweden,Wales,3,0,05.06.2016
+Russia,Serbia,1,1,05.06.2016
+Croatia,San Marino,10,0,04.06.2016
+Estonia,Latvia,0,0,04.06.2016
+France,Scotland,3,0,04.06.2016
+Australia,Greece,1,0,04.06.2016
+Germany,Hungary,2,0,04.06.2016
+Austria,Netherlands,0,2,04.06.2016
+Slovakia,North. Ireland,0,0,04.06.2016
+Switzerland,Moldova,2,1,03.06.2016
+Faroe Islands,Kosovo,0,2,03.06.2016
+Albania,Ukraine,1,3,03.06.2016
+Japan,Bulgaria,7,2,03.06.2016
+Bosnia & Herzegovina,Denmark,2,2,03.06.2016
+Canada,Azerbaijan,1,1,03.06.2016
+Romania,Georgia,5,1,03.06.2016
+England,Portugal,1,0,02.06.2016
+Macedonia,Iran,1,3,02.06.2016
+Norway,Iceland,3,2,01.06.2016
+Czech Republic,Russia,2,1,01.06.2016
+South Korea,Spain,1,6,01.06.2016
+Estonia,Andorra,2,0,01.06.2016
+Latvia,Lithuania,2,1,01.06.2016
+Salvador,Armenia,0,4,01.06.2016
+Poland,Netherlands,1,2,01.06.2016
+Belgium,Finland,1,1,01.06.2016
+Luxembourg,Nigeria,1,3,31.05.2016
+Austria,Malta,2,1,31.05.2016
+Serbia,Israel,3,1,31.05.2016
+Rep. of Ireland,Belarus,1,2,31.05.2016
+Sweden,Slovenia,0,0,30.05.2016
+France,Cameroon,3,2,30.05.2016
+Bosnia & Herzegovina,Spain,1,3,29.05.2016
+Lithuania,Estonia,2,0,29.05.2016
+Albania,Qatar,3,1,29.05.2016
+Azerbaijan,Macedonia,1,3,29.05.2016
+Germany,Slovakia,1,3,29.05.2016
+Romania,Ukraine,3,4,29.05.2016
+Turkey,Montenegro,1,0,29.05.2016
+Italy,Scotland,1,0,29.05.2016
+Portugal,Norway,3,0,29.05.2016
+Guatemala,Armenia,1,7,28.05.2016
+Switzerland,Belgium,1,2,28.05.2016
+Slovakia,Georgia,3,1,27.05.2016
+Czech Republic,Malta,6,0,27.05.2016
+Rep. of Ireland,Netherlands,1,1,27.05.2016
+Croatia,Moldova,1,0,27.05.2016
+England,Australia,2,1,27.05.2016
+North. Ireland,Belarus,3,0,27.05.2016
+Azerbaijan,Andorra,0,0,26.05.2016
+Serbia,Cyprus,2,1,25.05.2016
+Congo D.R.,Romania,1,1,25.05.2016
+England,Turkey,2,1,22.05.2016
+Hungary,C�te d`Ivoire,0,0,20.05.2016
+Montenegro,Belarus,0,0,29.03.2016
+Switzerland,Bosnia & Herzegovina,0,2,29.03.2016
+Norway,Finland,2,0,29.03.2016
+Macedonia,Bulgaria,0,2,29.03.2016
+Germany,Italy,4,1,29.03.2016
+Estonia,Serbia,0,1,29.03.2016
+Georgia,Kazakhstan,1,1,29.03.2016
+Greece,Iceland,2,3,29.03.2016
+Sweden,Czech Republic,1,1,29.03.2016
+Austria,Turkey,1,2,29.03.2016
+Gibraltar,Latvia,0,5,29.03.2016
+Rep. of Ireland,Slovakia,2,2,29.03.2016
+Portugal,Belgium,2,1,29.03.2016
+France,Russia,4,2,29.03.2016
+England,Netherlands,1,2,29.03.2016
+Scotland,Denmark,1,0,29.03.2016
+Luxembourg,Albania,0,2,29.03.2016
+Andorra,Moldova,0,1,28.03.2016
+Ukraine,Wales,1,0,28.03.2016
+Faroe Islands,Liechtenstein,3,2,28.03.2016
+North. Ireland,Slovenia,1,0,28.03.2016
+Romania,Spain,0,0,27.03.2016
+Poland,Finland,5,0,26.03.2016
+Russia,Lithuania,3,0,26.03.2016
+Hungary,Croatia,1,1,26.03.2016
+Azerbaijan,Kazakhstan,0,1,26.03.2016
+Austria,Albania,2,1,26.03.2016
+Germany,England,2,3,26.03.2016
+Armenia,Belarus,0,0,25.03.2016
+Luxembourg,Bosnia & Herzegovina,0,3,25.03.2016
+Slovakia,Latvia,0,0,25.03.2016
+Rep. of Ireland,Switzerland,1,0,25.03.2016
+Netherlands,France,2,3,25.03.2016
+Portugal,Bulgaria,0,1,25.03.2016
+Estonia,Norway,0,0,24.03.2016
+Malta,Moldova,0,0,24.03.2016
+Greece,Montenegro,2,1,24.03.2016
+Turkey,Sweden,2,1,24.03.2016
+Ukraine,Cyprus,1,0,24.03.2016
+Denmark,Iceland,2,1,24.03.2016
+Italy,Spain,1,1,24.03.2016
+Czech Republic,Scotland,0,1,24.03.2016
+Wales,North. Ireland,1,1,24.03.2016
+Slovenia,Macedonia,1,0,23.03.2016
+Croatia,Israel,2,0,23.03.2016
+Gibraltar,Liechtenstein,0,0,23.03.2016
+Romania,Lithuania,1,0,23.03.2016
+Poland,Serbia,1,0,23.03.2016
+United States,Iceland,3,2,31.01.2016
+U.A.E.,Iceland,2,1,16.01.2016
+Finland,Iceland,0,1,13.01.2016
+Sweden,Finland,3,0,10.01.2016
+Estonia,Sweden,1,1,06.01.2016
+Estonia,St. Kitts/Nevis,3,0,17.11.2015
+Poland,Czech Republic,3,1,17.11.2015
+Macedonia,Lebanon,0,1,17.11.2015
+Russia,Croatia,1,3,17.11.2015
+Azerbaijan,Moldova,2,1,17.11.2015
+Turkey,Greece,0,0,17.11.2015
+Luxembourg,Portugal,0,2,17.11.2015
+Slovakia,Iceland,3,1,17.11.2015
+Denmark,Sweden,2,2,17.11.2015
+Italy,Romania,2,2,17.11.2015
+Austria,Switzerland,1,2,17.11.2015
+Slovenia,Ukraine,1,1,17.11.2015
+England,France,2,0,17.11.2015
+Albania,Georgia,2,2,16.11.2015
+Rep. of Ireland,Bosnia & Herzegovina,2,0,16.11.2015
+Hungary,Norway,2,1,15.11.2015
+Russia,Portugal,1,0,14.11.2015
+Sweden,Denmark,2,1,14.11.2015
+Ukraine,Slovenia,2,0,14.11.2015
+Kosovo,Albania,2,2,13.11.2015
+Poland,Iceland,4,2,13.11.2015
+Qatar,Turkey,1,2,13.11.2015
+Luxembourg,Greece,1,0,13.11.2015
+Czech Republic,Serbia,4,1,13.11.2015
+Belgium,Italy,3,1,13.11.2015
+Wales,Netherlands,2,3,13.11.2015
+Slovakia,Switzerland,3,2,13.11.2015
+Bosnia & Herzegovina,Rep. of Ireland,1,1,13.11.2015
+North. Ireland,Latvia,1,0,13.11.2015
+Spain,England,2,0,13.11.2015
+France,Germany,2,0,13.11.2015
+Andorra,St. Kitts/Nevis,0,1,12.11.2015
+Macedonia,Montenegro,4,1,12.11.2015
+Norway,Hungary,0,1,12.11.2015
+Jordan,Malta,2,0,11.11.2015
+Estonia,Georgia,3,0,11.11.2015
+Latvia,Kazakhstan,0,1,13.10.2015
+Netherlands,Czech Republic,2,3,13.10.2015
+Turkey,Iceland,1,0,13.10.2015
+Belgium,Israel,3,1,13.10.2015
+Italy,Norway,2,1,13.10.2015
+Cyprus,Bosnia & Herzegovina,2,3,13.10.2015
+Bulgaria,Azerbaijan,2,0,13.10.2015
+Malta,Croatia,0,1,13.10.2015
+Wales,Andorra,2,0,13.10.2015
+Austria,Liechtenstein,3,0,12.10.2015
+Belarus,Macedonia,0,0,12.10.2015
+Russia,Montenegro,2,0,12.10.2015
+Sweden,Moldova,2,0,12.10.2015
+Luxembourg,Slovakia,2,4,12.10.2015
+Ukraine,Spain,0,1,12.10.2015
+Estonia,Switzerland,0,1,12.10.2015
+Lithuania,England,0,3,12.10.2015
+San Marino,Slovenia,0,2,12.10.2015
+Germany,Georgia,2,1,11.10.2015
+Faroe Islands,Romania,0,3,11.10.2015
+Finland,North. Ireland,1,1,11.10.2015
+Greece,Hungary,4,3,11.10.2015
+Armenia,Albania,0,3,11.10.2015
+Serbia,Portugal,1,2,11.10.2015
+Gibraltar,Scotland,0,6,11.10.2015
+Poland,Rep. of Ireland,2,1,11.10.2015
+Denmark,France,1,2,11.10.2015
+Kosovo,Equatorial Guinea,2,0,10.10.2015
+Czech Republic,Turkey,0,2,10.10.2015
+Iceland,Latvia,2,2,10.10.2015
+Kazakhstan,Netherlands,1,2,10.10.2015
+Azerbaijan,Italy,1,3,10.10.2015
+Norway,Malta,2,0,10.10.2015
+Andorra,Belgium,1,4,10.10.2015
+Bosnia & Herzegovina,Wales,2,0,10.10.2015
+Israel,Cyprus,1,2,10.10.2015
+Croatia,Bulgaria,3,0,10.10.2015
+Macedonia,Ukraine,0,2,09.10.2015
+Slovenia,Lithuania,1,1,09.10.2015
+Slovakia,Belarus,0,1,09.10.2015
+Spain,Luxembourg,4,0,09.10.2015
+England,Estonia,2,0,09.10.2015
+Switzerland,San Marino,7,0,09.10.2015
+Liechtenstein,Sweden,0,2,09.10.2015
+Moldova,Russia,1,2,09.10.2015
+Montenegro,Austria,2,3,09.10.2015
+Rep. of Ireland,Germany,1,0,08.10.2015
+Georgia,Gibraltar,4,0,08.10.2015
+Scotland,Poland,2,2,08.10.2015
+Hungary,Faroe Islands,2,1,08.10.2015
+North. Ireland,Greece,3,1,08.10.2015
+Romania,Finland,1,1,08.10.2015
+Albania,Serbia,0,2,08.10.2015
+Portugal,Denmark,1,0,08.10.2015
+France,Armenia,4,0,08.10.2015
+Belarus,Luxembourg,2,0,08.09.2015
+Macedonia,Spain,0,1,08.09.2015
+Slovakia,Ukraine,0,0,08.09.2015
+England,Switzerland,2,0,08.09.2015
+Lithuania,San Marino,2,1,08.09.2015
+Slovenia,Estonia,1,0,08.09.2015
+Liechtenstein,Russia,0,7,08.09.2015
+Moldova,Montenegro,0,2,08.09.2015
+Sweden,Austria,1,4,08.09.2015
+Armenia,Denmark,0,0,07.09.2015
+Poland,Gibraltar,8,1,07.09.2015
+Rep. of Ireland,Georgia,1,0,07.09.2015
+Scotland,Germany,2,3,07.09.2015
+Finland,Faroe Islands,1,0,07.09.2015
+North. Ireland,Hungary,1,1,07.09.2015
+Romania,Greece,0,0,07.09.2015
+Albania,Portugal,0,1,07.09.2015
+France,Serbia,2,1,07.09.2015
+Iceland,Kazakhstan,0,0,06.09.2015
+Latvia,Czech Republic,1,2,06.09.2015
+Turkey,Netherlands,3,0,06.09.2015
+Wales,Israel,0,0,06.09.2015
+Malta,Azerbaijan,2,2,06.09.2015
+Norway,Croatia,2,0,06.09.2015
+Bosnia & Herzegovina,Andorra,3,0,06.09.2015
+Cyprus,Belgium,0,1,06.09.2015
+Italy,Bulgaria,1,0,06.09.2015
+Luxembourg,Macedonia,1,0,05.09.2015
+Ukraine,Belarus,3,1,05.09.2015
+Estonia,Lithuania,1,0,05.09.2015
+San Marino,England,0,6,05.09.2015
+Russia,Sweden,1,0,05.09.2015
+Spain,Slovakia,2,0,05.09.2015
+Switzerland,Slovenia,3,2,05.09.2015
+Austria,Moldova,1,0,05.09.2015
+Montenegro,Liechtenstein,2,0,05.09.2015
+Germany,Poland,3,1,04.09.2015
+Georgia,Scotland,1,0,04.09.2015
+Gibraltar,Rep. of Ireland,0,4,04.09.2015
+Faroe Islands,North. Ireland,1,3,04.09.2015
+Greece,Finland,0,1,04.09.2015
+Hungary,Romania,0,0,04.09.2015
+Denmark,Albania,0,0,04.09.2015
+Serbia,Armenia,2,0,04.09.2015
+Portugal,France,0,1,04.09.2015
+Czech Republic,Kazakhstan,2,1,03.09.2015
+Azerbaijan,Croatia,0,0,03.09.2015
+Netherlands,Iceland,0,1,03.09.2015
+Turkey,Latvia,1,1,03.09.2015
+Belgium,Bosnia & Herzegovina,3,1,03.09.2015
+Cyprus,Wales,0,1,03.09.2015
+Israel,Andorra,4,0,03.09.2015
+Bulgaria,Norway,0,1,03.09.2015
+Italy,Malta,1,0,03.09.2015
+Italy,Portugal,0,1,16.06.2015
+Poland,Greece,0,0,16.06.2015
+Slovakia,Macedonia,2,1,14.06.2015
+Ukraine,Luxembourg,3,0,14.06.2015
+Estonia,San Marino,2,0,14.06.2015
+Slovenia,England,2,3,14.06.2015
+Liechtenstein,Moldova,1,1,14.06.2015
+Russia,Austria,0,1,14.06.2015
+Belarus,Spain,0,1,14.06.2015
+Lithuania,Switzerland,1,2,14.06.2015
+Sweden,Montenegro,3,1,14.06.2015
+Gibraltar,Germany,0,7,13.06.2015
+Poland,Georgia,4,0,13.06.2015
+Rep. of Ireland,Scotland,1,1,13.06.2015
+Finland,Hungary,0,1,13.06.2015
+Armenia,Portugal,2,3,13.06.2015
+Albania,France,1,0,13.06.2015
+Faroe Islands,Greece,2,1,13.06.2015
+North. Ireland,Romania,0,0,13.06.2015
+Denmark,Serbia,2,0,13.06.2015
+Kazakhstan,Turkey,0,1,12.06.2015
+Latvia,Netherlands,0,2,12.06.2015
+Iceland,Czech Republic,2,1,12.06.2015
+Andorra,Cyprus,1,3,12.06.2015
+Wales,Belgium,1,0,12.06.2015
+Malta,Bulgaria,0,1,12.06.2015
+Bosnia & Herzegovina,Israel,3,1,12.06.2015
+Croatia,Italy,1,1,12.06.2015
+Norway,Azerbaijan,0,0,12.06.2015
+Spain,Costa Rica,2,1,11.06.2015
+Switzerland,Liechtenstein,3,0,10.06.2015
+Germany,United States,1,2,10.06.2015
+Georgia,Ukraine,1,2,09.06.2015
+Finland,Estonia,0,2,09.06.2015
+Luxembourg,Moldova,0,0,09.06.2015
+Turkey,Bulgaria,4,0,08.06.2015
+Denmark,Montenegro,2,1,08.06.2015
+Norway,Sweden,0,0,08.06.2015
+Malta,Lithuania,2,0,08.06.2015
+Rep. of Ireland,England,0,0,07.06.2015
+Serbia,Azerbaijan,4,1,07.06.2015
+Russia,Belarus,4,2,07.06.2015
+Croatia,Gibraltar,4,0,07.06.2015
+France,Belgium,3,4,07.06.2015
+Andorra,Equatorial Guinea,0,1,06.06.2015
+Hungary,Lithuania,4,0,05.06.2015
+Netherlands,United States,3,4,05.06.2015
+Scotland,Qatar,1,0,05.06.2015
+North. Ireland,Qatar,1,1,31.05.2015
+Kazakhstan,Burkina Faso,0,0,12.05.2015
+Russia,Kazakhstan,0,0,31.03.2015
+Liechtenstein,San Marino,1,0,31.03.2015
+Italy,England,1,1,31.03.2015
+Slovakia,Czech Republic,1,0,31.03.2015
+Ukraine,Latvia,1,1,31.03.2015
+Estonia,Iceland,1,1,31.03.2015
+Switzerland,United States,1,1,31.03.2015
+Sweden,Iran,3,1,31.03.2015
+Luxembourg,Turkey,1,2,31.03.2015
+Austria,Bosnia & Herzegovina,1,1,31.03.2015
+Netherlands,Spain,2,0,31.03.2015
+Portugal,Cape Verde,0,2,31.03.2015
+Israel,Belgium,0,1,31.03.2015
+Qatar,Slovenia,1,0,30.03.2015
+Gabon,Belarus,0,0,30.03.2015
+Macedonia,Australia,0,0,30.03.2015
+Georgia,Germany,0,2,29.03.2015
+Scotland,Gibraltar,6,1,29.03.2015
+North. Ireland,Finland,2,1,29.03.2015
+Romania,Faroe Islands,1,0,29.03.2015
+Albania,Armenia,2,1,29.03.2015
+Rep. of Ireland,Poland,1,1,29.03.2015
+Hungary,Greece,0,0,29.03.2015
+Portugal,Serbia,2,1,29.03.2015
+France,Denmark,2,0,29.03.2015
+Kazakhstan,Iceland,0,3,28.03.2015
+Czech Republic,Latvia,1,1,28.03.2015
+Israel,Wales,0,3,28.03.2015
+Azerbaijan,Malta,2,0,28.03.2015
+Croatia,Norway,5,1,28.03.2015
+Netherlands,Turkey,1,1,28.03.2015
+Andorra,Bosnia & Herzegovina,0,3,28.03.2015
+Belgium,Cyprus,5,0,28.03.2015
+Bulgaria,Italy,2,2,28.03.2015
+Macedonia,Belarus,1,2,27.03.2015
+Slovakia,Luxembourg,3,0,27.03.2015
+Spain,Ukraine,1,0,27.03.2015
+England,Lithuania,4,0,27.03.2015
+Slovenia,San Marino,6,0,27.03.2015
+Switzerland,Estonia,3,0,27.03.2015
+Liechtenstein,Austria,0,5,27.03.2015
+Moldova,Sweden,0,2,27.03.2015
+Montenegro,Russia,0,3,27.03.2015
+France,Brazil,1,3,26.03.2015
+Germany,Australia,2,2,25.03.2015
+Georgia,Malta,2,0,25.03.2015
+Denmark,United States,3,2,25.03.2015
+Scotland,North. Ireland,1,0,25.03.2015
+Kazakhstan,Moldova,1,1,18.02.2015
+Romania*,Moldova,2,1,14.02.2015
+Yemen,Finland,0,0,22.01.2015
+Sweden,Finland,0,1,19.01.2015
+Canada,Iceland,1,1,19.01.2015
+Canada,Iceland,1,2,16.01.2015
+C�te d`Ivoire,Sweden,0,2,15.01.2015
+Qatar,Estonia,3,0,27.12.2014
+Ukraine,Lithuania,0,0,18.11.2014
+Slovakia,Finland,2,1,18.11.2014
+Belarus,Mexico,3,2,18.11.2014
+Greece,Serbia,0,2,18.11.2014
+Slovenia,Colombia,0,1,18.11.2014
+Austria,Brazil,1,2,18.11.2014
+Estonia,Jordan,1,0,18.11.2014
+Romania,Denmark,2,0,18.11.2014
+Hungary,Russia,1,2,18.11.2014
+Poland,Switzerland,2,2,18.11.2014
+Spain,Germany,0,1,18.11.2014
+Argentina,Portugal,0,1,18.11.2014
+Rep. of Ireland,United States,4,1,18.11.2014
+Italy,Albania,1,0,18.11.2014
+Scotland,England,1,3,18.11.2014
+France,Sweden,1,0,18.11.2014
+Czech Republic,Iceland,2,1,16.11.2014
+Netherlands,Latvia,6,0,16.11.2014
+Cyprus,Andorra,5,0,16.11.2014
+Belgium,Wales,0,0,16.11.2014
+Azerbaijan,Norway,0,1,16.11.2014
+Turkey,Kazakhstan,3,1,16.11.2014
+Israel,Bosnia & Herzegovina,3,0,16.11.2014
+Bulgaria,Malta,1,1,16.11.2014
+Italy,Croatia,1,1,16.11.2014
+Luxembourg,Ukraine,0,3,15.11.2014
+England,Slovenia,3,1,15.11.2014
+San Marino,Estonia,0,0,15.11.2014
+Austria,Russia,1,0,15.11.2014
+Moldova,Liechtenstein,0,1,15.11.2014
+Macedonia,Slovakia,0,2,15.11.2014
+Spain,Belarus,3,0,15.11.2014
+Switzerland,Lithuania,4,0,15.11.2014
+Montenegro,Sweden,1,1,15.11.2014
+Georgia,Poland,0,4,14.11.2014
+Germany,Gibraltar,4,0,14.11.2014
+Scotland,Rep. of Ireland,1,0,14.11.2014
+Greece,Faroe Islands,0,1,14.11.2014
+Hungary,Finland,1,0,14.11.2014
+Romania,North. Ireland,2,0,14.11.2014
+Portugal,Armenia,1,0,14.11.2014
+Serbia,Denmark,1,3,14.11.2014
+France,Albania,1,1,14.11.2014
+Norway,Estonia,0,1,12.11.2014
+Turkey,Brazil,0,4,12.11.2014
+Netherlands,Mexico,2,3,12.11.2014
+Belgium,Iceland,3,1,12.11.2014
+Argentina,Croatia,2,1,12.11.2014
+Germany,Rep. of Ireland,1,1,14.10.2014
+Armenia,France,0,3,14.10.2014
+Gibraltar,Georgia,0,3,14.10.2014
+Poland,Scotland,2,2,14.10.2014
+San Marino,Switzerland,0,4,14.10.2014
+Faroe Islands,Hungary,0,1,14.10.2014
+Finland,Romania,0,2,14.10.2014
+Greece,North. Ireland,0,2,14.10.2014
+Denmark,Portugal,0,1,14.10.2014
+Serbia,Albania,0,3,14.10.2014
+Kazakhstan,Czech Republic,2,4,13.10.2014
+Iceland,Netherlands,2,0,13.10.2014
+Latvia,Turkey,1,1,13.10.2014
+Andorra,Israel,1,4,13.10.2014
+Bosnia & Herzegovina,Belgium,1,1,13.10.2014
+Wales,Cyprus,2,1,13.10.2014
+Croatia,Azerbaijan,6,0,13.10.2014
+Malta,Italy,0,1,13.10.2014
+Norway,Bulgaria,2,1,13.10.2014
+Estonia,England,0,1,12.10.2014
+Austria,Montenegro,1,0,12.10.2014
+Russia,Moldova,1,1,12.10.2014
+Ukraine,Macedonia,1,0,12.10.2014
+Belarus,Slovakia,1,3,12.10.2014
+Luxembourg,Spain,0,4,12.10.2014
+Lithuania,Slovenia,0,2,12.10.2014
+Sweden,Liechtenstein,2,0,12.10.2014
+Rep. of Ireland,Gibraltar,7,0,11.10.2014
+Scotland,Georgia,1,0,11.10.2014
+Armenia,Serbia,1,1,11.10.2014
+Romania,Hungary,1,1,11.10.2014
+Poland,Germany,2,0,11.10.2014
+Finland,Greece,1,1,11.10.2014
+North. Ireland,Faroe Islands,2,0,11.10.2014
+Albania,Denmark,1,1,11.10.2014
+France,Portugal,2,1,11.10.2014
+Latvia,Iceland,0,3,10.10.2014
+Netherlands,Kazakhstan,3,1,10.10.2014
+Turkey,Czech Republic,1,2,10.10.2014
+Belgium,Andorra,6,0,10.10.2014
+Cyprus,Israel,1,2,10.10.2014
+Wales,Bosnia & Herzegovina,0,0,10.10.2014
+Bulgaria,Croatia,0,1,10.10.2014
+Italy,Azerbaijan,2,1,10.10.2014
+Malta,Norway,0,3,10.10.2014
+Belarus,Ukraine,0,2,09.10.2014
+Macedonia,Luxembourg,3,2,09.10.2014
+Slovakia,Spain,2,1,09.10.2014
+England,San Marino,5,0,09.10.2014
+Lithuania,Estonia,1,0,09.10.2014
+Slovenia,Switzerland,1,0,09.10.2014
+Liechtenstein,Montenegro,0,0,09.10.2014
+Moldova,Austria,1,2,09.10.2014
+Sweden,Russia,1,1,09.10.2014
+Kazakhstan,Latvia,0,0,09.09.2014
+Azerbaijan,Bulgaria,1,2,09.09.2014
+Czech Republic,Netherlands,2,1,09.09.2014
+Iceland,Turkey,3,0,09.09.2014
+Andorra,Wales,1,2,09.09.2014
+Bosnia & Herzegovina,Cyprus,1,2,09.09.2014
+Croatia,Malta,2,0,09.09.2014
+Norway,Italy,0,2,09.09.2014
+Russia,Liechtenstein,4,0,08.09.2014
+Luxembourg,Belarus,1,1,08.09.2014
+Spain,Macedonia,5,1,08.09.2014
+Ukraine,Slovakia,0,1,08.09.2014
+Estonia,Slovenia,1,0,08.09.2014
+San Marino,Lithuania,0,2,08.09.2014
+Switzerland,England,0,2,08.09.2014
+Austria,Sweden,1,1,08.09.2014
+Montenegro,Moldova,2,0,08.09.2014
+Kosovo,Oman,1,0,07.09.2014
+Georgia,Rep. of Ireland,1,2,07.09.2014
+Hungary,North. Ireland,1,2,07.09.2014
+Denmark,Armenia,2,1,07.09.2014
+Germany,Scotland,2,1,07.09.2014
+Gibraltar,Poland,0,7,07.09.2014
+Faroe Islands,Finland,1,3,07.09.2014
+Greece,Romania,0,1,07.09.2014
+Portugal,Albania,0,1,07.09.2014
+Serbia,France,1,1,07.09.2014
+Kazakhstan,Kyrgyzstan,7,1,05.09.2014
+Bosnia & Herzegovina,Liechtenstein,3,0,04.09.2014
+Belarus,Tadzhikistan,6,1,04.09.2014
+Slovakia,Malta,1,0,04.09.2014
+Sweden,Estonia,2,0,04.09.2014
+Croatia,Cyprus,2,0,04.09.2014
+Belgium,Australia,2,0,04.09.2014
+Italy,Netherlands,2,0,04.09.2014
+France,Spain,1,0,04.09.2014
+Rep. of Ireland,Oman,2,0,03.09.2014
+Russia,Azerbaijan,4,0,03.09.2014
+U.A.E.,Lithuania,1,1,03.09.2014
+Ukraine,Moldova,1,0,03.09.2014
+Latvia,Armenia,2,0,03.09.2014
+Germany,Argentina,2,4,03.09.2014
+Denmark,Turkey,1,2,03.09.2014
+Czech Republic,United States,0,1,03.09.2014
+England,Norway,1,0,03.09.2014
+Norway,U.A.E.,0,0,27.08.2014
+Azerbaijan,Uzbekistan,0,0,20.08.2014
+Kazakhstan,Tadzhikistan,2,1,12.08.2014
+Argentina,Germany,0,1,13.07.2014
+Brazil,Netherlands,0,3,12.07.2014
+Argentina,Netherlands,0,0,09.07.2014
+Brazil,Germany,1,7,08.07.2014
+Argentina,Belgium,1,0,05.07.2014
+Costa Rica,Netherlands,0,0,05.07.2014
+France,Germany,0,1,04.07.2014
+Argentina,Switzerland,1,0,01.07.2014
+United States,Belgium,1,2,01.07.2014
+Nigeria,France,0,2,30.06.2014
+Algeria,Germany,1,2,30.06.2014
+Costa Rica,Greece,1,1,29.06.2014
+Mexico,Netherlands,1,2,29.06.2014
+Ghana,Portugal,1,2,26.06.2014
+United States,Germany,0,1,26.06.2014
+South Korea,Belgium,0,1,26.06.2014
+Algeria,Russia,1,1,26.06.2014
+Iran,Bosnia & Herzegovina,1,3,25.06.2014
+Honduras,Switzerland,0,3,25.06.2014
+Ecuador,France,0,0,25.06.2014
+Costa Rica,England,0,0,24.06.2014
+Uruguay,Italy,1,0,24.06.2014
+C�te d`Ivoire,Greece,1,2,24.06.2014
+Australia,Spain,0,3,23.06.2014
+Chile,Netherlands,0,2,23.06.2014
+Mexico,Croatia,3,1,23.06.2014
+Belgium,Russia,1,0,22.06.2014
+China,Macedonia,0,0,22.06.2014
+United States,Portugal,2,2,22.06.2014
+Ghana,Germany,2,2,21.06.2014
+Nigeria,Bosnia & Herzegovina,1,0,21.06.2014
+Costa Rica,Italy,1,0,20.06.2014
+France,Switzerland,5,2,20.06.2014
+Uruguay,England,2,1,19.06.2014
+Japan,Greece,0,0,19.06.2014
+Australia,Netherlands,2,3,18.06.2014
+Chile,Spain,2,0,18.06.2014
+China,Macedonia,2,0,18.06.2014
+Cameroon,Croatia,0,4,18.06.2014
+South Korea,Russia,1,1,17.06.2014
+Algeria,Belgium,1,2,17.06.2014
+Germany,Portugal,4,0,16.06.2014
+Honduras,France,0,3,15.06.2014
+Ecuador,Switzerland,1,2,15.06.2014
+Argentina,Bosnia & Herzegovina,2,1,15.06.2014
+Colombia,Greece,3,0,14.06.2014
+England,Italy,1,2,14.06.2014
+Spain,Netherlands,1,5,13.06.2014
+Brazil,Croatia,3,1,12.06.2014
+Rep. of Ireland,Portugal,1,5,10.06.2014
+San Marino,Albania,0,3,08.06.2014
+France,Jamaica,8,0,08.06.2014
+England,Honduras,0,0,07.06.2014
+Hungary,Kazakhstan,3,0,07.06.2014
+Belgium,Tunisia,1,0,07.06.2014
+Estonia,Tadzhikistan,2,1,07.06.2014
+Argentina,Slovenia,2,0,07.06.2014
+Salvador,Spain,0,2,07.06.2014
+Cameroon,Moldova,1,0,07.06.2014
+Germany,Armenia,6,1,06.06.2014
+Brazil,Serbia,1,0,06.06.2014
+Russia,Morocco,2,0,06.06.2014
+Poland,Lithuania,2,1,06.06.2014
+Croatia,Australia,1,0,06.06.2014
+Bolivia,Greece,1,2,06.06.2014
+Mexico,Portugal,0,1,06.06.2014
+Costa Rica,Rep. of Ireland,1,1,06.06.2014
+Gibraltar,Malta,1,0,04.06.2014
+Hungary,Albania,1,0,04.06.2014
+Algeria,Romania,2,1,04.06.2014
+Netherlands,Wales,2,0,04.06.2014
+Italy,Luxembourg,1,1,04.06.2014
+Ecuador,England,2,2,04.06.2014
+Iceland,Estonia,1,0,04.06.2014
+Uruguay,Slovenia,2,0,04.06.2014
+Chile,North. Ireland,2,0,04.06.2014
+U.A.E.,Georgia,1,0,03.06.2014
+Czech Republic,Austria,1,2,03.06.2014
+Switzerland,Peru,2,0,03.06.2014
+Nigeria,Greece,0,0,03.06.2014
+Mexico,Bosnia & Herzegovina,0,1,03.06.2014
+France,Paraguay,1,1,01.06.2014
+Germany,Cameroon,2,2,01.06.2014
+United States,Turkey,2,1,01.06.2014
+Sweden,Belgium,0,2,01.06.2014
+Honduras,Israel,2,4,01.06.2014
+Norway,Russia,1,1,31.05.2014
+Finland,Estonia,2,0,31.05.2014
+Italy,Rep. of Ireland,0,0,31.05.2014
+Croatia,Mali,2,1,31.05.2014
+Algeria,Armenia,3,1,31.05.2014
+Albania,Romania,0,1,31.05.2014
+Latvia,Lithuania,1,0,31.05.2014
+Portugal,Greece,0,0,31.05.2014
+Netherlands,Ghana,1,0,31.05.2014
+Panama,Serbia,1,1,31.05.2014
+Qatar,Macedonia,0,0,30.05.2014
+Austria,Iceland,1,1,30.05.2014
+Switzerland,Jamaica,1,0,30.05.2014
+England,Peru,3,0,30.05.2014
+Spain,Bolivia,2,0,30.05.2014
+Uruguay,North. Ireland,1,0,30.05.2014
+C�te d`Ivoire,Bosnia & Herzegovina,1,2,30.05.2014
+Saudi Arabia,Georgia,0,2,29.05.2014
+Honduras,Turkey,0,2,29.05.2014
+Latvia,Estonia,0,0,29.05.2014
+Lithuania,Finland,1,0,29.05.2014
+Denmark,Sweden,1,0,28.05.2014
+Mexico,Israel,3,0,28.05.2014
+Scotland,Nigeria,2,2,28.05.2014
+France,Norway,4,0,27.05.2014
+Japan,Cyprus,1,0,27.05.2014
+Canada,Moldova,1,1,27.05.2014
+U.A.E.,Armenia,3,4,27.05.2014
+United States,Azerbaijan,2,0,27.05.2014
+Jamaica,Serbia,1,2,26.05.2014
+Russia,Slovakia,1,0,26.05.2014
+Belgium,Luxembourg,5,1,26.05.2014
+Iran,Montenegro,0,0,26.05.2014
+Estonia,Gibraltar,1,1,26.05.2014
+Cameroon,Macedonia,2,0,26.05.2014
+Senegal,Kosovo,3,1,25.05.2014
+Rep. of Ireland,Turkey,1,2,25.05.2014
+Saudi Arabia,Moldova,0,4,24.05.2014
+Canada,Bulgaria,1,1,23.05.2014
+Slovakia,Montenegro,2,0,23.05.2014
+Ukraine,Niger,2,1,22.05.2014
+Hungary,Denmark,2,2,22.05.2014
+Liechtenstein,Belarus,1,5,21.05.2014
+Finland,Czech Republic,2,2,21.05.2014
+Kosovo,Turkey*,1,6,21.05.2014
+Iran,Belarus,0,0,18.05.2014
+Netherlands,Ecuador,1,1,17.05.2014
+Germany,Poland,0,0,13.05.2014
+Indonesia,Andorra,1,0,26.03.2014
+Greece,South Korea,0,2,05.03.2014
+Georgia,Liechtenstein,2,0,05.03.2014
+Russia,Armenia,2,0,05.03.2014
+Kazakhstan,Lithuania,1,1,05.03.2014
+Philippines,Azerbaijan,0,1,05.03.2014
+Bulgaria,Belarus,2,1,05.03.2014
+Algeria,Slovenia,2,0,05.03.2014
+Hungary,Finland,1,2,05.03.2014
+Montenegro,Ghana,1,0,05.03.2014
+Kosovo,Haiti,0,0,05.03.2014
+Albania,Malta,2,0,05.03.2014
+Czech Republic,Norway,2,2,05.03.2014
+Israel,Slovakia,1,3,05.03.2014
+Luxembourg,Cape Verde,0,0,05.03.2014
+Egypt,Bosnia & Herzegovina,2,0,05.03.2014
+Andorra,Moldova,0,3,05.03.2014
+Macedonia,Latvia,2,1,05.03.2014
+Cyprus,North. Ireland,0,0,05.03.2014
+Turkey,Sweden,2,1,05.03.2014
+Romania,Argentina,0,0,05.03.2014
+Ukraine,United States,2,0,05.03.2014
+Germany,Chile,1,0,05.03.2014
+Rep. of Ireland,Serbia,1,2,05.03.2014
+Gibraltar,Estonia,0,2,05.03.2014
+Austria,Uruguay,1,1,05.03.2014
+Poland,Scotland,0,1,05.03.2014
+Switzerland,Croatia,2,2,05.03.2014
+Belgium,C�te d`Ivoire,2,2,05.03.2014
+Wales,Iceland,3,1,05.03.2014
+France,Netherlands,2,0,05.03.2014
+England,Denmark,1,0,05.03.2014
+Spain,Italy,1,0,05.03.2014
+Portugal,Cameroon,5,1,05.03.2014
+Gibraltar,Faroe Islands,1,4,01.03.2014
+Oman,Finland,0,0,24.01.2014
+Iceland,Sweden,0,2,21.01.2014
+Moldova,Poland,0,1,20.01.2014
+Norway,Poland,0,3,18.01.2014
+Moldova,Sweden,1,2,17.01.2014
+Moldova,Norway,1,2,15.01.2014
+Liechtenstein,Estonia,0,3,19.11.2013
+Russia,South Korea,2,1,19.11.2013
+Kyrgyzstan,Azerbaijan,0,0,19.11.2013
+Slovenia,Canada,1,0,19.11.2013
+Norway,Scotland,0,1,19.11.2013
+Malta,Faroe Islands,3,2,19.11.2013
+Turkey,Belarus,2,1,19.11.2013
+Gibraltar,Slovakia,0,0,19.11.2013
+Romania,Greece,1,1,19.11.2013
+Croatia,Iceland,2,0,19.11.2013
+Netherlands,Colombia,0,0,19.11.2013
+Sweden,Portugal,2,3,19.11.2013
+Austria,United States,1,0,19.11.2013
+Poland,Rep. of Ireland,0,0,19.11.2013
+France,Ukraine,3,0,19.11.2013
+England,Germany,0,1,19.11.2013
+Belgium,Japan,2,3,19.11.2013
+South Africa,Spain,1,0,19.11.2013
+Moldova,Lithuania,1,1,18.11.2013
+Nigeria,Italy,2,2,18.11.2013
+Argentina,Bosnia & Herzegovina,2,0,18.11.2013
+Luxembourg,Montenegro,1,4,17.11.2013
+Japan,Netherlands,2,2,16.11.2013
+Wales,Finland,1,1,16.11.2013
+Equatorial Guinea,Spain,1,2,16.11.2013
+South Korea,Switzerland,2,1,15.11.2013
+Czech Republic,Canada,2,0,15.11.2013
+Albania,Belarus,0,0,15.11.2013
+Russia,Serbia,1,1,15.11.2013
+Estonia,Azerbaijan,2,1,15.11.2013
+Denmark,Norway,2,1,15.11.2013
+Iceland,Croatia,0,0,15.11.2013
+Turkey,North. Ireland,1,0,15.11.2013
+Portugal,Sweden,1,0,15.11.2013
+Poland,Slovakia,0,2,15.11.2013
+Rep. of Ireland,Latvia,3,0,15.11.2013
+Italy,Germany,1,1,15.11.2013
+Ukraine,France,2,0,15.11.2013
+Greece,Romania,3,1,15.11.2013
+Scotland,United States,0,0,15.11.2013
+England,Chile,0,2,15.11.2013
+Belgium,Colombia,0,2,14.11.2013
+Belarus,Japan,1,0,15.10.2013
+Cyprus,Albania,0,0,15.10.2013
+Israel,North. Ireland,1,1,15.10.2013
+Portugal,Luxembourg,3,0,15.10.2013
+Azerbaijan,Russia,1,1,15.10.2013
+Lithuania,Bosnia & Herzegovina,0,1,15.10.2013
+Greece,Liechtenstein,2,0,15.10.2013
+Switzerland,Slovenia,1,0,15.10.2013
+Norway,Iceland,1,1,15.10.2013
+Turkey,Netherlands,0,2,15.10.2013
+Hungary,Andorra,2,0,15.10.2013
+Romania,Estonia,2,0,15.10.2013
+Denmark,Malta,6,0,15.10.2013
+Bulgaria,Czech Republic,0,1,15.10.2013
+Latvia,Slovakia,2,2,15.10.2013
+Serbia,Macedonia,5,1,15.10.2013
+Italy,Armenia,2,2,15.10.2013
+Sweden,Germany,3,5,15.10.2013
+Rep. of Ireland,Kazakhstan,3,1,15.10.2013
+Faroe Islands,Austria,0,3,15.10.2013
+Belgium,Wales,1,1,15.10.2013
+Scotland,Croatia,2,0,15.10.2013
+Montenegro,Moldova,2,5,15.10.2013
+San Marino,Ukraine,0,8,15.10.2013
+England,Poland,2,0,15.10.2013
+Spain,Georgia,2,0,15.10.2013
+France,Finland,3,0,15.10.2013
+Armenia,Bulgaria,2,1,11.10.2013
+Lithuania,Latvia,2,0,11.10.2013
+Croatia,Belgium,1,2,11.10.2013
+Azerbaijan,North. Ireland,2,0,11.10.2013
+Moldova,San Marino,3,0,11.10.2013
+Faroe Islands,Kazakhstan,1,1,11.10.2013
+Serbia,Japan,2,0,11.10.2013
+Malta,Czech Republic,1,4,11.10.2013
+Ukraine,Poland,1,0,11.10.2013
+Denmark,Italy,2,2,11.10.2013
+Albania,Switzerland,1,2,11.10.2013
+Luxembourg,Russia,0,4,11.10.2013
+Netherlands,Hungary,8,1,11.10.2013
+Estonia,Turkey,0,2,11.10.2013
+Andorra,Romania,0,4,11.10.2013
+Wales,Macedonia,1,0,11.10.2013
+Slovenia,Norway,3,0,11.10.2013
+Iceland,Cyprus,2,0,11.10.2013
+Greece,Slovakia,1,0,11.10.2013
+Germany,Rep. of Ireland,3,0,11.10.2013
+Sweden,Austria,2,1,11.10.2013
+England,Montenegro,4,1,11.10.2013
+France,Australia,6,0,11.10.2013
+Bosnia & Herzegovina,Liechtenstein,4,1,11.10.2013
+Portugal,Israel,1,1,11.10.2013
+Spain,Belarus,2,1,11.10.2013
+Russia,Israel,3,1,10.09.2013
+Lithuania,Liechtenstein,2,0,10.09.2013
+Armenia,Denmark,0,1,10.09.2013
+Kazakhstan,Sweden,0,1,10.09.2013
+Norway,Switzerland,0,2,10.09.2013
+Georgia,Finland,0,1,10.09.2013
+Malta,Bulgaria,1,2,10.09.2013
+Romania,Turkey,0,2,10.09.2013
+Luxembourg,North. Ireland,3,2,10.09.2013
+Slovakia,Bosnia & Herzegovina,1,2,10.09.2013
+Hungary,Estonia,5,1,10.09.2013
+Andorra,Netherlands,0,2,10.09.2013
+Wales,Serbia,0,3,10.09.2013
+Macedonia,Scotland,1,2,10.09.2013
+Italy,Czech Republic,2,1,10.09.2013
+Cyprus,Slovenia,0,2,10.09.2013
+Greece,Latvia,1,0,10.09.2013
+San Marino,Poland,1,5,10.09.2013
+Ukraine,England,0,0,10.09.2013
+Austria,Rep. of Ireland,1,0,10.09.2013
+Faroe Islands,Germany,0,3,10.09.2013
+Iceland,Albania,2,1,10.09.2013
+Belarus,France,2,4,10.09.2013
+Chile,Spain,2,2,10.09.2013
+Brazil,Portugal,3,1,10.09.2013
+South Korea,Croatia,1,2,10.09.2013
+Israel,Azerbaijan,1,1,07.09.2013
+Kazakhstan,Faroe Islands,2,1,06.09.2013
+Russia,Luxembourg,4,1,06.09.2013
+Czech Republic,Armenia,1,2,06.09.2013
+Belarus,Kyrgyzstan,3,1,06.09.2013
+Macedonia,Wales,2,1,06.09.2013
+Norway,Cyprus,2,0,06.09.2013
+Malta,Denmark,1,2,06.09.2013
+Ukraine,San Marino,9,0,06.09.2013
+Romania,Hungary,3,0,06.09.2013
+Turkey,Andorra,5,0,06.09.2013
+Bosnia & Herzegovina,Slovakia,0,1,06.09.2013
+Latvia,Lithuania,2,1,06.09.2013
+Georgia,France,0,0,06.09.2013
+Switzerland,Iceland,4,4,06.09.2013
+Slovenia,Albania,1,0,06.09.2013
+Finland,Spain,0,2,06.09.2013
+Estonia,Netherlands,2,2,06.09.2013
+Serbia,Croatia,1,1,06.09.2013
+Italy,Bulgaria,1,0,06.09.2013
+North. Ireland,Portugal,2,4,06.09.2013
+Liechtenstein,Greece,0,1,06.09.2013
+Poland,Montenegro,1,1,06.09.2013
+Germany,Austria,3,0,06.09.2013
+Rep. of Ireland,Sweden,1,2,06.09.2013
+Scotland,Belgium,0,2,06.09.2013
+England,Moldova,4,0,06.09.2013
+Kazakhstan,Georgia,1,0,14.08.2013
+Belarus,Montenegro,1,1,14.08.2013
+Estonia,Latvia,1,1,14.08.2013
+Finland,Slovenia,2,0,14.08.2013
+Azerbaijan,Malta,3,0,14.08.2013
+Moldova,Andorra,1,1,14.08.2013
+Luxembourg,Lithuania,2,1,14.08.2013
+Sweden,Norway,4,2,14.08.2013
+Romania,Slovakia,1,1,14.08.2013
+Ukraine,Israel,2,0,14.08.2013
+Colombia,Serbia,1,0,14.08.2013
+Turkey,Ghana,2,2,14.08.2013
+Hungary,Czech Republic,1,1,14.08.2013
+Austria,Greece,0,2,14.08.2013
+Liechtenstein,Croatia,2,3,14.08.2013
+North. Ireland,Russia,1,0,14.08.2013
+Bosnia & Herzegovina,United States,3,4,14.08.2013
+Belgium,France,0,0,14.08.2013
+England,Scotland,3,2,14.08.2013
+Poland,Denmark,3,2,14.08.2013
+Switzerland,Brazil,1,0,14.08.2013
+Germany,Paraguay,3,3,14.08.2013
+Wales,Rep. of Ireland,0,0,14.08.2013
+Macedonia,Bulgaria,2,0,14.08.2013
+Albania,Armenia,2,0,14.08.2013
+Italy,Argentina,1,2,14.08.2013
+Ecuador,Spain,0,2,14.08.2013
+Iceland,Faroe Islands,1,0,14.08.2013
+Portugal,Netherlands,1,1,14.08.2013
+Uruguay,Italy,2,2,30.06.2013
+Brazil,Spain,3,0,30.06.2013
+Italy,Spain,0,0,27.06.2013
+Nigeria,Spain,0,3,23.06.2013
+Brazil,Italy,4,2,22.06.2013
+Tahiti,Spain,0,10,20.06.2013
+Japan,Italy,3,4,19.06.2013
+Mexico,Italy,1,2,16.06.2013
+Uruguay,Spain,1,2,16.06.2013
+Moldova,Kyrgyzstan,2,1,14.06.2013
+China,Netherlands,0,2,11.06.2013
+Norway,Macedonia,2,0,11.06.2013
+Belarus,Finland,1,1,11.06.2013
+Sweden,Faroe Islands,2,0,11.06.2013
+Estonia,Kyrgyzstan,1,1,11.06.2013
+Denmark,Armenia,0,4,11.06.2013
+Haiti,Italy,2,2,11.06.2013
+Spain,Rep. of Ireland,2,0,11.06.2013
+Croatia,Portugal,0,1,10.06.2013
+Brazil,France,3,0,09.06.2013
+Switzerland,Cyprus,1,0,08.06.2013
+Haiti,Spain,1,2,08.06.2013
+Indonesia,Netherlands,0,3,07.06.2013
+Azerbaijan,Luxembourg,1,1,07.06.2013
+Armenia,Malta,0,1,07.06.2013
+Finland,Belarus,1,0,07.06.2013
+Latvia,Bosnia & Herzegovina,0,5,07.06.2013
+Estonia,Trinidad & Tobago,1,0,07.06.2013
+Liechtenstein,Slovakia,1,1,07.06.2013
+Moldova,Poland,1,1,07.06.2013
+Croatia,Scotland,0,1,07.06.2013
+Albania,Norway,1,1,07.06.2013
+Montenegro,Ukraine,0,4,07.06.2013
+Czech Republic,Italy,0,0,07.06.2013
+Rep. of Ireland,Faroe Islands,3,0,07.06.2013
+Belgium,Serbia,2,1,07.06.2013
+Austria,Sweden,2,1,07.06.2013
+Iceland,Slovenia,2,4,07.06.2013
+Lithuania,Greece,0,1,07.06.2013
+Portugal,Russia,1,0,07.06.2013
+Hungary,Kuwait,1,0,06.06.2013
+Denmark,Georgia,2,1,05.06.2013
+Uruguay,France,1,0,05.06.2013
+Kazakhstan,Bulgaria,1,2,04.06.2013
+Romania,Trinidad & Tobago,4,0,04.06.2013
+Poland,Liechtenstein,2,0,04.06.2013
+Estonia,Belarus,0,2,03.06.2013
+Sweden,Macedonia,1,0,03.06.2013
+Rep. of Ireland,Georgia,4,0,02.06.2013
+Ukraine,Cameroon,0,0,02.06.2013
+United States,Germany,4,3,02.06.2013
+Brazil,England,2,2,02.06.2013
+Honduras,Israel,0,2,02.06.2013
+Slovenia,Turkey,2,0,31.05.2013
+Italy,San Marino,4,0,31.05.2013
+Japan,Bulgaria,0,2,30.05.2013
+Qatar,Azerbaijan,1,1,29.05.2013
+Ecuador,Germany,2,4,29.05.2013
+England,Rep. of Ireland,1,1,29.05.2013
+United States,Belgium,2,4,29.05.2013
+Latvia,Turkey,3,3,28.05.2013
+Qatar,Latvia,3,1,24.05.2013
+Armenia,Czech Republic,0,3,26.03.2013
+Azerbaijan,Portugal,0,2,26.03.2013
+Estonia,Andorra,2,0,26.03.2013
+Turkey,Hungary,1,1,26.03.2013
+Luxembourg,Finland,0,3,26.03.2013
+Ukraine,Moldova,2,1,26.03.2013
+Albania,Lithuania,4,1,26.03.2013
+Serbia,Scotland,2,0,26.03.2013
+Netherlands,Romania,4,0,26.03.2013
+Denmark,Bulgaria,1,1,26.03.2013
+Slovakia,Sweden,0,0,26.03.2013
+Montenegro,England,1,1,26.03.2013
+France,Spain,0,1,26.03.2013
+Rep. of Ireland,Austria,2,2,26.03.2013
+Poland,San Marino,5,0,26.03.2013
+Belgium,Macedonia,1,0,26.03.2013
+Wales,Croatia,1,2,26.03.2013
+North. Ireland,Israel,0,2,26.03.2013
+Malta,Italy,0,2,26.03.2013
+Germany,Kazakhstan,4,1,26.03.2013
+Brazil,Russia,1,1,25.03.2013
+Canada,Belarus,0,2,25.03.2013
+Cyprus,Switzerland,0,0,23.03.2013
+Israel,Portugal,3,3,22.03.2013
+Bulgaria,Malta,6,0,22.03.2013
+Slovenia,Iceland,1,2,22.03.2013
+Croatia,Serbia,2,0,22.03.2013
+Kazakhstan,Germany,0,3,22.03.2013
+Norway,Albania,0,1,22.03.2013
+Liechtenstein,Latvia,1,1,22.03.2013
+Andorra,Turkey,0,2,22.03.2013
+Slovakia,Lithuania,1,1,22.03.2013
+Luxembourg,Azerbaijan,0,0,22.03.2013
+Austria,Faroe Islands,6,0,22.03.2013
+Moldova,Montenegro,0,1,22.03.2013
+Czech Republic,Denmark,0,3,22.03.2013
+Netherlands,Estonia,3,0,22.03.2013
+Hungary,Romania,2,2,22.03.2013
+Spain,Finland,1,1,22.03.2013
+Sweden,Rep. of Ireland,0,0,22.03.2013
+Bosnia & Herzegovina,Greece,3,1,22.03.2013
+Poland,Ukraine,1,3,22.03.2013
+Macedonia,Belgium,0,2,22.03.2013
+San Marino,England,0,8,22.03.2013
+France,Georgia,3,1,22.03.2013
+Scotland,Wales,1,2,22.03.2013
+Jordan,Belarus,1,0,21.03.2013
+Brazil,Italy,2,2,21.03.2013
+Thailand*,Faroe Islands,2,0,21.02.2013
+Japan,Latvia,3,0,06.02.2013
+South Korea,Croatia,0,4,06.02.2013
+Azerbaijan,Liechtenstein,1,0,06.02.2013
+Kazakhstan,Moldova,3,1,06.02.2013
+Cyprus,Serbia,1,3,06.02.2013
+Hungary,Belarus,1,1,06.02.2013
+Slovenia,Bosnia & Herzegovina,0,3,06.02.2013
+Norway,Ukraine,0,2,06.02.2013
+Israel,Finland,2,1,06.02.2013
+Albania,Georgia,1,2,06.02.2013
+Uruguay,Spain,1,3,06.02.2013
+Turkey,Czech Republic,0,2,06.02.2013
+Macedonia,Denmark,3,0,06.02.2013
+Malta,North. Ireland,0,0,06.02.2013
+England,Brazil,2,1,06.02.2013
+Netherlands,Italy,1,1,06.02.2013
+Greece,Switzerland,0,0,06.02.2013
+Sweden,Argentina,2,3,06.02.2013
+Iceland,Russia,0,2,06.02.2013
+Belgium,Slovakia,2,1,06.02.2013
+Wales,Austria,2,1,06.02.2013
+Scotland,Estonia,1,0,06.02.2013
+Rep. of Ireland,Poland,2,0,06.02.2013
+Australia,Romania,2,3,06.02.2013
+France,Germany,1,2,06.02.2013
+Portugal,Ecuador,2,3,06.02.2013
+Armenia,Luxembourg,1,1,05.02.2013
+Poland,Romania*,4,1,02.02.2013
+Uzbekistan,Azerbaijan,0,0,01.02.2013
+Finland,Sweden,0,3,26.01.2013
+North Korea,Sweden,1,1,23.01.2013
+Thailand,Finland,1,3,23.01.2013
+Zambia,Norway,0,0,12.01.2013
+South Africa,Norway,0,1,08.01.2013
+Macedonia,Poland,1,4,14.12.2012
+Georgia,Egypt,0,0,14.11.2012
+Russia,United States,2,2,14.11.2012
+Armenia,Lithuania,4,2,14.11.2012
+Romania,Belgium,2,1,14.11.2012
+Bulgaria,Ukraine,0,1,14.11.2012
+U.A.E.,Estonia,2,1,14.11.2012
+Montenegro,San Marino,3,0,14.11.2012
+Czech Republic,Slovakia,3,0,14.11.2012
+Cyprus,Finland,0,3,14.11.2012
+Algeria,Bosnia & Herzegovina,0,1,14.11.2012
+Macedonia,Slovenia,3,2,14.11.2012
+Liechtenstein,Malta,0,1,14.11.2012
+Andorra,Iceland,0,2,14.11.2012
+Tunisia,Switzerland,1,2,14.11.2012
+Israel,Belarus,1,2,14.11.2012
+Chile,Serbia,1,3,14.11.2012
+Turkey,Denmark,1,1,14.11.2012
+Luxembourg,Scotland,1,2,14.11.2012
+Sweden,England,4,2,14.11.2012
+North. Ireland,Azerbaijan,1,1,14.11.2012
+Netherlands,Germany,0,0,14.11.2012
+Italy,France,1,2,14.11.2012
+Hungary,Norway,0,2,14.11.2012
+Austria,C�te d`Ivoire,0,3,14.11.2012
+Gabon,Portugal,2,2,14.11.2012
+Albania,Cameroon,0,0,14.11.2012
+Rep. of Ireland,Greece,0,1,14.11.2012
+Poland,Uruguay,1,3,14.11.2012
+Panama,Spain,1,5,14.11.2012
+Oman,Estonia,1,2,08.11.2012
+Poland,England,1,1,17.10.2012
+Russia,Azerbaijan,1,0,16.10.2012
+Israel,Luxembourg,3,0,16.10.2012
+Belarus,Georgia,2,0,16.10.2012
+Andorra,Estonia,0,1,16.10.2012
+Latvia,Liechtenstein,2,0,16.10.2012
+Cyprus,Norway,1,3,16.10.2012
+Croatia,Wales,2,0,16.10.2012
+Czech Republic,Bulgaria,0,0,16.10.2012
+Faroe Islands,Rep. of Ireland,1,4,16.10.2012
+Romania,Netherlands,1,4,16.10.2012
+Bosnia & Herzegovina,Lithuania,3,0,16.10.2012
+Ukraine,Montenegro,0,1,16.10.2012
+Iceland,Switzerland,0,2,16.10.2012
+Macedonia,Serbia,1,0,16.10.2012
+Austria,Kazakhstan,4,0,16.10.2012
+Hungary,Turkey,3,1,16.10.2012
+Slovakia,Greece,0,1,16.10.2012
+San Marino,Moldova,0,2,16.10.2012
+Belgium,Scotland,2,0,16.10.2012
+Albania,Slovenia,1,0,16.10.2012
+Italy,Denmark,3,1,16.10.2012
+Germany,Sweden,4,4,16.10.2012
+Spain,France,1,1,16.10.2012
+Portugal,North. Ireland,1,1,16.10.2012
+Russia,Portugal,1,0,12.10.2012
+Finland,Georgia,1,1,12.10.2012
+Czech Republic,Malta,3,1,12.10.2012
+Kazakhstan,Austria,0,0,12.10.2012
+Faroe Islands,Sweden,1,2,12.10.2012
+Albania,Iceland,1,2,12.10.2012
+Armenia,Italy,1,3,12.10.2012
+Turkey,Romania,0,1,12.10.2012
+Liechtenstein,Lithuania,0,2,12.10.2012
+Moldova,Ukraine,0,0,12.10.2012
+Belarus,Spain,0,4,12.10.2012
+Serbia,Belgium,0,3,12.10.2012
+Switzerland,Norway,1,1,12.10.2012
+Macedonia,Croatia,1,2,12.10.2012
+Bulgaria,Denmark,1,1,12.10.2012
+Estonia,Hungary,0,1,12.10.2012
+Netherlands,Andorra,3,0,12.10.2012
+Slovakia,Latvia,2,1,12.10.2012
+Poland,South Africa,1,0,12.10.2012
+Slovenia,Cyprus,2,1,12.10.2012
+Rep. of Ireland,Germany,1,6,12.10.2012
+Greece,Bosnia & Herzegovina,0,0,12.10.2012
+England,San Marino,5,0,12.10.2012
+Wales,Scotland,2,1,12.10.2012
+Luxembourg,Israel,0,6,12.10.2012
+France,Japan,0,1,12.10.2012
+Czech Republic,Finland,0,1,11.09.2012
+Norway,Slovenia,2,1,11.09.2012
+Cyprus,Iceland,1,0,11.09.2012
+Israel,Russia,0,4,11.09.2012
+Bosnia & Herzegovina,Latvia,4,1,11.09.2012
+Romania,Andorra,4,0,11.09.2012
+Bulgaria,Armenia,1,0,11.09.2012
+Turkey,Estonia,3,0,11.09.2012
+Georgia,Spain,0,1,11.09.2012
+Sweden,Kazakhstan,2,0,11.09.2012
+North. Ireland,Luxembourg,1,1,11.09.2012
+Scotland,Macedonia,1,1,11.09.2012
+England,Ukraine,1,1,11.09.2012
+Slovakia,Liechtenstein,2,0,11.09.2012
+Serbia,Wales,6,1,11.09.2012
+Greece,Lithuania,2,0,11.09.2012
+San Marino,Montenegro,0,6,11.09.2012
+Austria,Germany,1,2,11.09.2012
+Hungary,Netherlands,1,4,11.09.2012
+Belgium,Croatia,1,1,11.09.2012
+Italy,Malta,2,0,11.09.2012
+Poland,Moldova,2,0,11.09.2012
+France,Belarus,3,1,11.09.2012
+Switzerland,Albania,2,0,11.09.2012
+Portugal,Azerbaijan,3,0,11.09.2012
+Oman,Rep. of Ireland,1,4,11.09.2012
+Scotland,Serbia,0,0,08.09.2012
+Denmark,Czech Republic,0,0,08.09.2012
+Netherlands,Turkey,2,0,07.09.2012
+Iceland,Norway,2,0,07.09.2012
+Russia,North. Ireland,2,0,07.09.2012
+Liechtenstein,Bosnia & Herzegovina,1,8,07.09.2012
+Wales,Belgium,0,2,07.09.2012
+Malta,Armenia,0,1,07.09.2012
+Croatia,Macedonia,1,0,07.09.2012
+Slovenia,Switzerland,0,2,07.09.2012
+Albania,Cyprus,3,1,07.09.2012
+Montenegro,Poland,2,2,07.09.2012
+Kazakhstan,Rep. of Ireland,1,2,07.09.2012
+Andorra,Hungary,0,5,07.09.2012
+Luxembourg,Portugal,1,2,07.09.2012
+Germany,Faroe Islands,3,0,07.09.2012
+Azerbaijan,Israel,1,1,07.09.2012
+Georgia,Belarus,1,0,07.09.2012
+Estonia,Romania,0,2,07.09.2012
+Lithuania,Slovakia,1,1,07.09.2012
+Latvia,Greece,1,2,07.09.2012
+Finland,France,0,1,07.09.2012
+Bulgaria,Italy,2,2,07.09.2012
+Moldova,England,0,5,07.09.2012
+Spain,Saudi Arabia,5,0,07.09.2012
+Sweden,China,1,0,06.09.2012
+Armenia,Belarus,1,2,15.08.2012
+Azerbaijan,Bahrain,3,0,15.08.2012
+Russia,C�te d`Ivoire,1,1,15.08.2012
+Sweden,Brazil,0,3,15.08.2012
+Ukraine,Czech Republic,0,0,15.08.2012
+Norway,Greece,2,3,15.08.2012
+Luxembourg,Georgia,1,2,15.08.2012
+Bulgaria,Cyprus,1,0,15.08.2012
+Germany,Argentina,1,3,15.08.2012
+Estonia,Poland,1,0,15.08.2012
+Belgium,Netherlands,4,2,15.08.2012
+Montenegro,Latvia,2,0,15.08.2012
+North. Ireland,Finland,3,3,15.08.2012
+France,Uruguay,0,0,15.08.2012
+Denmark,Slovakia,1,3,15.08.2012
+Croatia,Switzerland,2,4,15.08.2012
+Hungary,Israel,1,1,15.08.2012
+Wales,Bosnia & Herzegovina,0,2,15.08.2012
+Scotland,Australia,3,1,15.08.2012
+Puerto Rico,Spain,1,2,15.08.2012
+Macedonia,Lithuania,1,0,15.08.2012
+Albania,Moldova,0,0,15.08.2012
+Iceland,Faroe Islands,2,0,15.08.2012
+Slovenia,Romania,4,3,15.08.2012
+Austria,Turkey,2,0,15.08.2012
+England,Italy,2,1,15.08.2012
+Serbia,Rep. of Ireland,0,0,15.08.2012
+Portugal,Panama,2,0,15.08.2012
+Liechtenstein,Andorra,1,0,14.08.2012
+San Marino,Malta,2,3,14.08.2012
+Italy,Spain,0,4,01.07.2012
+Germany,Italy,1,2,28.06.2012
+Portugal,Spain,0,0,27.06.2012
+England,Italy,0,0,24.06.2012
+France,Spain,0,2,23.06.2012
+Germany,Greece,4,2,22.06.2012
+Czech Republic,Portugal,0,1,21.06.2012
+Ukraine,England,0,1,19.06.2012
+France,Sweden,0,2,19.06.2012
+Croatia,Spain,0,1,18.06.2012
+Italy,Rep. of Ireland,2,0,18.06.2012
+Denmark,Germany,1,2,17.06.2012
+Netherlands,Portugal,1,2,17.06.2012
+Poland,Czech Republic,0,1,16.06.2012
+Greece,Russia,1,0,16.06.2012
+England,Sweden,3,2,15.06.2012
+Ukraine,France,0,2,15.06.2012
+Rep. of Ireland,Spain,0,4,14.06.2012
+Croatia,Italy,1,1,14.06.2012
+Denmark,Portugal,2,3,13.06.2012
+Germany,Netherlands,2,1,13.06.2012
+Czech Republic,Greece,2,1,12.06.2012
+Poland,Russia,1,1,12.06.2012
+England,France,1,1,11.06.2012
+Ukraine,Sweden,2,1,11.06.2012
+Italy,Spain,1,1,10.06.2012
+Croatia,Rep. of Ireland,3,1,10.06.2012
+Denmark,Netherlands,1,0,09.06.2012
+Germany,Portugal,1,0,09.06.2012
+Poland,Greece,1,1,08.06.2012
+Czech Republic,Russia,1,4,08.06.2012
+Belarus,Lithuania,1,1,07.06.2012
+Sweden,Serbia,2,1,05.06.2012
+Turkey,Ukraine,2,0,05.06.2012
+Austria,Romania,0,0,05.06.2012
+France,Estonia,4,0,05.06.2012
+Armenia,Kazakhstan,3,0,05.06.2012
+Hungary,Rep. of Ireland,0,0,04.06.2012
+Spain,China,1,0,03.06.2012
+Finland,Latvia,1,1,03.06.2012
+Estonia,Lithuania,1,0,03.06.2012
+Poland,Andorra,4,0,02.06.2012
+Denmark,Australia,2,0,02.06.2012
+England,Belgium,1,0,02.06.2012
+Norway,Croatia,1,1,02.06.2012
+Netherlands,North. Ireland,6,0,02.06.2012
+Portugal,Turkey,1,3,02.06.2012
+Luxembourg,Malta,0,2,02.06.2012
+Austria,Ukraine,3,2,01.06.2012
+Czech Republic,Hungary,1,2,01.06.2012
+Italy,Russia,0,3,01.06.2012
+Kazakhstan,Kyrgyzstan,5,2,01.06.2012
+Latvia,Lithuania,5,0,01.06.2012
+Estonia,Finland,1,2,01.06.2012
+France,Serbia,2,0,31.05.2012
+Mexico,Bosnia & Herzegovina,2,1,31.05.2012
+Germany,Israel,2,0,31.05.2012
+Armenia,Greece,0,1,31.05.2012
+Netherlands,Slovakia,2,0,30.05.2012
+Switzerland,Romania,0,1,30.05.2012
+Sweden,Iceland,3,2,30.05.2012
+South Korea,Spain,1,4,30.05.2012
+Andorra,Azerbaijan,0,0,30.05.2012
+Lithuania,Russia,0,0,29.05.2012
+Bulgaria,Turkey,0,2,29.05.2012
+Angola,Macedonia,0,0,29.05.2012
+Estonia,Ukraine,0,4,28.05.2012
+Mexico,Wales,2,0,27.05.2012
+France,Iceland,3,2,27.05.2012
+Iran,Albania,0,1,27.05.2012
+Serbia,Spain,0,2,26.05.2012
+Netherlands,Bulgaria,1,2,26.05.2012
+Czech Republic,Israel,2,1,26.05.2012
+Finland,Turkey,3,2,26.05.2012
+Salvador,Moldova,2,0,26.05.2012
+Poland,Slovakia,1,0,26.05.2012
+Switzerland,Germany,5,3,26.05.2012
+Norway,England,0,1,26.05.2012
+Brazil,Denmark,3,1,26.05.2012
+Rep. of Ireland,Bosnia & Herzegovina,1,0,26.05.2012
+United States,Scotland,5,1,26.05.2012
+Greece,Slovenia,1,1,26.05.2012
+Portugal,Macedonia,0,0,26.05.2012
+Russia,Uruguay,1,1,25.05.2012
+Belgium,Montenegro,2,2,25.05.2012
+Croatia,Estonia,3,1,25.05.2012
+Georgia,Turkey,1,3,24.05.2012
+Venezuela,Moldova,4,0,23.05.2012
+Japan,Azerbaijan,2,0,23.05.2012
+Latvia,Poland,0,1,22.05.2012
+Qatar,Albania,1,2,22.05.2012
+Germany,France,1,2,29.02.2012
+Italy,United States,0,1,29.02.2012
+Switzerland,Argentina,1,3,29.02.2012
+Wales,Costa Rica,0,1,29.02.2012
+Armenia,Canada,3,1,29.02.2012
+North. Ireland,Norway,0,3,29.02.2012
+Romania,Uruguay,1,1,29.02.2012
+Hungary,Bulgaria,1,1,29.02.2012
+Austria,Finland,3,1,29.02.2012
+Malta,Liechtenstein,2,1,29.02.2012
+Montenegro,Iceland,2,1,29.02.2012
+Slovenia,Scotland,1,1,29.02.2012
+Denmark,Russia,0,2,29.02.2012
+England,Netherlands,2,3,29.02.2012
+Georgia,Albania,2,1,29.02.2012
+Poland,Portugal,0,0,29.02.2012
+Belarus,Moldova,0,0,29.02.2012
+Israel,Ukraine,2,3,29.02.2012
+Salvador,Estonia,0,2,29.02.2012
+Rep. of Ireland,Czech Republic,1,1,29.02.2012
+Croatia,Sweden,1,3,29.02.2012
+Greece,Belgium,1,1,29.02.2012
+Kazakhstan,Latvia,0,0,29.02.2012
+Turkey,Slovakia,1,2,29.02.2012
+Luxembourg,Macedonia,2,1,29.02.2012
+Spain,Venezuela,5,0,29.02.2012
+Cyprus,Serbia,0,0,29.02.2012
+Palestine,Azerbaijan,2,0,29.02.2012
+Brazil,Bosnia & Herzegovina,2,1,28.02.2012
+Armenia,Serbia,0,2,28.02.2012
+India,Azerbaijan,0,3,27.02.2012
+Japan,Iceland,3,1,24.02.2012
+Singapore,Azerbaijan,2,2,24.02.2012
+Turkmenistan,Romania,0,4,27.01.2012
+Qatar*,Sweden,0,5,23.01.2012
+Trinidad & Tobago,Finland,2,3,22.01.2012
+South Korea*,Norway,3,0,21.01.2012
+Bahrain,Sweden,0,2,18.01.2012
+Thailand,Norway,0,1,18.01.2012
+Denmark*,Norway,1,1,15.01.2012
+Bosnia & Herzegovina*,Poland,0,1,16.12.2011
+Ukraine,Austria,2,1,15.11.2011
+Portugal,Bosnia & Herzegovina,6,2,15.11.2011
+Italy,Uruguay,0,1,15.11.2011
+Rep. of Ireland,Estonia,1,1,15.11.2011
+Germany,Netherlands,3,0,15.11.2011
+France,Belgium,0,0,15.11.2011
+England,Sweden,1,0,15.11.2011
+Luxembourg,Switzerland,0,1,15.11.2011
+Macedonia,Albania,0,0,15.11.2011
+Greece,Romania,1,3,15.11.2011
+Slovenia,United States,2,3,15.11.2011
+Costa Rica,Spain,2,2,15.11.2011
+Croatia,Turkey,0,0,15.11.2011
+Poland,Hungary,2,1,15.11.2011
+Montenegro,Czech Republic,0,1,15.11.2011
+Libya,Belarus,1,1,15.11.2011
+Denmark,Finland,2,1,15.11.2011
+Honduras,Serbia,2,0,14.11.2011
+Wales,Norway,4,1,12.11.2011
+England,Spain,1,0,12.11.2011
+Belgium,Romania,2,1,11.11.2011
+Bosnia & Herzegovina,Portugal,0,0,11.11.2011
+Turkey,Croatia,0,3,11.11.2011
+Denmark,Sweden,2,0,11.11.2011
+Estonia,Rep. of Ireland,0,4,11.11.2011
+Ukraine,Germany,3,3,11.11.2011
+France,United States,1,0,11.11.2011
+Greece,Russia,1,1,11.11.2011
+Netherlands,Switzerland,0,0,11.11.2011
+Mexico,Serbia,2,0,11.11.2011
+Czech Republic,Montenegro,2,0,11.11.2011
+Albania,Azerbaijan,0,1,11.11.2011
+Poland,Italy,0,2,11.11.2011
+Cyprus,Scotland,1,2,11.11.2011
+Georgia,Moldova,2,0,11.11.2011
+Hungary,Liechtenstein,5,0,11.11.2011
+Albania,Romania,1,1,11.10.2011
+Kazakhstan,Austria,0,0,11.10.2011
+Russia,Andorra,6,0,11.10.2011
+Turkey,Azerbaijan,1,0,11.10.2011
+Belarus,Poland,0,2,11.10.2011
+Germany,Belgium,3,1,11.10.2011
+Bulgaria,Wales,0,1,11.10.2011
+France,Bosnia & Herzegovina,1,1,11.10.2011
+Croatia,Latvia,2,0,11.10.2011
+Norway,Cyprus,3,1,11.10.2011
+Denmark,Portugal,2,1,11.10.2011
+Lithuania,Czech Republic,1,4,11.10.2011
+Estonia,Ukraine,0,2,11.10.2011
+Hungary,Finland,0,0,11.10.2011
+Georgia,Greece,1,2,11.10.2011
+Malta,Israel,0,2,11.10.2011
+Italy,North. Ireland,3,0,11.10.2011
+Macedonia,Slovakia,1,1,11.10.2011
+Moldova,San Marino,4,0,11.10.2011
+Switzerland,Montenegro,2,0,11.10.2011
+Sweden,Netherlands,3,2,11.10.2011
+Rep. of Ireland,Armenia,2,1,11.10.2011
+Slovenia,Serbia,1,0,11.10.2011
+Spain,Scotland,3,1,11.10.2011
+Liechtenstein,Scotland,0,1,08.10.2011
+France,Albania,3,0,07.10.2011
+Armenia,Macedonia,4,1,07.10.2011
+Azerbaijan,Austria,1,4,07.10.2011
+Andorra,Rep. of Ireland,0,2,07.10.2011
+Romania,Belarus,2,2,07.10.2011
+Belgium,Kazakhstan,4,1,07.10.2011
+Ukraine,Bulgaria,3,0,07.10.2011
+Bosnia & Herzegovina,Luxembourg,5,0,07.10.2011
+Greece,Croatia,2,0,07.10.2011
+Cyprus,Denmark,1,4,07.10.2011
+Czech Republic,Spain,0,2,07.10.2011
+Montenegro,England,2,2,07.10.2011
+North. Ireland,Estonia,1,2,07.10.2011
+Turkey,Germany,1,3,07.10.2011
+Finland,Sweden,1,2,07.10.2011
+Portugal,Iceland,5,3,07.10.2011
+Serbia,Italy,1,1,07.10.2011
+Latvia,Malta,2,0,07.10.2011
+Netherlands,Moldova,1,0,07.10.2011
+South Korea,Poland,2,2,07.10.2011
+Slovakia,Russia,0,1,07.10.2011
+Wales,Switzerland,2,0,07.10.2011
+Luxembourg,Albania,2,1,06.09.2011
+Slovakia,Armenia,0,4,06.09.2011
+Austria,Turkey,0,0,06.09.2011
+Macedonia,Andorra,1,0,06.09.2011
+Azerbaijan,Kazakhstan,3,2,06.09.2011
+Bosnia & Herzegovina,Belarus,1,0,06.09.2011
+Belgium,United States,1,0,06.09.2011
+Switzerland,Bulgaria,3,1,06.09.2011
+Croatia,Israel,3,1,06.09.2011
+Iceland,Cyprus,1,0,06.09.2011
+Denmark,Norway,2,0,06.09.2011
+Czech Republic,Ukraine,4,0,06.09.2011
+England,Wales,1,0,06.09.2011
+Estonia,North. Ireland,4,1,06.09.2011
+Poland,Germany,2,2,06.09.2011
+Finland,Netherlands,0,2,06.09.2011
+Serbia,Faroe Islands,3,1,06.09.2011
+Romania,France,0,0,06.09.2011
+Malta,Georgia,1,1,06.09.2011
+Latvia,Greece,1,1,06.09.2011
+Moldova,Hungary,0,2,06.09.2011
+Italy,Slovenia,1,0,06.09.2011
+Spain,Liechtenstein,6,0,06.09.2011
+Scotland,Lithuania,1,0,06.09.2011
+Russia,Rep. of Ireland,0,0,06.09.2011
+San Marino,Sweden,0,5,06.09.2011
+Scotland,Czech Republic,2,2,03.09.2011
+Albania,France,1,2,02.09.2011
+Andorra,Armenia,0,3,02.09.2011
+Germany,Austria,6,2,02.09.2011
+Azerbaijan,Belgium,1,1,02.09.2011
+Belarus,Bosnia & Herzegovina,0,2,02.09.2011
+Bulgaria,England,0,3,02.09.2011
+Malta,Croatia,1,3,02.09.2011
+Cyprus,Portugal,0,4,02.09.2011
+Slovenia,Estonia,1,2,02.09.2011
+Finland,Moldova,4,1,02.09.2011
+Faroe Islands,Italy,0,1,02.09.2011
+Georgia,Latvia,0,1,02.09.2011
+Israel,Greece,0,1,02.09.2011
+Hungary,Sweden,2,1,02.09.2011
+Norway,Iceland,1,0,02.09.2011
+Turkey,Kazakhstan,2,1,02.09.2011
+Lithuania,Liechtenstein,0,0,02.09.2011
+Luxembourg,Romania,0,2,02.09.2011
+Russia,Macedonia,1,0,02.09.2011
+Wales,Montenegro,2,1,02.09.2011
+Netherlands,San Marino,11,0,02.09.2011
+North. Ireland,Serbia,0,1,02.09.2011
+Poland,Mexico,1,1,02.09.2011
+Rep. of Ireland,Slovakia,0,0,02.09.2011
+Chile,Spain,2,3,02.09.2011
+Ukraine,Uruguay,2,3,02.09.2011
+Albania,Montenegro,3,2,10.08.2011
+Lithuania,Armenia,3,0,10.08.2011
+Austria,Slovakia,1,2,10.08.2011
+Azerbaijan,Macedonia,0,1,10.08.2011
+Belarus,Bulgaria,1,0,10.08.2011
+Slovenia,Belgium,0,0,10.08.2011
+Bosnia & Herzegovina,Greece,0,0,10.08.2011
+Rep. of Ireland,Croatia,0,0,10.08.2011
+Cyprus,Moldova,3,2,10.08.2011
+Scotland,Denmark,2,1,10.08.2011
+Norway,Czech Republic,3,0,10.08.2011
+Turkey,Estonia,3,0,10.08.2011
+Germany,Brazil,3,2,10.08.2011
+Latvia,Finland,0,2,10.08.2011
+North. Ireland,Faroe Islands,4,0,10.08.2011
+France,Chile,1,1,10.08.2011
+Poland,Georgia,1,0,10.08.2011
+Hungary,Iceland,4,0,10.08.2011
+C�te d`Ivoire,Israel,4,3,10.08.2011
+Italy,Spain,2,1,10.08.2011
+Kazakhstan,Syria,1,1,10.08.2011
+Liechtenstein,Switzerland,1,2,10.08.2011
+Portugal,Luxembourg,5,0,10.08.2011
+Malta,C.A.R.,2,1,10.08.2011
+Russia,Serbia,1,0,10.08.2011
+San Marino,Romania,0,1,10.08.2011
+Ukraine,Sweden,0,1,10.08.2011
+Wales,Australia,1,2,10.08.2011
+Uruguay,Estonia,3,0,23.06.2011
+Argentina,Albania,4,0,20.06.2011
+Chile,Estonia,4,0,19.06.2011
+Paraguay,Romania,2,0,12.06.2011
+Poland,France,0,1,09.06.2011
+Ecuador,Greece,1,1,08.06.2011
+Uruguay,Netherlands,1,1,08.06.2011
+Bosnia & Herzegovina,Albania,2,0,07.06.2011
+Austria,Latvia,3,1,07.06.2011
+Azerbaijan,Germany,1,3,07.06.2011
+Belarus,Luxembourg,2,0,07.06.2011
+Japan,Czech Republic,0,0,07.06.2011
+Faroe Islands,Estonia,2,0,07.06.2011
+Sweden,Finland,5,0,07.06.2011
+San Marino,Hungary,0,3,07.06.2011
+Italy,Rep. of Ireland,0,2,07.06.2011
+Norway,Lithuania,1,0,07.06.2011
+Brazil,Romania,1,0,07.06.2011
+Cameroon,Russia,0,0,07.06.2011
+Australia,Serbia,0,0,07.06.2011
+Venezuela,Spain,0,3,07.06.2011
+Ukraine,France,1,4,06.06.2011
+Poland,Argentina,2,1,05.06.2011
+Russia,Armenia,3,1,04.06.2011
+Slovakia,Andorra,1,0,04.06.2011
+Montenegro,Bulgaria,1,1,04.06.2011
+Iceland,Denmark,0,2,04.06.2011
+Peru,Czech Republic,0,0,04.06.2011
+England,Switzerland,2,2,04.06.2011
+Greece,Malta,3,1,04.06.2011
+Latvia,Israel,1,2,04.06.2011
+Macedonia,Rep. of Ireland,0,2,04.06.2011
+Brazil,Netherlands,0,0,04.06.2011
+Portugal,Norway,1,0,04.06.2011
+United States,Spain,0,4,04.06.2011
+Austria,Germany,1,2,03.06.2011
+Kazakhstan,Azerbaijan,2,1,03.06.2011
+Belarus,France,1,1,03.06.2011
+Belgium,Turkey,1,1,03.06.2011
+Romania,Bosnia & Herzegovina,3,0,03.06.2011
+Croatia,Georgia,2,1,03.06.2011
+Italy,Estonia,3,0,03.06.2011
+San Marino,Finland,0,1,03.06.2011
+Faroe Islands,Slovenia,0,2,03.06.2011
+Luxembourg,Hungary,0,1,03.06.2011
+Liechtenstein,Lithuania,2,0,03.06.2011
+Moldova,Sweden,1,4,03.06.2011
+South Korea,Serbia,2,1,03.06.2011
+Ukraine,Uzbekistan,2,0,01.06.2011
+Germany,Uruguay,2,1,29.05.2011
+Rep. of Ireland,Scotland,1,0,29.05.2011
+North. Ireland,Wales,0,2,27.05.2011
+Scotland,Wales,3,1,25.05.2011
+Rep. of Ireland,North. Ireland,5,0,24.05.2011
+Turkey,Austria,2,0,29.03.2011
+Belgium,Azerbaijan,4,1,29.03.2011
+Canada,Belarus,1,0,29.03.2011
+Cyprus,Bulgaria,0,1,29.03.2011
+France,Croatia,0,0,29.03.2011
+Slovakia,Denmark,1,2,29.03.2011
+Czech Republic,Liechtenstein,2,0,29.03.2011
+England,Ghana,1,1,29.03.2011
+Estonia,Serbia,1,1,29.03.2011
+Germany,Australia,1,2,29.03.2011
+Portugal,Finland,2,0,29.03.2011
+Israel,Georgia,1,0,29.03.2011
+Greece,Poland,0,0,29.03.2011
+Netherlands,Hungary,5,3,29.03.2011
+Ukraine,Italy,0,2,29.03.2011
+Lithuania,Spain,1,3,29.03.2011
+Romania,Luxembourg,3,1,29.03.2011
+Sweden,Moldova,2,1,29.03.2011
+North. Ireland,Slovenia,0,0,29.03.2011
+Qatar,Russia,1,1,29.03.2011
+Rep. of Ireland,Uruguay,2,3,29.03.2011
+Brazil,Scotland,2,0,27.03.2011
+Albania,Belarus,1,0,26.03.2011
+Armenia,Russia,0,0,26.03.2011
+Andorra,Slovakia,0,1,26.03.2011
+Bulgaria,Switzerland,0,0,26.03.2011
+Bosnia & Herzegovina,Romania,2,1,26.03.2011
+Georgia,Croatia,1,0,26.03.2011
+Cyprus,Iceland,0,0,26.03.2011
+Norway,Denmark,1,1,26.03.2011
+Wales,England,0,2,26.03.2011
+Germany,Kazakhstan,4,0,26.03.2011
+Malta,Greece,0,1,26.03.2011
+Israel,Latvia,2,1,26.03.2011
+Rep. of Ireland,Macedonia,2,1,26.03.2011
+Portugal,Chile,1,1,26.03.2011
+Austria,Belgium,0,2,25.03.2011
+Spain,Czech Republic,2,1,25.03.2011
+Estonia,Uruguay,2,0,25.03.2011
+Luxembourg,France,0,2,25.03.2011
+Hungary,Netherlands,0,4,25.03.2011
+Slovenia,Italy,0,1,25.03.2011
+Lithuania,Poland,2,0,25.03.2011
+Montenegro,Uzbekistan,1,0,25.03.2011
+Serbia,North. Ireland,2,1,25.03.2011
+Albania,Slovenia,1,2,09.02.2011
+Armenia,Georgia,1,2,09.02.2011
+Netherlands,Austria,3,1,09.02.2011
+Andorra,Moldova,1,2,09.02.2011
+Azerbaijan,Hungary,0,2,09.02.2011
+Belarus,Kazakhstan,1,1,09.02.2011
+Belgium,Finland,1,1,09.02.2011
+Mexico,Bosnia & Herzegovina,2,0,09.02.2011
+Croatia,Czech Republic,4,2,09.02.2011
+Cyprus,Romania,1,1,09.02.2011
+Denmark,England,1,2,09.02.2011
+Germany,Italy,1,1,09.02.2011
+France,Brazil,1,0,09.02.2011
+Greece,Canada,1,0,09.02.2011
+Israel,Serbia,0,2,09.02.2011
+Bolivia,Latvia,1,2,09.02.2011
+San Marino,Liechtenstein,0,1,09.02.2011
+Luxembourg,Slovakia,2,1,09.02.2011
+Macedonia,Cameroon,0,1,09.02.2011
+Malta,Switzerland,0,0,09.02.2011
+North. Ireland,Scotland,0,3,09.02.2011
+Poland,Norway,1,0,09.02.2011
+Argentina,Portugal,2,1,09.02.2011
+Iran,Russia,1,0,09.02.2011
+Spain,Colombia,1,0,09.02.2011
+Sweden,Ukraine,1,1,09.02.2011
+Turkey,South Korea,0,0,09.02.2011
+Cyprus,Sweden,0,2,08.02.2011
+Rep. of Ireland,Wales,3,0,08.02.2011
+Romania,Ukraine,2,2,08.02.2011
+Moldova,Poland,0,1,06.02.2011
+South Africa*,Sweden,1,1,22.01.2011
+Botswana,Sweden,1,2,19.01.2011
+China,Macedonia,1,0,22.12.2010
+Qatar,Estonia,2,0,22.12.2010
+China,Estonia,3,0,18.12.2010
+Bosnia & Herzegovina,Poland,2,2,10.12.2010
+Albania,Macedonia,0,0,17.11.2010
+Croatia,Malta,3,0,17.11.2010
+Luxembourg,Algeria,0,0,17.11.2010
+Montenegro,Azerbaijan,2,0,17.11.2010
+Portugal,Spain,4,0,17.11.2010
+Estonia,Liechtenstein,1,1,17.11.2010
+Slovakia,Bosnia & Herzegovina,2,3,17.11.2010
+China,Latvia,1,0,17.11.2010
+Sweden,Germany,0,0,17.11.2010
+Austria,Greece,1,2,17.11.2010
+Switzerland,Ukraine,2,2,17.11.2010
+Oman,Belarus,0,4,17.11.2010
+Russia,Belgium,0,2,17.11.2010
+Rep. of Ireland,Norway,1,2,17.11.2010
+North. Ireland,Morocco,1,1,17.11.2010
+Finland,San Marino,8,0,17.11.2010
+Italy,Romania,1,1,17.11.2010
+Bulgaria,Serbia,0,1,17.11.2010
+Hungary,Lithuania,2,0,17.11.2010
+Slovenia,Georgia,1,2,17.11.2010
+Poland,C�te d`Ivoire,3,1,17.11.2010
+Israel,Iceland,3,2,17.11.2010
+Netherlands,Turkey,1,0,17.11.2010
+England,France,1,2,17.11.2010
+Denmark,Czech Republic,0,0,17.11.2010
+Jordan,Cyprus,0,0,16.11.2010
+Scotland,Faroe Islands,3,0,16.11.2010
+Belarus,Albania,2,0,12.10.2010
+San Marino,Moldova,0,2,12.10.2010
+France,Luxembourg,2,0,12.10.2010
+Macedonia,Russia,0,1,12.10.2010
+England,Montenegro,0,0,12.10.2010
+Iceland,Portugal,1,3,12.10.2010
+Estonia,Slovenia,0,1,12.10.2010
+Slovakia,Rep. of Ireland,1,1,12.10.2010
+Latvia,Georgia,1,1,12.10.2010
+Netherlands,Sweden,4,1,12.10.2010
+Liechtenstein,Czech Republic,0,2,12.10.2010
+Greece,Israel,2,1,12.10.2010
+Armenia,Andorra,4,0,12.10.2010
+Croatia,Norway,2,1,12.10.2010
+Faroe Islands,North. Ireland,1,1,12.10.2010
+Switzerland,Wales,4,1,12.10.2010
+Finland,Hungary,1,2,12.10.2010
+Belgium,Austria,4,4,12.10.2010
+Scotland,Spain,2,3,12.10.2010
+Saudi Arabia,Bulgaria,0,2,12.10.2010
+Azerbaijan,Turkey,1,0,12.10.2010
+Ecuador,Poland,2,2,12.10.2010
+Kazakhstan,Germany,0,3,12.10.2010
+Denmark,Cyprus,2,0,12.10.2010
+Italy,Serbia,0,0,12.10.2010
+Brazil,Ukraine,2,0,11.10.2010
+Israel,Croatia,1,2,09.10.2010
+France,Romania,2,0,09.10.2010
+United States,Poland,2,2,09.10.2010
+Albania,Bosnia & Herzegovina,1,1,08.10.2010
+Georgia,Malta,1,0,08.10.2010
+Moldova,Netherlands,0,1,08.10.2010
+Luxembourg,Belarus,0,0,08.10.2010
+Andorra,Macedonia,0,2,08.10.2010
+Montenegro,Switzerland,1,0,08.10.2010
+Portugal,Denmark,3,1,08.10.2010
+Serbia,Estonia,1,3,08.10.2010
+Armenia,Slovakia,3,1,08.10.2010
+Greece,Latvia,1,0,08.10.2010
+Ukraine,Canada,2,2,08.10.2010
+Rep. of Ireland,Russia,2,3,08.10.2010
+Cyprus,Norway,1,2,08.10.2010
+North. Ireland,Italy,0,0,08.10.2010
+Wales,Bulgaria,0,1,08.10.2010
+Hungary,San Marino,8,0,08.10.2010
+Kazakhstan,Belgium,0,2,08.10.2010
+Spain,Lithuania,3,1,08.10.2010
+Austria,Azerbaijan,3,0,08.10.2010
+Slovenia,Faroe Islands,5,1,08.10.2010
+Germany,Turkey,3,0,08.10.2010
+Czech Republic,Scotland,1,0,08.10.2010
+Albania,Luxembourg,1,0,07.09.2010
+Malta,Latvia,0,2,07.09.2010
+Hungary,Moldova,2,1,07.09.2010
+Macedonia,Armenia,2,2,07.09.2010
+Bulgaria,Montenegro,0,1,07.09.2010
+Norway,Portugal,1,0,07.09.2010
+Estonia,Uzbekistan,3,3,07.09.2010
+Russia,Slovakia,0,1,07.09.2010
+Sweden,San Marino,6,0,07.09.2010
+Scotland,Liechtenstein,2,1,07.09.2010
+Croatia,Greece,0,0,07.09.2010
+Ukraine,Chile,2,1,07.09.2010
+Belarus,Romania,0,0,07.09.2010
+Netherlands,Finland,2,1,07.09.2010
+Turkey,Belgium,3,2,07.09.2010
+Argentina,Spain,4,1,07.09.2010
+Bosnia & Herzegovina,France,0,2,07.09.2010
+Germany,Azerbaijan,6,1,07.09.2010
+Switzerland,England,1,3,07.09.2010
+Serbia,Slovenia,1,1,07.09.2010
+Poland,Australia,1,2,07.09.2010
+Rep. of Ireland,Andorra,3,1,07.09.2010
+Georgia,Israel,0,0,07.09.2010
+Denmark,Iceland,1,0,07.09.2010
+Czech Republic,Lithuania,0,1,07.09.2010
+Austria,Kazakhstan,2,0,07.09.2010
+Italy,Faroe Islands,5,0,07.09.2010
+Poland,Ukraine,1,1,04.09.2010
+Romania,Albania,1,1,03.09.2010
+Moldova,Finland,2,0,03.09.2010
+Luxembourg,Bosnia & Herzegovina,0,3,03.09.2010
+Slovakia,Macedonia,1,0,03.09.2010
+Montenegro,Wales,1,0,03.09.2010
+Portugal,Cyprus,4,4,03.09.2010
+Estonia,Italy,1,2,03.09.2010
+Latvia,Croatia,0,3,03.09.2010
+Sweden,Hungary,2,0,03.09.2010
+Liechtenstein,Spain,0,4,03.09.2010
+Greece,Georgia,1,1,03.09.2010
+Armenia,Rep. of Ireland,0,1,03.09.2010
+France,Belarus,0,1,03.09.2010
+Andorra,Russia,0,2,03.09.2010
+Iceland,Norway,1,2,03.09.2010
+Slovenia,North. Ireland,0,1,03.09.2010
+San Marino,Netherlands,0,5,03.09.2010
+Belgium,Germany,0,1,03.09.2010
+England,Bulgaria,4,0,03.09.2010
+Switzerland,Australia,0,0,03.09.2010
+Lithuania,Scotland,0,0,03.09.2010
+Kazakhstan,Turkey,0,3,03.09.2010
+Faroe Islands,Serbia,0,3,03.09.2010
+Israel,Malta,3,1,02.09.2010
+Albania,Uzbekistan,1,0,11.08.2010
+Malta,Macedonia,1,1,11.08.2010
+Moldova,Georgia,0,0,11.08.2010
+Wales,Luxembourg,5,1,11.08.2010
+Montenegro,North. Ireland,2,0,11.08.2010
+Estonia,Faroe Islands,2,1,11.08.2010
+Slovakia,Croatia,1,1,11.08.2010
+Czech Republic,Latvia,4,1,11.08.2010
+Sweden,Scotland,3,0,11.08.2010
+Iceland,Liechtenstein,1,1,11.08.2010
+Serbia,Greece,0,1,11.08.2010
+Armenia,Iran,1,3,11.08.2010
+Ukraine,Netherlands,1,1,11.08.2010
+Lithuania,Belarus,0,2,11.08.2010
+Russia,Bulgaria,1,0,11.08.2010
+Norway,France,2,1,11.08.2010
+Turkey,Romania,2,0,11.08.2010
+Finland,Belgium,1,0,11.08.2010
+Mexico,Spain,1,1,11.08.2010
+Azerbaijan,Kuwait,1,1,11.08.2010
+England,Hungary,2,1,11.08.2010
+Austria,Switzerland,0,1,11.08.2010
+Slovenia,Australia,2,0,11.08.2010
+Poland,Cameroon,0,3,11.08.2010
+Rep. of Ireland,Argentina,0,1,11.08.2010
+Cyprus,Andorra,1,0,11.08.2010
+Kazakhstan,Oman,3,1,11.08.2010
+Denmark,Germany,2,2,11.08.2010
+Bosnia & Herzegovina,Qatar,1,1,10.08.2010
+C�te d`Ivoire,Italy,1,0,10.08.2010
+Netherlands,Spain,0,1,11.07.2010
+Uruguay,Germany,2,3,10.07.2010
+Germany,Spain,0,1,07.07.2010
+Uruguay,Netherlands,2,3,06.07.2010
+Paraguay,Spain,0,1,03.07.2010
+Argentina,Germany,0,4,03.07.2010
+Brazil,Netherlands,1,2,02.07.2010
+Portugal,Spain,0,1,29.06.2010
+Netherlands,Slovakia,2,1,28.06.2010
+England,Germany,1,4,27.06.2010
+Brazil,Portugal,0,0,25.06.2010
+Chile,Spain,1,2,25.06.2010
+Honduras,Switzerland,0,0,25.06.2010
+Slovakia,Italy,3,2,24.06.2010
+Cameroon,Netherlands,1,2,24.06.2010
+Japan,Denmark,3,1,24.06.2010
+England,Slovenia,1,0,23.06.2010
+Ghana,Germany,0,1,23.06.2010
+Australia,Serbia,2,1,23.06.2010
+Argentina,Greece,2,0,22.06.2010
+South Africa,France,2,1,22.06.2010
+Portugal,North Korea,7,0,21.06.2010
+Honduras,Spain,0,2,21.06.2010
+Chile,Switzerland,1,0,21.06.2010
+Lithuania,Estonia,2,0,20.06.2010
+Slovakia,Paraguay,0,2,20.06.2010
+New Zealand,Italy,1,1,20.06.2010
+Estonia,Latvia,0,0,19.06.2010
+Japan,Netherlands,0,1,19.06.2010
+Cameroon,Denmark,1,2,19.06.2010
+Lithuania,Latvia,0,0,18.06.2010
+United States,Slovenia,2,2,18.06.2010
+Germany,Serbia,0,1,18.06.2010
+Algeria,England,0,0,18.06.2010
+Nigeria,Greece,1,2,17.06.2010
+Mexico,France,2,0,17.06.2010
+Spain,Switzerland,0,1,16.06.2010
+Portugal,C�te d`Ivoire,0,0,15.06.2010
+New Zealand,Slovakia,1,1,15.06.2010
+Denmark,Netherlands,0,2,14.06.2010
+Paraguay,Italy,1,1,14.06.2010
+Algeria,Slovenia,0,1,13.06.2010
+Australia,Germany,0,4,13.06.2010
+Ghana,Serbia,1,0,13.06.2010
+South Korea,Greece,2,0,12.06.2010
+United States,England,1,1,12.06.2010
+Uruguay,France,0,0,11.06.2010
+Mozambique,Portugal,0,3,08.06.2010
+Spain,Poland,6,0,08.06.2010
+Slovakia,Costa Rica,3,0,05.06.2010
+Ghana,Latvia,1,0,05.06.2010
+Honduras,Romania,0,3,05.06.2010
+Netherlands,Hungary,6,1,05.06.2010
+Switzerland,Italy,1,1,05.06.2010
+South Africa,Denmark,1,0,05.06.2010
+Serbia,Cameroon,4,3,05.06.2010
+Luxembourg,Faroe Islands,0,0,04.06.2010
+Slovenia,New Zealand,3,1,04.06.2010
+France,China,0,1,04.06.2010
+South Korea,Spain,0,1,03.06.2010
+Germany,Bosnia & Herzegovina,3,1,03.06.2010
+Mexico,Italy,2,1,03.06.2010
+Albania,Andorra,1,0,02.06.2010
+Romania,Macedonia,0,1,02.06.2010
+Belarus,Sweden,0,1,02.06.2010
+Paraguay,Greece,2,0,02.06.2010
+Norway,Ukraine,0,1,02.06.2010
+Honduras,Azerbaijan,0,0,02.06.2010
+Poland,Serbia,0,0,02.06.2010
+Portugal,Cameroon,3,1,01.06.2010
+Switzerland,Costa Rica,0,1,01.06.2010
+Netherlands,Ghana,4,1,01.06.2010
+Australia,Denmark,1,0,01.06.2010
+Belarus,South Korea,1,0,30.05.2010
+Chile,North. Ireland,1,0,30.05.2010
+Tunisia,France,1,1,30.05.2010
+Japan,England,1,2,30.05.2010
+Chile,Israel,3,0,30.05.2010
+U.A.E.,Moldova,3,2,29.05.2010
+Azerbaijan,Macedonia,1,3,29.05.2010
+Norway,Montenegro,2,1,29.05.2010
+Cameroon,Slovakia,1,1,29.05.2010
+Sweden,Bosnia & Herzegovina,4,2,29.05.2010
+Ukraine,Romania,3,2,29.05.2010
+Poland,Finland,0,0,29.05.2010
+Saudi Arabia,Spain,2,3,29.05.2010
+Hungary,Germany,0,3,29.05.2010
+Iceland,Andorra,4,0,29.05.2010
+United States,Turkey,2,1,29.05.2010
+New Zealand,Serbia,1,0,29.05.2010
+Rep. of Ireland,Algeria,3,0,28.05.2010
+Honduras,Belarus,2,2,27.05.2010
+Denmark,Senegal,2,0,27.05.2010
+Azerbaijan,Moldova,1,1,26.05.2010
+Estonia,Croatia,0,0,26.05.2010
+North. Ireland,Turkey,0,2,26.05.2010
+Mexico,Netherlands,1,2,26.05.2010
+France,Costa Rica,2,1,26.05.2010
+Uruguay,Israel,4,1,26.05.2010
+Montenegro,Albania,0,1,25.05.2010
+North Korea,Greece,2,2,25.05.2010
+Armenia,Uzbekistan,3,1,25.05.2010
+Ukraine,Lithuania,4,0,25.05.2010
+Rep. of Ireland,Paraguay,2,1,25.05.2010
+Cameroon,Georgia,0,0,25.05.2010
+United States,Czech Republic,2,4,25.05.2010
+Portugal,Cape Verde,0,0,24.05.2010
+South Africa,Bulgaria,1,1,24.05.2010
+England,Mexico,3,1,24.05.2010
+Croatia,Wales,2,0,23.05.2010
+Czech Republic,Turkey,1,2,22.05.2010
+Estonia,Finland,2,0,21.05.2010
+Austria,Croatia,0,1,19.05.2010
+Belgium,Bulgaria,2,1,19.05.2010
+Germany,Malta,3,0,13.05.2010
+Japan,Serbia,0,3,07.04.2010
+Mexico,Iceland,0,0,24.03.2010
+Iceland,Faroe Islands,2,0,21.03.2010
+Albania,North. Ireland,1,0,03.03.2010
+Malta,Finland,1,2,03.03.2010
+Kazakhstan,Moldova,0,1,03.03.2010
+Luxembourg,Azerbaijan,1,2,03.03.2010
+Macedonia,Montenegro,2,1,03.03.2010
+Portugal,China,2,0,03.03.2010
+Georgia,Estonia,2,1,03.03.2010
+Slovakia,Norway,0,1,03.03.2010
+Angola,Latvia,1,1,03.03.2010
+Wales,Sweden,0,1,03.03.2010
+Greece,Senegal,0,2,03.03.2010
+Armenia,Belarus,1,3,03.03.2010
+Hungary,Russia,1,1,03.03.2010
+Belgium,Croatia,0,1,03.03.2010
+Romania,Israel,0,2,03.03.2010
+France,Spain,0,2,03.03.2010
+Bosnia & Herzegovina,Ghana,2,1,03.03.2010
+Poland,Bulgaria,2,0,03.03.2010
+Switzerland,Uruguay,1,3,03.03.2010
+Slovenia,Qatar,4,1,03.03.2010
+Cyprus,Iceland,0,0,03.03.2010
+Netherlands,United States,2,1,03.03.2010
+Germany,Argentina,0,1,03.03.2010
+Austria,Denmark,2,1,03.03.2010
+Cameroon,Italy,0,0,03.03.2010
+Scotland,Czech Republic,1,0,03.03.2010
+Turkey,Honduras,2,0,03.03.2010
+England,Egypt,3,1,03.03.2010
+Algeria,Serbia,0,3,03.03.2010
+Rep. of Ireland,Brazil,0,2,02.03.2010
+Jordan,Azerbaijan,0,2,25.02.2010
+Syria,Sweden,1,1,23.01.2010
+Singapore,Poland,1,6,23.01.2010
+South Korea,Latvia,1,0,22.01.2010
+Oman,Sweden,0,1,20.01.2010
+Thailand,Poland,1,3,20.01.2010
+South Korea,Finland,2,0,18.01.2010
+Denmark*,Poland,3,1,17.01.2010
+Angola,Estonia,0,1,30.12.2009
+Malta,Bulgaria,1,4,18.11.2009
+Iran,Macedonia,1,1,18.11.2009
+Montenegro,Belarus,1,0,18.11.2009
+Bosnia & Herzegovina,Portugal,0,1,18.11.2009
+Italy,Sweden,1,0,18.11.2009
+Ukraine,Greece,0,1,18.11.2009
+Slovenia,Russia,1,0,18.11.2009
+Austria,Spain,1,5,18.11.2009
+Azerbaijan,Czech Republic,2,0,18.11.2009
+Poland,Canada,1,0,18.11.2009
+France,Rep. of Ireland,1,1,18.11.2009
+Netherlands,Paraguay,0,0,18.11.2009
+Germany,C�te d`Ivoire,2,2,18.11.2009
+Denmark,United States,3,1,18.11.2009
+South Korea,Serbia,0,1,18.11.2009
+Slovakia,Chile,1,2,17.11.2009
+Qatar,Belgium,0,2,17.11.2009
+Iraq,Azerbaijan,1,0,15.11.2009
+U.A.E.,Czech Republic,0,0,15.11.2009
+Estonia,Albania,0,0,14.11.2009
+Luxembourg,Iceland,1,1,14.11.2009
+Macedonia,Canada,3,0,14.11.2009
+Portugal,Bosnia & Herzegovina,1,0,14.11.2009
+Slovakia,United States,1,0,14.11.2009
+Honduras,Latvia,2,1,14.11.2009
+Croatia,Liechtenstein,5,0,14.11.2009
+Greece,Ukraine,0,0,14.11.2009
+Saudi Arabia,Belarus,1,1,14.11.2009
+Russia,Slovenia,2,1,14.11.2009
+Switzerland,Norway,0,1,14.11.2009
+North. Ireland,Serbia,0,1,14.11.2009
+Wales,Scotland,3,0,14.11.2009
+Poland,Romania,0,1,14.11.2009
+Belgium,Hungary,3,0,14.11.2009
+Spain,Argentina,2,1,14.11.2009
+Rep. of Ireland,France,0,1,14.11.2009
+Italy,Netherlands,0,0,14.11.2009
+Denmark,South Korea,0,0,14.11.2009
+Brazil,England,1,0,14.11.2009
+Iran,Iceland,1,0,10.11.2009
+Sweden,Albania,4,1,14.10.2009
+Portugal,Malta,4,0,14.10.2009
+Latvia,Moldova,3,2,14.10.2009
+Greece,Luxembourg,2,1,14.10.2009
+Rep. of Ireland,Montenegro,0,0,14.10.2009
+Estonia,Belgium,2,0,14.10.2009
+Poland,Slovakia,0,1,14.10.2009
+Liechtenstein,Wales,0,2,14.10.2009
+Turkey,Armenia,2,0,14.10.2009
+Andorra,Ukraine,0,6,14.10.2009
+England,Belarus,3,0,14.10.2009
+Azerbaijan,Russia,1,1,14.10.2009
+Czech Republic,North. Ireland,0,0,14.10.2009
+San Marino,Slovenia,0,3,14.10.2009
+Kazakhstan,Croatia,1,2,14.10.2009
+Romania,Faroe Islands,3,1,14.10.2009
+Germany,Finland,1,1,14.10.2009
+Bosnia & Herzegovina,Spain,2,5,14.10.2009
+Bulgaria,Georgia,6,2,14.10.2009
+Denmark,Hungary,0,1,14.10.2009
+Switzerland,Israel,0,0,14.10.2009
+Lithuania,Serbia,2,1,14.10.2009
+France,Austria,3,1,14.10.2009
+Italy,Cyprus,3,2,14.10.2009
+Iceland,South Africa,1,0,13.10.2009
+Macedonia,Qatar,2,1,11.10.2009
+Angola,Malta,2,1,10.10.2009
+Israel,Moldova,3,1,10.10.2009
+Luxembourg,Switzerland,0,3,10.10.2009
+Montenegro,Georgia,2,1,10.10.2009
+Portugal,Hungary,3,0,10.10.2009
+Estonia,Bosnia & Herzegovina,0,2,10.10.2009
+Slovakia,Slovenia,0,2,10.10.2009
+Greece,Latvia,5,2,10.10.2009
+Denmark,Sweden,1,0,10.10.2009
+Liechtenstein,Azerbaijan,0,2,10.10.2009
+Armenia,Spain,1,2,10.10.2009
+Ukraine,England,1,0,10.10.2009
+Belarus,Kazakhstan,4,0,10.10.2009
+Russia,Germany,0,1,10.10.2009
+Norway,South Africa,1,0,10.10.2009
+Finland,Wales,2,1,10.10.2009
+Serbia,Romania,5,0,10.10.2009
+Belgium,Turkey,2,0,10.10.2009
+Cyprus,Bulgaria,4,1,10.10.2009
+Czech Republic,Poland,2,0,10.10.2009
+Rep. of Ireland,Italy,2,2,10.10.2009
+Australia,Netherlands,0,0,10.10.2009
+Austria,Lithuania,2,1,10.10.2009
+France,Faroe Islands,5,0,10.10.2009
+Japan,Scotland,2,0,10.10.2009
+Croatia,Qatar,3,2,08.10.2009
+Albania,Denmark,1,1,09.09.2009
+Malta,Sweden,0,1,09.09.2009
+Moldova,Greece,1,1,09.09.2009
+Israel,Luxembourg,7,0,09.09.2009
+Norway,Macedonia,2,1,09.09.2009
+Montenegro,Cyprus,1,1,09.09.2009
+Hungary,Portugal,0,1,09.09.2009
+Spain,Estonia,3,0,09.09.2009
+North. Ireland,Slovakia,0,2,09.09.2009
+Latvia,Switzerland,2,2,09.09.2009
+Liechtenstein,Finland,1,1,09.09.2009
+Armenia,Belgium,2,1,09.09.2009
+Belarus,Ukraine,0,0,09.09.2009
+Wales,Russia,1,3,09.09.2009
+Czech Republic,San Marino,7,0,09.09.2009
+England,Croatia,5,1,09.09.2009
+Romania,Austria,1,1,09.09.2009
+Bosnia & Herzegovina,Turkey,1,1,09.09.2009
+Italy,Bulgaria,2,0,09.09.2009
+Germany,Azerbaijan,4,0,09.09.2009
+Slovenia,Poland,3,0,09.09.2009
+Iceland,Georgia,3,1,09.09.2009
+Scotland,Netherlands,0,1,09.09.2009
+Faroe Islands,Lithuania,2,1,09.09.2009
+Andorra,Kazakhstan,1,3,09.09.2009
+Serbia,France,1,1,09.09.2009
+Rep. of Ireland,South Africa,1,0,08.09.2009
+Moldova,Luxembourg,0,0,05.09.2009
+Scotland,Macedonia,2,0,05.09.2009
+Bulgaria,Montenegro,4,1,05.09.2009
+Denmark,Portugal,1,1,05.09.2009
+Turkey,Estonia,4,2,05.09.2009
+Slovakia,Czech Republic,2,2,05.09.2009
+Israel,Latvia,0,1,05.09.2009
+Hungary,Sweden,1,2,05.09.2009
+Russia,Liechtenstein,3,0,05.09.2009
+Switzerland,Greece,2,0,05.09.2009
+Armenia,Bosnia & Herzegovina,0,2,05.09.2009
+Ukraine,Andorra,5,0,05.09.2009
+Croatia,Belarus,1,0,05.09.2009
+Iceland,Norway,1,1,05.09.2009
+Poland,North. Ireland,1,1,05.09.2009
+France,Romania,1,1,05.09.2009
+Azerbaijan,Finland,1,2,05.09.2009
+Spain,Belgium,5,0,05.09.2009
+England,Slovenia,2,1,05.09.2009
+Cyprus,Rep. of Ireland,1,2,05.09.2009
+Georgia,Italy,0,2,05.09.2009
+Netherlands,Japan,3,0,05.09.2009
+Germany,South Africa,2,0,05.09.2009
+Austria,Faroe Islands,3,1,05.09.2009
+Malta,Cape Verde,0,2,04.09.2009
+Albania,Cyprus,6,1,12.08.2009
+Malta,Georgia,2,0,12.08.2009
+Armenia,Moldova,1,4,12.08.2009
+Luxembourg,Lithuania,0,1,12.08.2009
+Macedonia,Spain,2,3,12.08.2009
+Montenegro,Wales,2,1,12.08.2009
+Liechtenstein,Portugal,0,3,12.08.2009
+Estonia,Brazil,0,1,12.08.2009
+Iceland,Slovakia,1,1,12.08.2009
+Bulgaria,Latvia,1,0,12.08.2009
+Sweden,Finland,1,0,12.08.2009
+Poland,Greece,2,0,12.08.2009
+Ukraine,Turkey,0,3,12.08.2009
+Belarus,Croatia,1,3,12.08.2009
+Russia,Argentina,2,3,12.08.2009
+Norway,Scotland,4,0,12.08.2009
+North. Ireland,Israel,1,1,12.08.2009
+Slovenia,San Marino,5,0,12.08.2009
+Hungary,Romania,0,1,12.08.2009
+Czech Republic,Belgium,3,1,12.08.2009
+Bosnia & Herzegovina,Iran,2,3,12.08.2009
+Azerbaijan,Germany,0,2,12.08.2009
+Switzerland,Italy,0,0,12.08.2009
+Rep. of Ireland,Australia,0,3,12.08.2009
+Netherlands,England,2,2,12.08.2009
+Faroe Islands,France,0,1,12.08.2009
+Denmark,Chile,1,2,12.08.2009
+Austria,Cameroon,0,2,12.08.2009
+South Africa,Serbia,1,3,12.08.2009
+South Africa,Spain,2,3,28.06.2009
+United States,Spain,2,0,24.06.2009
+Brazil,Italy,3,0,21.06.2009
+South Africa,Spain,0,2,20.06.2009
+Egypt,Italy,1,0,18.06.2009
+Iraq,Spain,0,1,17.06.2009
+United States,Italy,1,3,15.06.2009
+New Zealand,Spain,0,5,14.06.2009
+Albania,Georgia,1,1,10.06.2009
+Sweden,Malta,4,0,10.06.2009
+Belarus,Moldova,2,2,10.06.2009
+Macedonia,Iceland,2,0,10.06.2009
+Estonia,Portugal,0,0,10.06.2009
+Ukraine,Kazakhstan,2,1,10.06.2009
+Finland,Russia,0,3,10.06.2009
+Netherlands,Norway,2,0,10.06.2009
+England,Andorra,6,0,10.06.2009
+New Zealand,Italy,3,4,10.06.2009
+Faroe Islands,Serbia,0,2,10.06.2009
+Azerbaijan,Spain,0,6,09.06.2009
+Oman,Bosnia & Herzegovina,1,2,09.06.2009
+Iraq,Poland,1,1,09.06.2009
+Albania,Portugal,1,2,06.06.2009
+Georgia,Moldova,1,2,06.06.2009
+Macedonia,Norway,0,0,06.06.2009
+Cyprus,Montenegro,2,2,06.06.2009
+Estonia,Equatorial Guinea,3,0,06.06.2009
+Slovakia,San Marino,7,0,06.06.2009
+Sweden,Denmark,0,1,06.06.2009
+Finland,Liechtenstein,2,1,06.06.2009
+Croatia,Ukraine,2,2,06.06.2009
+Belarus,Andorra,5,1,06.06.2009
+Italy,North. Ireland,3,0,06.06.2009
+Azerbaijan,Wales,0,1,06.06.2009
+Lithuania,Romania,0,1,06.06.2009
+Bulgaria,Rep. of Ireland,1,1,06.06.2009
+South Africa,Poland,1,0,06.06.2009
+Iceland,Netherlands,1,2,06.06.2009
+Kazakhstan,England,0,4,06.06.2009
+Serbia,Austria,1,0,06.06.2009
+Czech Republic,Malta,1,0,05.06.2009
+France,Turkey,1,0,05.06.2009
+Turkey,Azerbaijan,2,0,02.06.2009
+France,Nigeria,0,1,02.06.2009
+U.A.E.,Germany,2,7,02.06.2009
+Uzbekistan,Bosnia & Herzegovina,0,0,01.06.2009
+Japan,Belgium,4,0,31.05.2009
+Cyprus,Canada,0,1,30.05.2009
+Wales,Estonia,1,0,29.05.2009
+Chile,Belgium,1,1,29.05.2009
+Nigeria,Rep. of Ireland,1,1,29.05.2009
+China,Germany,1,1,29.05.2009
+Denmark,Albania,3,0,01.04.2009
+Hungary,Malta,3,0,01.04.2009
+Switzerland,Moldova,2,0,01.04.2009
+Latvia,Luxembourg,2,0,01.04.2009
+Netherlands,Macedonia,4,0,01.04.2009
+Georgia,Montenegro,0,0,01.04.2009
+Estonia,Armenia,1,0,01.04.2009
+Czech Republic,Slovakia,1,2,01.04.2009
+Serbia,Sweden,2,0,01.04.2009
+Liechtenstein,Russia,0,1,01.04.2009
+Greece,Israel,2,1,01.04.2009
+England,Ukraine,2,1,01.04.2009
+Kazakhstan,Belarus,1,5,01.04.2009
+Norway,Finland,3,2,01.04.2009
+North. Ireland,Slovenia,1,0,01.04.2009
+Wales,Germany,0,2,01.04.2009
+Poland,San Marino,10,0,01.04.2009
+Andorra,Croatia,0,2,01.04.2009
+Austria,Romania,2,1,01.04.2009
+Bosnia & Herzegovina,Belgium,2,1,01.04.2009
+Turkey,Spain,1,2,01.04.2009
+Bulgaria,Cyprus,2,0,01.04.2009
+Italy,Rep. of Ireland,1,1,01.04.2009
+Scotland,Iceland,2,1,01.04.2009
+France,Lithuania,1,0,01.04.2009
+Portugal,South Africa,2,0,31.03.2009
+Albania,Hungary,0,1,28.03.2009
+Malta,Denmark,0,3,28.03.2009
+Moldova,Switzerland,0,2,28.03.2009
+Luxembourg,Latvia,0,4,28.03.2009
+Montenegro,Italy,0,2,28.03.2009
+Portugal,Sweden,0,0,28.03.2009
+Armenia,Estonia,2,2,28.03.2009
+England,Slovakia,4,0,28.03.2009
+Germany,Liechtenstein,4,0,28.03.2009
+Israel,Greece,1,1,28.03.2009
+Russia,Azerbaijan,2,0,28.03.2009
+South Africa,Norway,2,1,28.03.2009
+North. Ireland,Poland,3,2,28.03.2009
+Wales,Finland,0,2,28.03.2009
+Romania,Serbia,2,3,28.03.2009
+Belgium,Bosnia & Herzegovina,2,4,28.03.2009
+Spain,Turkey,1,0,28.03.2009
+Rep. of Ireland,Bulgaria,1,1,28.03.2009
+Slovenia,Czech Republic,0,0,28.03.2009
+Cyprus,Georgia,2,1,28.03.2009
+Netherlands,Scotland,3,0,28.03.2009
+Lithuania,France,0,1,28.03.2009
+Iceland,Faroe Islands,1,2,22.03.2009
+Malta,Albania,0,0,11.02.2009
+Moldova,Macedonia,1,1,11.02.2009
+Portugal,Finland,1,0,11.02.2009
+Estonia,Kazakhstan,0,2,11.02.2009
+Cyprus,Slovakia,3,2,11.02.2009
+Armenia,Latvia,0,0,11.02.2009
+Austria,Sweden,0,2,11.02.2009
+Liechtenstein,Iceland,0,2,11.02.2009
+Greece,Denmark,1,1,11.02.2009
+Serbia,Ukraine,0,1,11.02.2009
+Germany,Norway,0,1,11.02.2009
+San Marino,North. Ireland,0,3,11.02.2009
+Wales,Poland,0,1,11.02.2009
+Romania,Croatia,1,2,11.02.2009
+Belgium,Slovenia,2,0,11.02.2009
+Spain,England,2,0,11.02.2009
+Switzerland,Bulgaria,1,1,11.02.2009
+Kuwait,Azerbaijan,1,1,11.02.2009
+Israel,Hungary,1,0,11.02.2009
+Rep. of Ireland,Georgia,2,1,11.02.2009
+Tunisia,Netherlands,1,1,11.02.2009
+Andorra,Lithuania,1,3,11.02.2009
+France,Argentina,0,2,11.02.2009
+Morocco,Czech Republic,0,0,11.02.2009
+Turkey,C�te d`Ivoire,1,1,11.02.2009
+Slovakia,Ukraine,2,3,10.02.2009
+Cyprus,Serbia,0,2,10.02.2009
+Brazil,Italy,2,0,10.02.2009
+Lithuania,Poland,1,1,07.02.2009
+Japan,Finland,5,1,04.02.2009
+Uzbekistan,Azerbaijan,1,1,01.02.2009
+Mexico,Sweden,0,1,28.01.2009
+United States,Sweden,3,2,24.01.2009
+Poland,Serbia,1,0,14.12.2008
+Estonia,Lithuania,1,1,22.11.2008
+Azerbaijan,Albania,1,1,19.11.2008
+Malta,Iceland,0,1,19.11.2008
+Lithuania,Moldova,1,1,19.11.2008
+Luxembourg,Belgium,1,1,19.11.2008
+Montenegro,Macedonia,2,1,19.11.2008
+Brazil,Portugal,6,2,19.11.2008
+Slovakia,Liechtenstein,4,0,19.11.2008
+Netherlands,Sweden,3,1,19.11.2008
+Greece,Italy,1,1,19.11.2008
+Ukraine,Norway,1,0,19.11.2008
+Cyprus,Belarus,2,1,19.11.2008
+North. Ireland,Hungary,0,2,19.11.2008
+Denmark,Wales,0,1,19.11.2008
+San Marino,Czech Republic,0,3,19.11.2008
+Romania,Georgia,2,1,19.11.2008
+Switzerland,Finland,1,0,19.11.2008
+Spain,Chile,3,0,19.11.2008
+Slovenia,Bosnia & Herzegovina,3,4,19.11.2008
+Serbia,Bulgaria,6,1,19.11.2008
+Rep. of Ireland,Poland,2,3,19.11.2008
+France,Uruguay,0,0,19.11.2008
+Germany,England,1,2,19.11.2008
+Austria,Turkey,2,4,19.11.2008
+Scotland,Argentina,0,1,19.11.2008
+Israel,C�te d`Ivoire,2,2,19.11.2008
+Estonia,Moldova,1,0,18.11.2008
+Estonia,Latvia,1,1,12.11.2008
+Portugal,Albania,0,0,15.10.2008
+Malta,Hungary,0,1,15.10.2008
+Luxembourg,Moldova,0,0,15.10.2008
+Iceland,Macedonia,1,0,15.10.2008
+Italy,Montenegro,2,1,15.10.2008
+Estonia,Turkey,0,0,15.10.2008
+Slovakia,Poland,2,1,15.10.2008
+Latvia,Israel,1,1,15.10.2008
+Greece,Switzerland,1,2,15.10.2008
+Bosnia & Herzegovina,Armenia,4,1,15.10.2008
+Belarus,England,1,3,15.10.2008
+Russia,Finland,3,0,15.10.2008
+Norway,Netherlands,0,1,15.10.2008
+North. Ireland,San Marino,4,0,15.10.2008
+Germany,Wales,1,0,15.10.2008
+Croatia,Andorra,4,0,15.10.2008
+Belgium,Spain,1,2,15.10.2008
+Georgia,Bulgaria,0,0,15.10.2008
+Bahrain,Azerbaijan,1,2,15.10.2008
+Czech Republic,Slovenia,1,0,15.10.2008
+Rep. of Ireland,Cyprus,1,0,15.10.2008
+Lithuania,Faroe Islands,1,0,15.10.2008
+Austria,Serbia,1,3,15.10.2008
+France,Tunisia,3,1,14.10.2008
+Hungary,Albania,2,0,11.10.2008
+Denmark,Malta,3,0,11.10.2008
+Greece,Moldova,3,0,11.10.2008
+Luxembourg,Israel,1,3,11.10.2008
+Sweden,Portugal,0,0,11.10.2008
+Estonia,Spain,0,3,11.10.2008
+San Marino,Slovakia,1,3,11.10.2008
+Switzerland,Latvia,2,1,11.10.2008
+Wales,Liechtenstein,2,0,11.10.2008
+Belgium,Armenia,2,0,11.10.2008
+Ukraine,Croatia,0,0,11.10.2008
+Germany,Russia,2,1,11.10.2008
+Scotland,Norway,0,0,11.10.2008
+Slovenia,North. Ireland,2,0,11.10.2008
+Romania,France,2,2,11.10.2008
+Finland,Azerbaijan,1,0,11.10.2008
+Turkey,Bosnia & Herzegovina,2,1,11.10.2008
+Bulgaria,Italy,0,0,11.10.2008
+Poland,Czech Republic,2,1,11.10.2008
+Georgia,Cyprus,1,1,11.10.2008
+Netherlands,Iceland,2,0,11.10.2008
+Serbia,Lithuania,3,0,11.10.2008
+England,Kazakhstan,5,1,11.10.2008
+Faroe Islands,Austria,1,1,11.10.2008
+Albania,Malta,3,0,10.09.2008
+Moldova,Israel,1,2,10.09.2008
+Switzerland,Luxembourg,1,2,10.09.2008
+Macedonia,Netherlands,1,2,10.09.2008
+Montenegro,Rep. of Ireland,0,0,10.09.2008
+Portugal,Denmark,2,3,10.09.2008
+Bosnia & Herzegovina,Estonia,7,0,10.09.2008
+Slovenia,Slovakia,2,1,10.09.2008
+Latvia,Greece,0,2,10.09.2008
+Sweden,Hungary,2,1,10.09.2008
+Azerbaijan,Liechtenstein,0,0,10.09.2008
+Spain,Armenia,4,0,10.09.2008
+Kazakhstan,Ukraine,1,3,10.09.2008
+Andorra,Belarus,1,3,10.09.2008
+Russia,Wales,2,1,10.09.2008
+North. Ireland,Czech Republic,0,0,10.09.2008
+San Marino,Poland,0,2,10.09.2008
+Croatia,England,1,4,10.09.2008
+Faroe Islands,Romania,0,1,10.09.2008
+Finland,Germany,3,3,10.09.2008
+Turkey,Belgium,1,1,10.09.2008
+Italy,Georgia,2,0,10.09.2008
+Iceland,Scotland,1,2,10.09.2008
+Lithuania,Austria,2,0,10.09.2008
+France,Serbia,2,1,10.09.2008
+Albania,Sweden,0,0,06.09.2008
+Malta,Portugal,0,4,06.09.2008
+Moldova,Latvia,1,2,06.09.2008
+Luxembourg,Greece,0,3,06.09.2008
+Macedonia,Scotland,1,0,06.09.2008
+Montenegro,Bulgaria,2,2,06.09.2008
+Belgium,Estonia,3,2,06.09.2008
+Slovakia,North. Ireland,2,1,06.09.2008
+Liechtenstein,Germany,0,6,06.09.2008
+Armenia,Turkey,0,2,06.09.2008
+Ukraine,Belarus,1,0,06.09.2008
+Norway,Iceland,2,2,06.09.2008
+Wales,Azerbaijan,1,0,06.09.2008
+Croatia,Kazakhstan,3,0,06.09.2008
+Romania,Lithuania,0,3,06.09.2008
+Spain,Bosnia & Herzegovina,1,0,06.09.2008
+Hungary,Denmark,0,0,06.09.2008
+Israel,Switzerland,2,2,06.09.2008
+Poland,Slovenia,1,1,06.09.2008
+Georgia,Rep. of Ireland,1,2,06.09.2008
+Netherlands,Australia,1,2,06.09.2008
+Andorra,England,0,2,06.09.2008
+Austria,France,3,1,06.09.2008
+Cyprus,Italy,1,2,06.09.2008
+Serbia,Faroe Islands,2,0,06.09.2008
+Iran,Azerbaijan,1,0,27.08.2008
+Albania,Liechtenstein,2,0,20.08.2008
+Estonia,Malta,2,1,20.08.2008
+Lithuania,Moldova,3,0,20.08.2008
+Luxembourg,Macedonia,1,4,20.08.2008
+Hungary,Montenegro,3,3,20.08.2008
+Portugal,Faroe Islands,5,0,20.08.2008
+Slovakia,Greece,0,2,20.08.2008
+Romania,Latvia,1,0,20.08.2008
+Sweden,France,2,3,20.08.2008
+Ukraine,Poland,1,0,20.08.2008
+Belarus,Argentina,0,0,20.08.2008
+Russia,Netherlands,1,1,20.08.2008
+Norway,Rep. of Ireland,1,1,20.08.2008
+Scotland,North. Ireland,0,0,20.08.2008
+Wales,Georgia,1,2,20.08.2008
+Slovenia,Croatia,2,3,20.08.2008
+Finland,Israel,2,0,20.08.2008
+Germany,Belgium,2,0,20.08.2008
+Denmark,Spain,0,3,20.08.2008
+Bosnia & Herzegovina,Bulgaria,1,2,20.08.2008
+Iceland,Azerbaijan,1,1,20.08.2008
+Switzerland,Cyprus,4,1,20.08.2008
+Kazakhstan,Andorra,3,0,20.08.2008
+Austria,Italy,2,2,20.08.2008
+England,Czech Republic,2,2,20.08.2008
+Turkey,Chile,1,0,20.08.2008
+Germany,Spain,0,1,29.06.2008
+Russia,Spain,0,3,26.06.2008
+Germany,Turkey,3,2,25.06.2008
+Italy,Spain,0,0,22.06.2008
+Netherlands,Russia,1,3,21.06.2008
+Croatia,Turkey,1,1,20.06.2008
+Portugal,Germany,2,3,19.06.2008
+Russia,Sweden,2,0,18.06.2008
+Greece,Spain,1,2,18.06.2008
+Netherlands,Romania,2,0,17.06.2008
+France,Italy,0,2,17.06.2008
+Croatia,Poland,1,0,16.06.2008
+Austria,Germany,0,1,16.06.2008
+Switzerland,Portugal,2,0,15.06.2008
+Czech Republic,Turkey,2,3,15.06.2008
+Spain,Sweden,2,1,14.06.2008
+Greece,Russia,0,1,14.06.2008
+Italy,Romania,1,1,13.06.2008
+France,Netherlands,1,4,13.06.2008
+Croatia,Germany,2,1,12.06.2008
+Austria,Poland,1,1,12.06.2008
+Czech Republic,Portugal,1,3,11.06.2008
+Switzerland,Turkey,1,2,11.06.2008
+Greece,Sweden,0,2,10.06.2008
+Russia,Spain,1,4,10.06.2008
+Romania,France,0,0,09.06.2008
+Italy,Netherlands,0,3,09.06.2008
+Austria,Croatia,0,1,08.06.2008
+Germany,Poland,2,0,08.06.2008
+Portugal,Turkey,2,0,07.06.2008
+Switzerland,Czech Republic,0,1,07.06.2008
+Estonia,Faroe Islands,4,3,04.06.2008
+Lithuania,Russia,1,4,04.06.2008
+Spain,United States,1,0,04.06.2008
+Andorra,Azerbaijan,1,2,04.06.2008
+France,Colombia,0,0,03.06.2008
+Finland,Belarus,1,1,02.06.2008
+Latvia,Lithuania,2,1,01.06.2008
+Sweden,Ukraine,0,1,01.06.2008
+Greece,Armenia,0,0,01.06.2008
+Netherlands,Wales,2,0,01.06.2008
+Bosnia & Herzegovina,Azerbaijan,1,0,01.06.2008
+Poland,Denmark,1,1,01.06.2008
+Trinidad & Tobago,England,0,3,01.06.2008
+Romania,Montenegro,4,0,31.05.2008
+Portugal,Georgia,2,0,31.05.2008
+Lithuania,Estonia,1,0,31.05.2008
+Hungary,Croatia,1,1,31.05.2008
+Spain,Peru,2,1,31.05.2008
+France,Paraguay,0,0,31.05.2008
+Germany,Serbia,2,1,31.05.2008
+Austria,Malta,5,1,30.05.2008
+Latvia,Estonia,1,0,30.05.2008
+Switzerland,Liechtenstein,3,0,30.05.2008
+Italy,Belgium,3,1,30.05.2008
+Czech Republic,Scotland,3,1,30.05.2008
+Finland,Turkey,0,2,29.05.2008
+Netherlands,Denmark,1,1,29.05.2008
+Rep. of Ireland,Colombia,1,0,29.05.2008
+Moldova,Armenia,2,2,28.05.2008
+Serbia,Russia,1,2,28.05.2008
+Norway,Uruguay,2,2,28.05.2008
+Iceland,Wales,0,1,28.05.2008
+England,United States,2,0,28.05.2008
+Albania,Poland,0,1,27.05.2008
+Luxembourg,Cape Verde,1,1,27.05.2008
+Montenegro,Kazakhstan,3,0,27.05.2008
+Estonia,Georgia,1,1,27.05.2008
+Germany,Belarus,2,2,27.05.2008
+Czech Republic,Lithuania,2,0,27.05.2008
+France,Ecuador,2,0,27.05.2008
+Austria,Nigeria,1,1,27.05.2008
+Poland,Macedonia,1,1,26.05.2008
+Sweden,Slovenia,1,0,26.05.2008
+Uruguay,Turkey,3,2,25.05.2008
+Croatia,Moldova,1,0,24.05.2008
+Hungary,Greece,3,2,24.05.2008
+Netherlands,Ukraine,3,0,24.05.2008
+Switzerland,Slovakia,2,0,24.05.2008
+Rep. of Ireland,Serbia,1,1,24.05.2008
+Russia,Kazakhstan,6,0,23.05.2008
+Slovakia,Turkey,0,1,20.05.2008
+Greece,Cyprus,2,0,19.05.2008
+Malta,Liechtenstein,7,1,26.03.2008
+Luxembourg,Wales,0,2,26.03.2008
+Bosnia & Herzegovina,Macedonia,2,2,26.03.2008
+Greece,Portugal,2,1,26.03.2008
+Slovakia,Iceland,1,2,26.03.2008
+Andorra,Latvia,0,3,26.03.2008
+Brazil,Sweden,1,0,26.03.2008
+Armenia,Kazakhstan,1,0,26.03.2008
+Ukraine,Serbia,2,0,26.03.2008
+Belarus,Turkey,2,2,26.03.2008
+Romania,Russia,3,0,26.03.2008
+North. Ireland,Georgia,4,1,26.03.2008
+Bulgaria,Finland,2,1,26.03.2008
+Belgium,Morocco,1,4,26.03.2008
+Spain,Italy,1,0,26.03.2008
+Lithuania,Azerbaijan,1,0,26.03.2008
+Hungary,Slovenia,0,1,26.03.2008
+Poland,United States,0,3,26.03.2008
+Austria,Netherlands,3,4,26.03.2008
+France,England,1,0,26.03.2008
+Israel,Chile,1,0,26.03.2008
+Scotland,Croatia,1,1,26.03.2008
+Estonia,Canada,2,0,26.03.2008
+Switzerland,Germany,0,4,26.03.2008
+Montenegro,Norway,3,1,26.03.2008
+Denmark,Czech Republic,1,1,26.03.2008
+Iceland,Faroe Islands,3,0,16.03.2008
+Poland,Estonia,2,0,27.02.2008
+Malta,Belarus,0,1,06.02.2008
+Kazakhstan,Moldova,0,1,06.02.2008
+Macedonia,Serbia,1,1,06.02.2008
+Italy,Portugal,3,1,06.02.2008
+Hungary,Slovakia,1,1,06.02.2008
+Georgia,Latvia,1,3,06.02.2008
+Turkey,Sweden,0,0,06.02.2008
+Finland,Greece,1,2,06.02.2008
+Iceland,Armenia,2,0,06.02.2008
+Cyprus,Ukraine,1,1,06.02.2008
+Wales,Norway,3,0,06.02.2008
+North. Ireland,Bulgaria,0,1,06.02.2008
+Spain,France,1,0,06.02.2008
+Slovenia,Denmark,1,2,06.02.2008
+Austria,Germany,0,3,06.02.2008
+Israel,Romania,1,0,06.02.2008
+Croatia,Netherlands,0,3,06.02.2008
+England,Switzerland,2,1,06.02.2008
+Czech Republic,Poland,0,2,06.02.2008
+Rep. of Ireland,Brazil,0,1,06.02.2008
+Greece,Czech Republic*,1,0,05.02.2008
+Malta,Iceland,1,0,04.02.2008
+Armenia,Belarus,2,1,04.02.2008
+Azerbaijan,Kazakhstan,0,0,03.02.2008
+Malta,Armenia,0,1,02.02.2008
+Belarus,Iceland,2,0,02.02.2008
+Finland*,Poland,0,1,02.02.2008
+Saudi Arabia,Luxembourg,2,1,30.01.2008
+Japan,Bosnia & Herzegovina,3,0,30.01.2008
+United States,Sweden,2,0,19.01.2008
+Costa Rica,Sweden,0,1,13.01.2008
+Bosnia & Herzegovina*,Poland,0,1,15.12.2007
+Serbia,Kazakhstan,1,0,24.11.2007
+Israel,Macedonia,1,0,21.11.2007
+Portugal,Finland,0,0,21.11.2007
+San Marino,Slovakia,0,5,21.11.2007
+Sweden,Latvia,2,1,21.11.2007
+Hungary,Greece,1,2,21.11.2007
+Armenia,Kazakhstan,0,1,21.11.2007
+Ukraine,France,2,2,21.11.2007
+Belarus,Netherlands,2,1,21.11.2007
+Andorra,Russia,0,1,21.11.2007
+Spain,North. Ireland,1,0,21.11.2007
+Germany,Wales,0,0,21.11.2007
+Azerbaijan,Belgium,0,1,21.11.2007
+Slovenia,Bulgaria,0,2,21.11.2007
+Serbia,Poland,2,2,21.11.2007
+Denmark,Iceland,3,0,21.11.2007
+Italy,Faroe Islands,3,1,21.11.2007
+Austria,Tunisia,0,0,21.11.2007
+Romania,Albania,6,1,21.11.2007
+Turkey,Bosnia & Herzegovina,1,0,21.11.2007
+England,Croatia,2,3,21.11.2007
+Uzbekistan,Estonia,0,0,21.11.2007
+Georgia,Lithuania,0,2,21.11.2007
+Malta,Norway,1,4,21.11.2007
+Cyprus,Czech Republic,0,2,21.11.2007
+Switzerland,Nigeria,0,1,20.11.2007
+Albania,Belarus,2,4,17.11.2007
+Moldova,Hungary,3,0,17.11.2007
+Netherlands,Luxembourg,1,0,17.11.2007
+Portugal,Armenia,1,0,17.11.2007
+Czech Republic,Slovakia,3,1,17.11.2007
+Latvia,Liechtenstein,4,1,17.11.2007
+Spain,Sweden,3,0,17.11.2007
+Lithuania,Ukraine,2,0,17.11.2007
+Israel,Russia,2,1,17.11.2007
+Norway,Turkey,1,2,17.11.2007
+North. Ireland,Denmark,2,1,17.11.2007
+Finland,Azerbaijan,2,1,17.11.2007
+Poland,Belgium,2,0,17.11.2007
+Germany,Cyprus,4,0,17.11.2007
+Scotland,Italy,1,2,17.11.2007
+Bulgaria,Romania,1,0,17.11.2007
+Macedonia,Croatia,2,0,17.11.2007
+Andorra,Estonia,0,2,17.11.2007
+Greece,Malta,5,0,17.11.2007
+Wales,Rep. of Ireland,2,2,17.11.2007
+France,Morocco,2,2,16.11.2007
+Austria,England,0,1,16.11.2007
+Qatar,Georgia,1,2,16.11.2007
+Saudi Arabia,Estonia,2,0,09.11.2007
+Albania,Bulgaria,1,1,17.10.2007
+Macedonia,Andorra,3,0,17.10.2007
+Kazakhstan,Portugal,1,2,17.10.2007
+Denmark,Latvia,3,1,17.10.2007
+Sweden,North. Ireland,1,1,17.10.2007
+Liechtenstein,Iceland,3,0,17.10.2007
+Turkey,Greece,0,1,17.10.2007
+Belgium,Armenia,3,0,17.10.2007
+Ukraine,Faroe Islands,5,0,17.10.2007
+Israel,Belarus,2,1,17.10.2007
+Russia,England,2,1,17.10.2007
+San Marino,Wales,1,2,17.10.2007
+Finland,Spain,0,0,17.10.2007
+Azerbaijan,Serbia,1,6,17.10.2007
+Poland,Hungary,0,1,17.10.2007
+Netherlands,Slovenia,2,0,17.10.2007
+France,Lithuania,2,0,17.10.2007
+Italy,South Africa,2,0,17.10.2007
+Austria,C�te d`Ivoire,3,2,17.10.2007
+Luxembourg,Romania,0,2,17.10.2007
+Bosnia & Herzegovina,Norway,0,2,17.10.2007
+Estonia,Montenegro,0,1,17.10.2007
+Switzerland,United States,0,1,17.10.2007
+Georgia,Scotland,2,0,17.10.2007
+Malta,Moldova,2,3,17.10.2007
+Germany,Czech Republic,0,3,17.10.2007
+Rep. of Ireland,Cyprus,1,1,17.10.2007
+Croatia,Slovakia,3,0,16.10.2007
+Slovenia,Albania,0,0,13.10.2007
+Moldova,Turkey,1,1,13.10.2007
+Belarus,Luxembourg,0,1,13.10.2007
+Azerbaijan,Portugal,0,2,13.10.2007
+Slovakia,San Marino,7,0,13.10.2007
+Iceland,Latvia,2,4,13.10.2007
+Liechtenstein,Sweden,0,3,13.10.2007
+Armenia,Serbia,0,0,13.10.2007
+Scotland,Ukraine,3,1,13.10.2007
+Cyprus,Wales,3,1,13.10.2007
+Belgium,Finland,0,0,13.10.2007
+Denmark,Spain,1,3,13.10.2007
+Poland,Kazakhstan,3,1,13.10.2007
+Faroe Islands,France,0,6,13.10.2007
+Switzerland,Austria,3,1,13.10.2007
+Romania,Netherlands,1,0,13.10.2007
+Greece,Bosnia & Herzegovina,3,2,13.10.2007
+Croatia,Israel,1,0,13.10.2007
+England,Estonia,3,0,13.10.2007
+Italy,Georgia,2,0,13.10.2007
+Hungary,Malta,2,0,13.10.2007
+Rep. of Ireland,Germany,0,0,13.10.2007
+Albania,Netherlands,0,1,12.09.2007
+Bulgaria,Luxembourg,3,0,12.09.2007
+Portugal,Serbia,1,1,12.09.2007
+Slovakia,Wales,2,5,12.09.2007
+Spain,Latvia,2,0,12.09.2007
+Denmark,Liechtenstein,4,0,12.09.2007
+Norway,Greece,2,2,12.09.2007
+Ukraine,Italy,1,2,12.09.2007
+Slovenia,Belarus,1,0,12.09.2007
+England,Russia,3,0,12.09.2007
+Iceland,North. Ireland,2,1,12.09.2007
+Cyprus,San Marino,3,0,12.09.2007
+Finland,Poland,0,0,12.09.2007
+Kazakhstan,Belgium,2,2,12.09.2007
+Turkey,Hungary,3,0,12.09.2007
+Lithuania,Faroe Islands,2,1,12.09.2007
+France,Scotland,0,1,12.09.2007
+Germany,Romania,3,1,12.09.2007
+Bosnia & Herzegovina,Moldova,0,1,12.09.2007
+Andorra,Croatia,0,6,12.09.2007
+Macedonia,Estonia,1,1,12.09.2007
+Montenegro,Sweden,1,2,12.09.2007
+Azerbaijan,Georgia,1,1,12.09.2007
+Malta,Armenia,0,1,12.09.2007
+Czech Republic,Rep. of Ireland,1,0,12.09.2007
+Austria,Chile,0,2,11.09.2007
+Switzerland,Japan,3,4,11.09.2007
+Moldova,Norway,0,1,08.09.2007
+Luxembourg,Slovenia,0,3,08.09.2007
+Russia,Macedonia,3,0,08.09.2007
+Portugal,Poland,2,2,08.09.2007
+Latvia,North. Ireland,1,0,08.09.2007
+Sweden,Denmark,0,0,08.09.2007
+Cyprus,Armenia,3,1,08.09.2007
+Wales,Germany,0,2,08.09.2007
+Serbia,Finland,0,0,08.09.2007
+Iceland,Spain,1,1,08.09.2007
+Netherlands,Bulgaria,2,0,08.09.2007
+Scotland,Lithuania,3,1,08.09.2007
+Italy,France,0,0,08.09.2007
+Kazakhstan,Tadzhikistan,1,1,08.09.2007
+England,Israel,3,0,08.09.2007
+Belarus,Romania,1,3,08.09.2007
+Hungary,Bosnia & Herzegovina,1,0,08.09.2007
+Croatia,Estonia,2,0,08.09.2007
+Georgia,Ukraine,1,1,08.09.2007
+Malta,Turkey,2,2,08.09.2007
+San Marino,Czech Republic,0,3,08.09.2007
+Slovakia,Rep. of Ireland,2,2,08.09.2007
+Austria,Japan,0,0,07.09.2007
+Switzerland,Chile,2,1,07.09.2007
+Latvia,Moldova,1,2,22.08.2007
+Macedonia,Nigeria,0,0,22.08.2007
+Armenia,Portugal,1,1,22.08.2007
+Slovakia,France,0,1,22.08.2007
+Sweden,United States,1,0,22.08.2007
+North. Ireland,Liechtenstein,3,1,22.08.2007
+Greece,Spain,2,3,22.08.2007
+Ukraine,Uzbekistan,2,1,22.08.2007
+Belarus,Israel,2,1,22.08.2007
+Russia,Poland,2,2,22.08.2007
+Norway,Argentina,2,1,22.08.2007
+Bulgaria,Wales,0,1,22.08.2007
+San Marino,Cyprus,0,1,22.08.2007
+Finland,Kazakhstan,2,1,22.08.2007
+Belgium,Serbia,3,2,22.08.2007
+Tadzhikistan,Azerbaijan,2,3,22.08.2007
+Hungary,Italy,3,1,22.08.2007
+Iceland,Canada,1,1,22.08.2007
+Lithuania,Turkmenistan,2,1,22.08.2007
+England,Germany,1,2,22.08.2007
+Scotland,South Africa,1,0,22.08.2007
+Austria,Czech Republic,1,1,22.08.2007
+Romania,Turkey,2,0,22.08.2007
+Bosnia & Herzegovina,Croatia,3,5,22.08.2007
+Estonia,Andorra,2,1,22.08.2007
+Switzerland,Netherlands,2,1,22.08.2007
+Montenegro,Slovenia,1,1,22.08.2007
+Luxembourg,Georgia,0,0,22.08.2007
+Albania,Malta,3,0,22.08.2007
+Denmark,Rep. of Ireland,0,4,22.08.2007
+Luxembourg,Albania,0,3,06.06.2007
+Greece,Moldova,2,1,06.06.2007
+Germany,Slovakia,2,1,06.06.2007
+Latvia,Denmark,0,2,06.06.2007
+Sweden,Iceland,5,0,06.06.2007
+Liechtenstein,Spain,0,2,06.06.2007
+Armenia,Poland,1,0,06.06.2007
+Bulgaria,Belarus,2,1,06.06.2007
+Norway,Hungary,4,0,06.06.2007
+Finland,Belgium,2,0,06.06.2007
+Kazakhstan,Azerbaijan,1,1,06.06.2007
+Thailand,Netherlands,1,3,06.06.2007
+Lithuania,Italy,0,2,06.06.2007
+Andorra,Israel,0,2,06.06.2007
+Faroe Islands,Scotland,0,2,06.06.2007
+Romania,Slovenia,2,0,06.06.2007
+Bosnia & Herzegovina,Malta,1,0,06.06.2007
+Croatia,Russia,0,0,06.06.2007
+Estonia,England,0,3,06.06.2007
+France,Georgia,1,0,06.06.2007
+Kuwait*,Portugal,1,1,05.06.2007
+Brazil,Turkey,0,0,05.06.2007
+Colombia,Montenegro,1,0,03.06.2007
+Albania,Luxembourg,2,0,02.06.2007
+Macedonia,Israel,1,2,02.06.2007
+Belgium,Portugal,1,2,02.06.2007
+Latvia,Spain,0,2,02.06.2007
+Denmark,Sweden,3,3,02.06.2007
+Iceland,Liechtenstein,1,1,02.06.2007
+Greece,Hungary,2,0,02.06.2007
+Kazakhstan,Armenia,1,2,02.06.2007
+France,Ukraine,2,0,02.06.2007
+Belarus,Bulgaria,0,2,02.06.2007
+Russia,Andorra,4,0,02.06.2007
+Germany,San Marino,6,0,02.06.2007
+Finland,Serbia,0,2,02.06.2007
+Azerbaijan,Poland,1,3,02.06.2007
+South Korea,Netherlands,0,2,02.06.2007
+Faroe Islands,Italy,1,2,02.06.2007
+Austria,Paraguay,0,0,02.06.2007
+Slovenia,Romania,1,2,02.06.2007
+Bosnia & Herzegovina,Turkey,3,2,02.06.2007
+Estonia,Croatia,0,1,02.06.2007
+Switzerland,Argentina,1,1,02.06.2007
+Lithuania,Georgia,1,0,02.06.2007
+Norway,Malta,4,0,02.06.2007
+Wales,Czech Republic,0,0,02.06.2007
+England,Brazil,1,1,01.06.2007
+Japan,Montenegro,2,0,01.06.2007
+Austria,Scotland,0,1,30.05.2007
+Wales,New Zealand,2,2,26.05.2007
+Bolivia,Rep. of Ireland,1,1,26.05.2007
+Ecuador,Rep. of Ireland,1,1,23.05.2007
+Slovenia,Netherlands,0,1,28.03.2007
+Bulgaria,Albania,0,0,28.03.2007
+Hungary,Moldova,2,0,28.03.2007
+Serbia,Portugal,1,1,28.03.2007
+Liechtenstein,Latvia,1,0,28.03.2007
+North. Ireland,Sweden,2,1,28.03.2007
+Poland,Armenia,1,0,28.03.2007
+Ukraine,Lithuania,1,0,28.03.2007
+Turkey,Norway,2,2,28.03.2007
+Wales,San Marino,3,0,28.03.2007
+Azerbaijan,Finland,1,0,28.03.2007
+Spain,Iceland,1,0,28.03.2007
+Andorra,England,0,3,28.03.2007
+Germany,Denmark,0,1,28.03.2007
+Italy,Scotland,2,0,28.03.2007
+France,Austria,1,0,28.03.2007
+Romania,Luxembourg,3,0,28.03.2007
+Israel,Estonia,4,0,28.03.2007
+Georgia,Faroe Islands,3,1,28.03.2007
+Malta,Greece,0,1,28.03.2007
+Czech Republic,Cyprus,1,0,28.03.2007
+Rep. of Ireland,Slovakia,1,0,28.03.2007
+Colombia,Switzerland,3,1,25.03.2007
+Albania,Slovenia,0,0,24.03.2007
+Luxembourg,Belarus,1,2,24.03.2007
+Portugal,Belgium,4,0,24.03.2007
+Cyprus,Slovakia,1,3,24.03.2007
+Liechtenstein,North. Ireland,1,4,24.03.2007
+Greece,Turkey,1,4,24.03.2007
+Faroe Islands,Ukraine,0,2,24.03.2007
+Spain,Denmark,2,1,24.03.2007
+Poland,Azerbaijan,5,0,24.03.2007
+Lithuania,France,0,1,24.03.2007
+Kazakhstan,Serbia,2,1,24.03.2007
+Israel,England,0,0,24.03.2007
+Austria,Ghana,1,1,24.03.2007
+Netherlands,Romania,0,0,24.03.2007
+Norway,Bosnia & Herzegovina,1,2,24.03.2007
+Croatia,Macedonia,2,1,24.03.2007
+Estonia,Russia,0,2,24.03.2007
+Montenegro,Hungary,2,1,24.03.2007
+Scotland,Georgia,2,1,24.03.2007
+Moldova,Malta,1,1,24.03.2007
+Czech Republic,Germany,1,2,24.03.2007
+Rep. of Ireland,Wales,1,0,24.03.2007
+Jamaica,Switzerland,0,2,22.03.2007
+Kyrgyzstan,Azerbaijan,0,1,11.03.2007
+Kazakhstan,Uzbekistan,1,1,11.03.2007
+Azerbaijan,Kazakhstan,0,1,09.03.2007
+Uzbekistan,Azerbaijan,0,1,07.03.2007
+Kazakhstan,Kyrgyzstan,2,0,07.03.2007
+Albania,Macedonia,0,1,07.02.2007
+Luxembourg,Gambia,2,1,07.02.2007
+Poland,Slovakia,2,2,07.02.2007
+Hungary,Latvia,2,0,07.02.2007
+Egypt,Sweden,2,0,07.02.2007
+Andorra,Armenia,0,0,07.02.2007
+Israel,Ukraine,1,1,07.02.2007
+Iran,Belarus,2,2,07.02.2007
+Netherlands,Russia,4,1,07.02.2007
+England,Spain,0,1,07.02.2007
+Cyprus,Bulgaria,0,3,07.02.2007
+Uzbekistan,Azerbaijan,0,0,07.02.2007
+France,Argentina,0,1,07.02.2007
+China,Kazakhstan,2,1,07.02.2007
+Malta,Austria,1,1,07.02.2007
+Romania,Moldova,2,0,07.02.2007
+Croatia,Norway,2,1,07.02.2007
+Slovenia,Estonia,1,0,07.02.2007
+Germany,Switzerland,3,1,07.02.2007
+Georgia,Turkey,1,0,07.02.2007
+Belgium,Czech Republic,0,2,07.02.2007
+San Marino,Rep. of Ireland,1,2,07.02.2007
+Brazil,Portugal,0,2,06.02.2007
+Bulgaria,Latvia,2,0,06.02.2007
+Greece,South Korea,0,1,06.02.2007
+North. Ireland,Wales,0,0,06.02.2007
+Cyprus,Hungary,2,1,06.02.2007
+Mali,Lithuania,3,1,06.02.2007
+Australia,Denmark,1,3,06.02.2007
+Poland,Estonia,4,0,03.02.2007
+Ecuador,Sweden,1,1,21.01.2007
+Ecuador,Sweden,2,1,18.01.2007
+Venezuela,Sweden,2,0,14.01.2007
+Panama,Armenia,1,1,14.01.2007
+Thailand,Kazakhstan,2,2,28.12.2006
+Vietnam,Kazakhstan,2,1,26.12.2006
+Singapore,Kazakhstan,0,0,24.12.2006
+U.A.E.,Slovakia,1,2,10.12.2006
+U.A.E.,Poland,2,5,06.12.2006
+Luxembourg,Togo,0,0,15.11.2006
+Macedonia,Russia,0,2,15.11.2006
+Portugal,Kazakhstan,3,0,15.11.2006
+Slovakia,Bulgaria,3,1,15.11.2006
+C�te d`Ivoire,Sweden,1,0,15.11.2006
+France,Greece,1,0,15.11.2006
+Finland,Armenia,1,0,15.11.2006
+Belgium,Poland,0,1,15.11.2006
+Hungary,Canada,1,0,15.11.2006
+Netherlands,England,1,1,15.11.2006
+Cyprus,Germany,1,1,15.11.2006
+Italy,Turkey,1,1,15.11.2006
+Serbia,Norway,1,1,15.11.2006
+Austria,Trinidad & Tobago,4,1,15.11.2006
+Spain,Romania,0,1,15.11.2006
+Israel,Croatia,3,4,15.11.2006
+Estonia,Belarus,2,1,15.11.2006
+Switzerland,Brazil,1,2,15.11.2006
+Georgia,Uruguay,2,0,15.11.2006
+Malta,Lithuania,1,4,15.11.2006
+Czech Republic,Denmark,1,1,15.11.2006
+Rep. of Ireland,San Marino,5,0,15.11.2006
+Wales,Liechtenstein,4,0,14.11.2006
+Belarus,Slovenia,4,2,11.10.2006
+Netherlands,Albania,2,1,11.10.2006
+Luxembourg,Bulgaria,0,1,11.10.2006
+Andorra,Macedonia,0,3,11.10.2006
+Poland,Portugal,2,1,11.10.2006
+Slovakia,Germany,1,4,11.10.2006
+North. Ireland,Latvia,1,0,11.10.2006
+Iceland,Sweden,1,2,11.10.2006
+Liechtenstein,Denmark,0,4,11.10.2006
+Ukraine,Scotland,2,0,11.10.2006
+Wales,Cyprus,3,1,11.10.2006
+Kazakhstan,Finland,0,2,11.10.2006
+Belgium,Azerbaijan,3,0,11.10.2006
+Spain,Argentina,2,1,11.10.2006
+Kuwait,Lithuania,1,0,11.10.2006
+France,Faroe Islands,5,0,11.10.2006
+Turkey,Moldova,5,0,11.10.2006
+Serbia,Armenia,3,0,11.10.2006
+Austria,Switzerland,2,1,11.10.2006
+Bosnia & Herzegovina,Greece,0,4,11.10.2006
+Croatia,England,2,0,11.10.2006
+Russia,Estonia,2,0,11.10.2006
+Georgia,Italy,1,3,11.10.2006
+Malta,Hungary,2,1,11.10.2006
+Rep. of Ireland,Czech Republic,1,1,11.10.2006
+Slovenia,Luxembourg,2,0,07.10.2006
+England,Macedonia,0,0,07.10.2006
+Portugal,Azerbaijan,3,0,07.10.2006
+Wales,Slovakia,1,5,07.10.2006
+Latvia,Iceland,4,0,07.10.2006
+Sweden,Spain,2,0,07.10.2006
+Greece,Norway,1,0,07.10.2006
+Armenia,Finland,0,0,07.10.2006
+Italy,Ukraine,2,0,07.10.2006
+Russia,Israel,1,1,07.10.2006
+Denmark,North. Ireland,0,0,07.10.2006
+Bulgaria,Netherlands,1,1,07.10.2006
+Hungary,Turkey,0,1,07.10.2006
+Kazakhstan,Poland,0,1,07.10.2006
+Faroe Islands,Lithuania,0,1,07.10.2006
+Scotland,France,1,0,07.10.2006
+Moldova,Bosnia & Herzegovina,2,2,07.10.2006
+Serbia,Belgium,1,0,07.10.2006
+Romania,Belarus,3,1,07.10.2006
+Croatia,Andorra,7,0,07.10.2006
+Germany,Georgia,2,0,07.10.2006
+Czech Republic,San Marino,7,0,07.10.2006
+Cyprus,Rep. of Ireland,5,2,07.10.2006
+Liechtenstein,Austria,1,2,06.10.2006
+Bulgaria,Slovenia,3,0,06.09.2006
+Luxembourg,Latvia,0,0,06.09.2006
+Macedonia,England,0,1,06.09.2006
+Finland,Portugal,1,1,06.09.2006
+Sweden,Liechtenstein,3,1,06.09.2006
+Armenia,Belgium,0,1,06.09.2006
+Netherlands,Belarus,3,0,06.09.2006
+North. Ireland,Spain,3,2,06.09.2006
+San Marino,Germany,0,13,06.09.2006
+Azerbaijan,Kazakhstan,1,1,06.09.2006
+Iceland,Denmark,0,2,06.09.2006
+Lithuania,Scotland,1,2,06.09.2006
+Israel,Andorra,4,1,06.09.2006
+France,Italy,3,1,06.09.2006
+Norway,Moldova,2,0,06.09.2006
+Poland,Serbia,1,1,06.09.2006
+Austria,Venezuela,0,1,06.09.2006
+Albania,Romania,0,2,06.09.2006
+Bosnia & Herzegovina,Hungary,1,3,06.09.2006
+Russia,Croatia,0,0,06.09.2006
+Switzerland,Costa Rica,2,0,06.09.2006
+Ukraine,Georgia,3,2,06.09.2006
+Turkey,Malta,2,0,06.09.2006
+Slovakia,Czech Republic,0,3,06.09.2006
+Brazil,Wales,2,0,05.09.2006
+Belarus,Albania,2,2,02.09.2006
+Luxembourg,Netherlands,0,1,02.09.2006
+Slovakia,Cyprus,6,1,02.09.2006
+Latvia,Sweden,0,1,02.09.2006
+Spain,Liechtenstein,4,0,02.09.2006
+Hungary,Norway,1,4,02.09.2006
+North. Ireland,Iceland,0,3,02.09.2006
+Poland,Finland,1,3,02.09.2006
+Italy,Lithuania,1,1,02.09.2006
+England,Andorra,5,0,02.09.2006
+Scotland,Faroe Islands,6,0,02.09.2006
+Moldova,Greece,0,1,02.09.2006
+Serbia,Azerbaijan,1,0,02.09.2006
+Austria,Costa Rica,2,2,02.09.2006
+Romania,Bulgaria,2,2,02.09.2006
+Malta,Bosnia & Herzegovina,2,5,02.09.2006
+Estonia,Israel,0,1,02.09.2006
+Switzerland,Venezuela,1,0,02.09.2006
+Georgia,France,0,3,02.09.2006
+Czech Republic,Wales,2,1,02.09.2006
+Germany,Rep. of Ireland,1,0,02.09.2006
+Denmark,Portugal,4,2,01.09.2006
+San Marino,Albania,0,3,16.08.2006
+Moldova,Lithuania,3,2,16.08.2006
+Luxembourg,Turkey,0,1,16.08.2006
+Russia,Latvia,1,0,16.08.2006
+Germany,Sweden,3,0,16.08.2006
+England,Greece,4,0,16.08.2006
+Belarus,Andorra,3,0,16.08.2006
+Norway,Brazil,1,1,16.08.2006
+Finland,North. Ireland,1,2,16.08.2006
+Belgium,Kazakhstan,0,0,16.08.2006
+Denmark,Poland,2,0,16.08.2006
+Czech Republic,Serbia,1,3,16.08.2006
+Austria,Hungary,1,2,16.08.2006
+Romania,Cyprus,2,0,16.08.2006
+Bosnia & Herzegovina,France,1,2,16.08.2006
+Italy,Croatia,0,2,16.08.2006
+Estonia,Macedonia,0,1,16.08.2006
+Liechtenstein,Switzerland,0,3,16.08.2006
+Faroe Islands,Georgia,0,6,16.08.2006
+Rep. of Ireland,Netherlands,0,4,16.08.2006
+Slovenia,Israel,1,1,15.08.2006
+Ukraine,Azerbaijan,6,0,15.08.2006
+Wales,Bulgaria,0,0,15.08.2006
+Iceland,Spain,0,0,15.08.2006
+Slovakia,Malta,3,0,15.08.2006
+France,Italy,1,1,09.07.2006
+Germany,Portugal,3,1,08.07.2006
+France,Portugal,1,0,05.07.2006
+Kazakhstan,Kyrgyzstan,1,0,05.07.2006
+Germany,Italy,0,2,04.07.2006
+Kazakhstan,Tadzhikistan,4,1,02.07.2006
+England,Portugal,0,0,01.07.2006
+Brazil,France,0,1,01.07.2006
+Italy,Ukraine,3,0,30.06.2006
+Germany,Argentina,1,1,30.06.2006
+France,Spain,3,1,27.06.2006
+Australia,Italy,0,1,26.06.2006
+Switzerland,Ukraine,0,0,26.06.2006
+Netherlands,Portugal,0,1,25.06.2006
+Ecuador,England,0,1,25.06.2006
+Germany,Sweden,2,0,24.06.2006
+Tunisia,Ukraine,0,1,23.06.2006
+Saudi Arabia,Spain,0,1,23.06.2006
+Togo,France,0,2,23.06.2006
+Switzerland,South Korea,2,0,23.06.2006
+Australia,Croatia,2,2,22.06.2006
+Czech Republic,Italy,0,2,22.06.2006
+Portugal,Mexico,2,1,21.06.2006
+Argentina,Netherlands,0,0,21.06.2006
+C�te d`Ivoire,Serbia & Montenegro,3,2,21.06.2006
+Sweden,England,2,2,20.06.2006
+Costa Rica,Poland,1,2,20.06.2006
+Germany,Ecuador,3,0,20.06.2006
+Saudi Arabia,Ukraine,0,4,19.06.2006
+Tunisia,Spain,1,3,19.06.2006
+Switzerland,Togo,2,0,19.06.2006
+South Korea,France,1,1,18.06.2006
+Japan,Croatia,0,0,18.06.2006
+Portugal,Iran,2,0,17.06.2006
+United States,Italy,1,1,17.06.2006
+Ghana,Czech Republic,2,0,17.06.2006
+C�te d`Ivoire,Netherlands,1,2,16.06.2006
+Argentina,Serbia & Montenegro,6,0,16.06.2006
+Paraguay,Sweden,0,1,15.06.2006
+Trinidad & Tobago,England,0,2,15.06.2006
+Spain,Ukraine,4,0,14.06.2006
+Germany,Poland,1,0,14.06.2006
+Brazil,Croatia,1,0,13.06.2006
+France,Switzerland,0,0,13.06.2006
+Ghana,Italy,0,2,12.06.2006
+United States,Czech Republic,0,3,12.06.2006
+Angola,Portugal,0,1,11.06.2006
+Serbia & Montenegro,Netherlands,0,1,11.06.2006
+Trinidad & Tobago,Sweden,0,0,10.06.2006
+Paraguay,England,0,1,10.06.2006
+Ecuador,Poland,2,0,09.06.2006
+Germany,Costa Rica,4,2,09.06.2006
+Luxembourg,Ukraine,0,3,08.06.2006
+Liechtenstein,Australia,1,3,07.06.2006
+France,China,3,1,07.06.2006
+Croatia,Spain,1,2,07.06.2006
+Libya,Ukraine,0,3,05.06.2006
+C�te d`Ivoire,Slovenia,3,0,04.06.2006
+Macedonia,Turkey,1,0,04.06.2006
+Netherlands,Australia,1,1,04.06.2006
+Japan,Malta,1,0,04.06.2006
+Luxembourg,Portugal,0,3,03.06.2006
+Spain,Egypt,2,0,03.06.2006
+England,Jamaica,6,0,03.06.2006
+Croatia,Poland,0,1,03.06.2006
+Switzerland,China,4,1,03.06.2006
+Czech Republic,Trinidad & Tobago,3,0,03.06.2006
+Sweden,Chile,1,1,02.06.2006
+Liechtenstein,Togo,0,1,02.06.2006
+Italy,Ukraine,0,0,02.06.2006
+Libya,Belarus,1,1,02.06.2006
+Germany,Colombia,3,0,02.06.2006
+Angola,Turkey,2,3,02.06.2006
+Norway,South Korea,0,0,01.06.2006
+Netherlands,Mexico,2,1,01.06.2006
+Slovenia,Trinidad & Tobago,3,1,31.05.2006
+Iran,Bosnia & Herzegovina,5,2,31.05.2006
+France,Denmark,2,0,31.05.2006
+Saudi Arabia,Turkey,0,1,31.05.2006
+Estonia,New Zealand,1,1,31.05.2006
+Switzerland,Italy,1,1,31.05.2006
+Paraguay,Georgia,1,0,31.05.2006
+Tunisia,Belarus,3,0,30.05.2006
+England,Hungary,3,1,30.05.2006
+Poland,Colombia,1,2,30.05.2006
+Germany,Japan,2,2,30.05.2006
+Czech Republic,Costa Rica,1,0,30.05.2006
+Ecuador,Macedonia,1,2,28.05.2006
+United States,Latvia,1,0,28.05.2006
+Ukraine,Costa Rica,4,0,28.05.2006
+Croatia,Iran,2,2,28.05.2006
+Turkey,Estonia,1,1,28.05.2006
+Germany,Luxembourg,7,0,27.05.2006
+Portugal,Cape Verde,4,1,27.05.2006
+Spain,Russia,0,0,27.05.2006
+Trinidad & Tobago,Wales,1,2,27.05.2006
+Netherlands,Cameroon,1,0,27.05.2006
+France,Mexico,1,0,27.05.2006
+Denmark,Paraguay,1,1,27.05.2006
+Serbia & Montenegro,Uruguay,1,1,27.05.2006
+Romania,Colombia,0,0,27.05.2006
+Switzerland,C�te d`Ivoire,1,1,27.05.2006
+New Zealand,Georgia,3,1,27.05.2006
+South Korea,Bosnia & Herzegovina,2,0,26.05.2006
+Ghana,Turkey,1,1,26.05.2006
+Romania,North. Ireland,2,0,26.05.2006
+Czech Republic,Saudi Arabia,2,0,26.05.2006
+Sweden,Finland,0,0,25.05.2006
+Australia,Greece,1,0,25.05.2006
+Norway,Paraguay,2,2,24.05.2006
+Belgium,Turkey,3,3,24.05.2006
+Hungary,New Zealand,2,0,24.05.2006
+Romania,Uruguay,0,2,24.05.2006
+Rep. of Ireland,Chile,0,1,24.05.2006
+Austria,Croatia,1,4,23.05.2006
+Uruguay,North. Ireland,1,0,21.05.2006
+Slovakia,Belgium,1,1,20.05.2006
+Moldova,Azerbaijan,0,0,18.05.2006
+Poland,Faroe Islands,4,0,14.05.2006
+Japan,Scotland,0,0,13.05.2006
+Saudi Arabia,Belgium,1,2,11.05.2006
+Bulgaria,Scotland,1,5,11.05.2006
+Japan,Bulgaria,1,2,09.05.2006
+Poland,Lithuania,0,1,02.05.2006
+Azerbaijan,Turkey,1,1,12.04.2006
+Saudi Arabia,Poland,1,2,28.03.2006
+Germany,United States,4,1,22.03.2006
+Albania,Georgia,0,0,22.03.2006
+Albania,Lithuania,1,2,01.03.2006
+Luxembourg,Belgium,0,2,01.03.2006
+Macedonia,Bulgaria,0,1,01.03.2006
+Portugal,Saudi Arabia,3,0,01.03.2006
+France,Slovakia,1,2,01.03.2006
+Greece,Kazakhstan,2,0,01.03.2006
+Cyprus,Armenia,2,0,01.03.2006
+Belarus,Finland,2,2,01.03.2006
+Senegal,Norway,2,1,01.03.2006
+Russia,Brazil,0,1,01.03.2006
+Wales,Paraguay,0,0,01.03.2006
+Spain,C�te d`Ivoire,3,2,01.03.2006
+United States,Poland,1,0,01.03.2006
+Netherlands,Ecuador,1,0,01.03.2006
+Italy,Germany,4,1,01.03.2006
+Israel,Denmark,0,2,01.03.2006
+Austria,Canada,0,2,01.03.2006
+England,Uruguay,2,1,01.03.2006
+Tunisia,Serbia & Montenegro,0,1,01.03.2006
+Romania,Slovenia,2,0,01.03.2006
+Argentina,Croatia,2,3,01.03.2006
+North. Ireland,Estonia,1,0,01.03.2006
+Scotland,Switzerland,1,3,01.03.2006
+Malta,Georgia,0,2,01.03.2006
+Turkey,Czech Republic,2,2,01.03.2006
+Rep. of Ireland,Sweden,3,0,01.03.2006
+Cyprus,Slovenia,0,1,28.02.2006
+Belarus,Greece,0,1,28.02.2006
+Azerbaijan,Ukraine,0,0,28.02.2006
+Finland,Kazakhstan,0,0,28.02.2006
+Japan,Bosnia & Herzegovina,2,2,28.02.2006
+Trinidad & Tobago,Iceland,2,0,28.02.2006
+Romania,Armenia,2,0,28.02.2006
+Malta,Moldova*,0,2,25.02.2006
+North Korea,Kazakhstan,0,0,24.02.2006
+Japan,Finland,2,0,18.02.2006
+Jordan,Kazakhstan,2,0,14.02.2006
+Hong Kong,Croatia,0,4,01.02.2006
+United States,Norway,5,0,29.01.2006
+South Korea,Croatia,2,0,29.01.2006
+Saudi Arabia,Greece,1,1,25.01.2006
+Mexico,Norway,2,1,25.01.2006
+South Korea,Finland,1,0,25.01.2006
+Jordan,Sweden,0,0,23.01.2006
+South Korea,Greece,1,1,21.01.2006
+Saudi Arabia,Finland,1,1,21.01.2006
+Saudi Arabia,Sweden,1,1,18.01.2006
+North Korea,Latvia,1,2,30.12.2005
+Oman,Latvia,1,2,28.12.2005
+North Korea,Latvia,1,1,26.12.2005
+Thailand,Latvia,1,1,24.12.2005
+Antigua & Barbuda,Hungary,0,3,18.12.2005
+Mexico,Hungary,2,0,14.12.2005
+Luxembourg,Canada,0,1,16.11.2005
+Slovakia,Spain,1,1,16.11.2005
+Greece,Hungary,2,1,16.11.2005
+Cyprus,Wales,1,0,16.11.2005
+Mexico,Bulgaria,0,3,16.11.2005
+C�te d`Ivoire,Italy,1,1,16.11.2005
+South Korea,Serbia & Montenegro,2,0,16.11.2005
+Romania,Nigeria,3,0,16.11.2005
+Poland,Estonia,3,1,16.11.2005
+Turkey,Switzerland,4,2,16.11.2005
+Georgia,Jordan,3,2,16.11.2005
+Czech Republic,Norway,1,0,16.11.2005
+North. Ireland,Portugal,1,1,15.11.2005
+Paraguay,Macedonia,1,0,13.11.2005
+Ecuador,Poland,0,3,13.11.2005
+China,Serbia & Montenegro,0,2,13.11.2005
+Liechtenstein,Macedonia,1,2,12.11.2005
+Spain,Slovakia,5,1,12.11.2005
+Belarus,Latvia,3,1,12.11.2005
+South Korea,Sweden,2,2,12.11.2005
+Netherlands,Italy,1,3,12.11.2005
+France,Germany,0,0,12.11.2005
+Scotland,United States,1,1,12.11.2005
+Argentina,England,2,3,12.11.2005
+Romania,C�te d`Ivoire,1,2,12.11.2005
+Portugal,Croatia,2,0,12.11.2005
+Finland,Estonia,2,2,12.11.2005
+Switzerland,Turkey,2,0,12.11.2005
+Bulgaria,Georgia,6,2,12.11.2005
+Norway,Czech Republic,0,1,12.11.2005
+Iran,Macedonia,1,2,11.11.2005
+France,Costa Rica,3,2,09.11.2005
+Slovenia,Scotland,0,3,12.10.2005
+Albania,Turkey,0,1,12.10.2005
+Netherlands,Macedonia,0,0,12.10.2005
+Portugal,Latvia,3,0,12.10.2005
+Slovakia,Russia,0,0,12.10.2005
+Sweden,Iceland,3,1,12.10.2005
+Andorra,Armenia,0,3,12.10.2005
+Ukraine,Japan,1,0,12.10.2005
+Belarus,Norway,0,1,12.10.2005
+Austria,North. Ireland,2,0,12.10.2005
+Wales,Azerbaijan,2,0,12.10.2005
+San Marino,Spain,0,6,12.10.2005
+Lithuania,Belgium,1,1,12.10.2005
+England,Poland,2,1,12.10.2005
+France,Cyprus,4,0,12.10.2005
+Kazakhstan,Denmark,1,2,12.10.2005
+Germany,China,1,0,12.10.2005
+Italy,Moldova,2,1,12.10.2005
+Serbia & Montenegro,Bosnia & Herzegovina,1,0,12.10.2005
+Hungary,Croatia,0,0,12.10.2005
+Luxembourg,Estonia,0,2,12.10.2005
+Rep. of Ireland,Switzerland,0,0,12.10.2005
+Greece,Georgia,1,0,12.10.2005
+Malta,Bulgaria,1,1,12.10.2005
+Finland,Czech Republic,0,3,12.10.2005
+Cyprus,Rep. of Ireland,0,1,08.10.2005
+Italy,Slovenia,1,0,08.10.2005
+Ukraine,Albania,2,2,08.10.2005
+Norway,Moldova,1,0,08.10.2005
+Russia,Luxembourg,5,1,08.10.2005
+Portugal,Liechtenstein,2,1,08.10.2005
+Latvia,Japan,2,2,08.10.2005
+Denmark,Greece,1,0,08.10.2005
+Scotland,Belarus,0,1,08.10.2005
+North. Ireland,Wales,2,3,08.10.2005
+Bosnia & Herzegovina,San Marino,3,0,08.10.2005
+Belgium,Spain,0,2,08.10.2005
+Bulgaria,Hungary,2,0,08.10.2005
+Turkey,Germany,2,1,08.10.2005
+England,Austria,1,0,08.10.2005
+Israel,Faroe Islands,2,1,08.10.2005
+Lithuania,Serbia & Montenegro,0,2,08.10.2005
+Finland,Romania,0,1,08.10.2005
+Croatia,Sweden,1,0,08.10.2005
+Slovakia,Estonia,1,0,08.10.2005
+Switzerland,France,1,1,08.10.2005
+Georgia,Kazakhstan,0,0,08.10.2005
+Czech Republic,Netherlands,0,2,08.10.2005
+Poland,Iceland,3,2,07.10.2005
+Rep. of Ireland,France,0,1,07.09.2005
+Liechtenstein,Luxembourg,3,0,07.09.2005
+Finland,Macedonia,5,1,07.09.2005
+Russia,Portugal,0,0,07.09.2005
+Hungary,Sweden,0,1,07.09.2005
+Kazakhstan,Greece,1,2,07.09.2005
+Ukraine,Turkey,0,1,07.09.2005
+Belarus,Italy,1,4,07.09.2005
+Norway,Scotland,1,2,07.09.2005
+North. Ireland,England,1,0,07.09.2005
+Poland,Wales,1,0,07.09.2005
+Lithuania,Bosnia & Herzegovina,0,1,07.09.2005
+Bulgaria,Iceland,3,2,07.09.2005
+Azerbaijan,Austria,0,0,07.09.2005
+Germany,South Africa,4,2,07.09.2005
+Faroe Islands,Israel,0,2,07.09.2005
+Belgium,San Marino,8,0,07.09.2005
+Netherlands,Andorra,4,0,07.09.2005
+Moldova,Slovenia,1,2,07.09.2005
+Latvia,Slovakia,1,1,07.09.2005
+Spain,Serbia & Montenegro,1,1,07.09.2005
+Malta,Croatia,1,1,07.09.2005
+Cyprus,Switzerland,1,3,07.09.2005
+Denmark,Georgia,6,1,07.09.2005
+Czech Republic,Armenia,4,1,07.09.2005
+Albania,Kazakhstan,2,1,03.09.2005
+Portugal,Luxembourg,6,0,03.09.2005
+Sweden,Bulgaria,3,0,03.09.2005
+Russia,Liechtenstein,2,0,03.09.2005
+North. Ireland,Azerbaijan,2,0,03.09.2005
+Wales,England,0,1,03.09.2005
+Andorra,Finland,0,0,03.09.2005
+Spain,Canada,2,1,03.09.2005
+Poland,Austria,3,2,03.09.2005
+France,Faroe Islands,3,0,03.09.2005
+Turkey,Denmark,2,2,03.09.2005
+Scotland,Italy,1,1,03.09.2005
+Bosnia & Herzegovina,Belgium,1,0,03.09.2005
+Armenia,Netherlands,0,1,03.09.2005
+Slovenia,Norway,2,3,03.09.2005
+Slovakia,Germany,2,0,03.09.2005
+Moldova,Belarus,2,0,03.09.2005
+Serbia & Montenegro,Lithuania,2,0,03.09.2005
+Iceland,Croatia,1,3,03.09.2005
+Estonia,Latvia,2,1,03.09.2005
+Switzerland,Israel,1,1,03.09.2005
+Georgia,Ukraine,1,1,03.09.2005
+Hungary,Malta,4,0,03.09.2005
+Romania,Czech Republic,2,0,02.09.2005
+Rep. of Ireland,Italy,1,2,17.08.2005
+Albania,Azerbaijan,2,1,17.08.2005
+Macedonia,Finland,0,3,17.08.2005
+Portugal,Egypt,2,0,17.08.2005
+Latvia,Russia,1,1,17.08.2005
+Jordan,Armenia,0,0,17.08.2005
+Lithuania,Belarus,1,0,17.08.2005
+Wales,Slovenia,0,0,17.08.2005
+Spain,Uruguay,2,0,17.08.2005
+Bulgaria,Turkey,3,1,17.08.2005
+Hungary,Argentina,1,2,17.08.2005
+Israel,Poland,2,3,17.08.2005
+Iceland,South Africa,4,1,17.08.2005
+France,C�te d`Ivoire,3,0,17.08.2005
+Denmark,England,4,1,17.08.2005
+Faroe Islands,Cyprus,0,3,17.08.2005
+Austria,Scotland,2,2,17.08.2005
+Belgium,Greece,2,0,17.08.2005
+Netherlands,Germany,2,2,17.08.2005
+Croatia,Brazil,1,1,17.08.2005
+Liechtenstein,Slovakia,0,0,17.08.2005
+Ukraine,Serbia & Montenegro,2,1,17.08.2005
+Romania,Andorra,2,0,17.08.2005
+Estonia,Bosnia & Herzegovina,1,0,17.08.2005
+Norway,Switzerland,0,2,17.08.2005
+Kazakhstan,Georgia,1,2,17.08.2005
+Malta,North. Ireland,1,1,17.08.2005
+Sweden,Czech Republic,2,1,17.08.2005
+Ukraine,Israel,0,0,15.08.2005
+Poland,Serbia & Montenegro,3,2,15.08.2005
+Cyprus,Iraq,2,1,13.08.2005
+Germany,Mexico,4,3,29.06.2005
+Germany,Brazil,2,3,25.06.2005
+Mexico,Greece,0,0,22.06.2005
+Germany,Argentina,2,2,21.06.2005
+Japan,Greece,1,0,19.06.2005
+Germany,Tunisia,3,0,18.06.2005
+Brazil,Greece,3,0,16.06.2005
+Germany,Australia,4,3,15.06.2005
+Ecuador,Italy,1,1,11.06.2005
+Faroe Islands,Rep. of Ireland,0,2,08.06.2005
+Denmark,Albania,3,1,08.06.2005
+Latvia,Liechtenstein,1,0,08.06.2005
+Sweden,Norway,2,3,08.06.2005
+Greece,Ukraine,0,1,08.06.2005
+Belarus,Scotland,0,0,08.06.2005
+Germany,Russia,2,2,08.06.2005
+Spain,Bosnia & Herzegovina,1,1,08.06.2005
+Kazakhstan,Turkey,0,6,08.06.2005
+Finland,Netherlands,0,4,08.06.2005
+Luxembourg,Slovakia,0,4,08.06.2005
+Italy,Serbia & Montenegro,1,1,08.06.2005
+Romania,Armenia,3,0,08.06.2005
+Estonia,Portugal,0,1,08.06.2005
+Iceland,Malta,4,1,08.06.2005
+Czech Republic,Macedonia,6,1,08.06.2005
+Rep. of Ireland,Israel,2,2,04.06.2005
+Armenia,Macedonia,1,2,04.06.2005
+Russia,Latvia,2,0,04.06.2005
+Turkey,Greece,0,0,04.06.2005
+Ukraine,Kazakhstan,2,0,04.06.2005
+Norway,Italy,0,0,04.06.2005
+North. Ireland,Germany,1,4,04.06.2005
+San Marino,Bosnia & Herzegovina,1,3,04.06.2005
+Spain,Lithuania,1,0,04.06.2005
+Azerbaijan,Poland,0,3,04.06.2005
+Iceland,Hungary,2,3,04.06.2005
+Faroe Islands,Switzerland,1,3,04.06.2005
+Serbia & Montenegro,Belgium,0,0,04.06.2005
+Netherlands,Romania,2,0,04.06.2005
+Belarus,Slovenia,1,1,04.06.2005
+Bulgaria,Croatia,1,3,04.06.2005
+Portugal,Slovakia,2,0,04.06.2005
+Scotland,Moldova,2,0,04.06.2005
+Estonia,Liechtenstein,2,0,04.06.2005
+Albania,Georgia,3,2,04.06.2005
+Sweden,Malta,6,0,04.06.2005
+Czech Republic,Andorra,8,1,04.06.2005
+Finland,Denmark,0,1,02.06.2005
+France,Hungary,2,1,31.05.2005
+Colombia,England,2,3,31.05.2005
+Poland,Albania,1,0,29.05.2005
+Iran,Azerbaijan,2,1,29.05.2005
+United States,England,1,2,28.05.2005
+Norway,Costa Rica,1,0,24.05.2005
+Lithuania,Latvia,2,0,21.05.2005
+Mexico,Poland,1,1,27.04.2005
+Estonia,Norway,1,2,20.04.2005
+Greece,Albania,2,0,30.03.2005
+Latvia,Luxembourg,4,0,30.03.2005
+Ukraine,Denmark,1,0,30.03.2005
+Poland,North. Ireland,1,0,30.03.2005
+Austria,Wales,1,0,30.03.2005
+Bosnia & Herzegovina,Lithuania,1,1,30.03.2005
+Hungary,Bulgaria,1,1,30.03.2005
+England,Azerbaijan,2,0,30.03.2005
+Italy,Iceland,0,0,30.03.2005
+Israel,France,1,1,30.03.2005
+Switzerland,Cyprus,1,0,30.03.2005
+San Marino,Belgium,1,2,30.03.2005
+Netherlands,Armenia,2,0,30.03.2005
+Slovenia,Belarus,1,1,30.03.2005
+Croatia,Malta,3,0,30.03.2005
+Slovakia,Portugal,1,1,30.03.2005
+Moldova,Norway,0,0,30.03.2005
+Serbia & Montenegro,Spain,0,0,30.03.2005
+Macedonia,Romania,1,2,30.03.2005
+Estonia,Russia,1,1,30.03.2005
+Georgia,Turkey,2,5,30.03.2005
+Andorra,Czech Republic,0,4,30.03.2005
+Rep. of Ireland,China,1,0,29.03.2005
+Israel,Rep. of Ireland,1,1,26.03.2005
+Turkey,Albania,2,0,26.03.2005
+Portugal,Canada,4,1,26.03.2005
+Bulgaria,Sweden,0,3,26.03.2005
+Liechtenstein,Russia,1,2,26.03.2005
+Armenia,Andorra,2,1,26.03.2005
+England,North. Ireland,4,0,26.03.2005
+Wales,Austria,0,2,26.03.2005
+Spain,China,3,0,26.03.2005
+Poland,Azerbaijan,8,0,26.03.2005
+Denmark,Kazakhstan,3,0,26.03.2005
+Cyprus,Jordan,2,1,26.03.2005
+Italy,Scotland,2,0,26.03.2005
+France,Switzerland,0,0,26.03.2005
+Belgium,Bosnia & Herzegovina,4,1,26.03.2005
+Romania,Netherlands,0,2,26.03.2005
+Slovenia,Germany,0,1,26.03.2005
+Croatia,Iceland,4,0,26.03.2005
+Estonia,Slovakia,1,2,26.03.2005
+Georgia,Greece,1,3,26.03.2005
+Czech Republic,Finland,4,3,26.03.2005
+Kuwait,Armenia,3,1,18.03.2005
+Saudi Arabia,Finland,1,4,18.03.2005
+Kuwait,Finland,0,1,12.03.2005
+Rep. of Ireland,Portugal,1,0,09.02.2005
+Albania,Ukraine,0,2,09.02.2005
+Macedonia,Andorra,0,0,09.02.2005
+Austria,Latvia,1,1,09.02.2005
+France,Sweden,1,1,09.02.2005
+Greece,Denmark,2,1,09.02.2005
+Poland,Belarus,1,3,09.02.2005
+Italy,Russia,2,0,09.02.2005
+North. Ireland,Canada,0,1,09.02.2005
+Wales,Hungary,2,0,09.02.2005
+Spain,San Marino,5,0,09.02.2005
+Cyprus,Finland,1,2,09.02.2005
+Germany,Argentina,2,2,09.02.2005
+U.A.E.,Switzerland,1,2,09.02.2005
+Egypt,Belgium,4,0,09.02.2005
+England,Netherlands,0,0,09.02.2005
+Slovenia,Czech Republic,0,3,09.02.2005
+Israel,Croatia,3,3,09.02.2005
+Romania,Slovakia,2,2,09.02.2005
+Azerbaijan,Moldova,0,0,09.02.2005
+Bulgaria,Serbia & Montenegro,0,0,09.02.2005
+Venezuela,Estonia,3,0,09.02.2005
+Georgia,Lithuania,1,0,09.02.2005
+Malta,Norway,0,3,09.02.2005
+Finland,Latvia,2,1,08.02.2005
+Cyprus,Austria,1,1,08.02.2005
+Iran,Bosnia & Herzegovina,2,1,02.02.2005
+Saudi Arabia,Hungary,0,0,02.02.2005
+Japan,Kazakhstan,4,0,29.01.2005
+Jordan,Norway,0,0,28.01.2005
+Mexico,Sweden,0,0,26.01.2005
+Bahrain,Norway,0,1,25.01.2005
+Trinidad & Tobago,Azerbaijan,2,0,23.01.2005
+South Korea,Sweden,1,1,22.01.2005
+Kuwait,Norway,1,1,22.01.2005
+Trinidad & Tobago,Azerbaijan,1,0,21.01.2005
+Thailand,Germany,1,5,21.12.2004
+South Korea,Germany,3,1,19.12.2004
+Japan,Germany,0,3,16.12.2004
+Bahrain,Latvia,2,2,03.12.2004
+Finland,Oman,0,0,03.12.2004
+Thailand,Slovakia,1,1,02.12.2004
+Hungary,Estonia,5,0,02.12.2004
+Oman,Latvia,3,2,01.12.2004
+Bahrain,Finland,1,2,01.12.2004
+Hungary,Slovakia,0,1,30.11.2004
+Thailand,Estonia,0,0,30.11.2004
+Egypt,Bulgaria,1,1,29.11.2004
+U.A.E.,Belarus,2,3,22.11.2004
+Luxembourg,Portugal,0,5,17.11.2004
+Liechtenstein,Latvia,1,3,17.11.2004
+Turkey,Ukraine,0,3,17.11.2004
+San Marino,Lithuania,0,1,17.11.2004
+Italy,Finland,1,0,17.11.2004
+Azerbaijan,Bulgaria,0,0,17.11.2004
+France,Poland,0,0,17.11.2004
+Germany,Cameroon,3,0,17.11.2004
+Scotland,Sweden,1,4,17.11.2004
+Greece,Kazakhstan,3,1,17.11.2004
+Cyprus,Israel,1,2,17.11.2004
+Macedonia,Czech Republic,0,2,17.11.2004
+Georgia,Denmark,2,2,17.11.2004
+Russia,Estonia,4,0,17.11.2004
+Belgium,Serbia & Montenegro,0,2,17.11.2004
+Andorra,Netherlands,0,3,17.11.2004
+Slovakia,Slovenia,0,0,17.11.2004
+Armenia,Romania,1,1,17.11.2004
+Malta,Hungary,0,2,17.11.2004
+Spain,England,1,0,17.11.2004
+Australia,Norway,2,2,16.11.2004
+Rep. of Ireland,Croatia,1,0,16.11.2004
+Rep. of Ireland,Faroe Islands,2,0,13.10.2004
+Kazakhstan,Albania,0,1,13.10.2004
+Luxembourg,Liechtenstein,0,4,13.10.2004
+Andorra,Macedonia,1,0,13.10.2004
+Iceland,Sweden,1,4,13.10.2004
+Lithuania,Spain,0,0,13.10.2004
+Norway,Slovenia,3,0,13.10.2004
+Wales,Poland,2,3,13.10.2004
+Moldova,Scotland,1,1,13.10.2004
+Cyprus,France,0,2,13.10.2004
+North. Ireland,Austria,3,3,13.10.2004
+Armenia,Czech Republic,0,3,13.10.2004
+Denmark,Turkey,1,1,13.10.2004
+Italy,Belarus,4,3,13.10.2004
+Portugal,Russia,7,1,13.10.2004
+Netherlands,Finland,3,1,13.10.2004
+Serbia & Montenegro,San Marino,5,0,13.10.2004
+Azerbaijan,England,0,1,13.10.2004
+Latvia,Estonia,2,2,13.10.2004
+Bulgaria,Malta,4,1,13.10.2004
+Ukraine,Georgia,2,0,12.10.2004
+France,Rep. of Ireland,0,0,09.10.2004
+Liechtenstein,Portugal,2,2,09.10.2004
+Sweden,Hungary,3,0,09.10.2004
+Finland,Armenia,3,1,09.10.2004
+Turkey,Kazakhstan,4,0,09.10.2004
+Iran,Germany,0,2,09.10.2004
+Slovenia,Italy,1,0,09.10.2004
+England,Wales,2,0,09.10.2004
+Scotland,Norway,0,1,09.10.2004
+Ukraine,Greece,1,1,09.10.2004
+Cyprus,Faroe Islands,2,2,09.10.2004
+Austria,Poland,1,3,09.10.2004
+Czech Republic,Romania,1,0,09.10.2004
+Albania,Denmark,0,2,09.10.2004
+Belarus,Moldova,4,0,09.10.2004
+Luxembourg,Russia,0,4,09.10.2004
+Israel,Switzerland,2,2,09.10.2004
+Spain,Belgium,2,0,09.10.2004
+Macedonia,Netherlands,2,2,09.10.2004
+Croatia,Bulgaria,2,2,09.10.2004
+Slovakia,Latvia,4,1,09.10.2004
+Bosnia & Herzegovina,Serbia & Montenegro,0,0,09.10.2004
+Azerbaijan,North. Ireland,0,0,09.10.2004
+Malta,Iceland,0,0,09.10.2004
+Luxembourg,Latvia,3,4,08.09.2004
+Armenia,Finland,0,2,08.09.2004
+Kazakhstan,Ukraine,1,2,08.09.2004
+Lithuania,San Marino,4,0,08.09.2004
+Bosnia & Herzegovina,Spain,1,1,08.09.2004
+Hungary,Iceland,3,2,08.09.2004
+Faroe Islands,France,0,2,08.09.2004
+Germany,Brazil,1,1,08.09.2004
+Scotland,Slovenia,0,0,08.09.2004
+Wales,North. Ireland,2,2,08.09.2004
+Greece,Turkey,0,0,08.09.2004
+Israel,Cyprus,2,1,08.09.2004
+Austria,Azerbaijan,2,0,08.09.2004
+Netherlands,Czech Republic,2,0,08.09.2004
+Norway,Belarus,1,1,08.09.2004
+Switzerland,Rep. of Ireland,1,1,08.09.2004
+Sweden,Croatia,0,1,08.09.2004
+Slovakia,Liechtenstein,7,0,08.09.2004
+Moldova,Italy,0,1,08.09.2004
+Andorra,Romania,1,5,08.09.2004
+Portugal,Estonia,4,0,08.09.2004
+Georgia,Albania,2,0,08.09.2004
+Poland,England,1,2,08.09.2004
+Latvia,Portugal,0,2,04.09.2004
+Italy,Norway,2,1,04.09.2004
+North. Ireland,Poland,0,3,04.09.2004
+Finland,Andorra,3,0,04.09.2004
+Iceland,Bulgaria,1,3,04.09.2004
+France,Israel,0,0,04.09.2004
+Slovenia,Moldova,3,0,04.09.2004
+Azerbaijan,Wales,1,1,04.09.2004
+Albania,Greece,2,1,04.09.2004
+Rep. of Ireland,Cyprus,3,0,04.09.2004
+Austria,England,2,2,04.09.2004
+Denmark,Ukraine,1,1,04.09.2004
+Russia,Slovakia,1,1,04.09.2004
+Belgium,Lithuania,1,1,04.09.2004
+Croatia,Hungary,3,0,04.09.2004
+San Marino,Serbia & Montenegro,0,3,04.09.2004
+Romania,Macedonia,2,1,04.09.2004
+Estonia,Luxembourg,4,0,04.09.2004
+Switzerland,Faroe Islands,6,0,04.09.2004
+Turkey,Georgia,1,1,04.09.2004
+Malta,Sweden,0,7,04.09.2004
+Spain,Scotland,1,1,03.09.2004
+Netherlands,Liechtenstein,3,0,03.09.2004
+Rep. of Ireland,Bulgaria,1,1,18.08.2004
+Macedonia,Armenia,3,0,18.08.2004
+France,Bosnia & Herzegovina,1,1,18.08.2004
+Jordan,Azerbaijan,1,1,18.08.2004
+Iceland,Italy,2,0,18.08.2004
+Slovenia,Serbia & Montenegro,1,1,18.08.2004
+Latvia,Wales,0,2,18.08.2004
+Scotland,Hungary,0,3,18.08.2004
+Czech Republic,Greece,0,0,18.08.2004
+Cyprus,Albania,2,1,18.08.2004
+Austria,Germany,1,3,18.08.2004
+Poland,Denmark,1,5,18.08.2004
+Turkey,Belarus,1,2,18.08.2004
+Russia,Lithuania,4,3,18.08.2004
+Switzerland,North. Ireland,0,0,18.08.2004
+Norway,Belgium,2,2,18.08.2004
+Sweden,Netherlands,2,2,18.08.2004
+Croatia,Israel,1,0,18.08.2004
+Slovakia,Luxembourg,3,1,18.08.2004
+Spain,Venezuela,3,2,18.08.2004
+Moldova,Georgia,1,0,18.08.2004
+Romania,Finland,2,1,18.08.2004
+Liechtenstein,Estonia,1,2,18.08.2004
+Faroe Islands,Malta,3,2,18.08.2004
+England,Ukraine,3,0,18.08.2004
+Japan,Serbia & Montenegro,1,0,13.07.2004
+United States,Poland,1,1,11.07.2004
+Serbia & Montenegro,Slovakia,2,0,11.07.2004
+Japan,Slovakia,3,1,09.07.2004
+Portugal,Greece,0,1,04.07.2004
+Czech Republic,Greece,0,1,01.07.2004
+Portugal,Netherlands,2,1,30.06.2004
+Czech Republic,Denmark,3,0,27.06.2004
+Netherlands,Sweden,0,0,26.06.2004
+France,Greece,0,1,25.06.2004
+Portugal,England,2,2,24.06.2004
+Czech Republic,Germany,2,1,23.06.2004
+Latvia,Netherlands,0,3,23.06.2004
+Bulgaria,Italy,1,2,22.06.2004
+Denmark,Sweden,2,2,22.06.2004
+France,Switzerland,3,1,21.06.2004
+Croatia,England,2,4,21.06.2004
+Greece,Russia,1,2,20.06.2004
+Spain,Portugal,0,1,20.06.2004
+Germany,Latvia,0,0,19.06.2004
+Czech Republic,Netherlands,3,2,19.06.2004
+Italy,Sweden,1,1,18.06.2004
+Denmark,Bulgaria,2,0,18.06.2004
+England,Switzerland,3,0,17.06.2004
+Croatia,France,2,2,17.06.2004
+Greece,Spain,1,1,16.06.2004
+Portugal,Russia,2,0,16.06.2004
+Czech Republic,Latvia,2,1,15.06.2004
+Germany,Netherlands,1,1,15.06.2004
+Bulgaria,Sweden,0,5,14.06.2004
+Denmark,Italy,0,0,14.06.2004
+Croatia,Switzerland,0,0,13.06.2004
+England,France,1,2,13.06.2004
+Portugal,Greece,1,2,12.06.2004
+Russia,Spain,0,1,12.06.2004
+Estonia,Macedonia,2,4,11.06.2004
+France,Ukraine,1,0,06.06.2004
+Trinidad & Tobago,North. Ireland,0,3,06.06.2004
+Germany,Hungary,0,2,06.06.2004
+Czech Republic,Estonia,2,0,06.06.2004
+Switzerland,Liechtenstein,1,0,06.06.2004
+Latvia,Azerbaijan,2,2,06.06.2004
+Portugal,Lithuania,4,1,05.06.2004
+Sweden,Poland,3,1,05.06.2004
+South Korea,Turkey,2,1,05.06.2004
+Denmark,Croatia,1,2,05.06.2004
+Netherlands,Rep. of Ireland,0,1,05.06.2004
+Spain,Andorra,4,0,05.06.2004
+England,Iceland,6,1,05.06.2004
+Liechtenstein,Greece,0,2,03.06.2004
+Rep. of Ireland,Jamaica,1,0,02.06.2004
+St. Kitts/Nevis,North. Ireland,0,2,02.06.2004
+South Korea,Turkey,0,1,02.06.2004
+Czech Republic,Bulgaria,3,1,02.06.2004
+Switzerland,Germany,0,2,02.06.2004
+China,Hungary,2,1,01.06.2004
+Netherlands,Faroe Islands,3,0,01.06.2004
+England,Japan,1,1,01.06.2004
+Barbados,North. Ireland,1,1,30.05.2004
+Japan,Iceland,3,2,30.05.2004
+Tunisia,Italy,0,4,30.05.2004
+Wales,Canada,1,0,30.05.2004
+Scotland,Trinidad & Tobago,4,1,30.05.2004
+Estonia,Denmark,2,2,30.05.2004
+Rep. of Ireland,Nigeria,0,3,29.05.2004
+Portugal,Luxembourg,3,0,29.05.2004
+Poland,Greece,1,0,29.05.2004
+Netherlands,Belgium,0,1,29.05.2004
+Croatia,Slovakia,1,0,29.05.2004
+Finland,Sweden,1,3,28.05.2004
+France,Andorra,4,0,28.05.2004
+Azerbaijan,Uzbekistan,3,1,28.05.2004
+Rep. of Ireland,Romania,1,0,27.05.2004
+Norway,Wales,0,0,27.05.2004
+Estonia,Scotland,0,1,27.05.2004
+Georgia,Israel,0,1,27.05.2004
+Germany,Malta,7,0,27.05.2004
+Austria,Russia,0,0,25.05.2004
+Australia,Turkey,0,1,24.05.2004
+Australia,Turkey,1,3,21.05.2004
+France,Brazil,0,0,20.05.2004
+Cyprus,Jordan,0,0,19.05.2004
+Poland,Rep. of Ireland,0,0,28.04.2004
+Portugal,Sweden,2,2,28.04.2004
+Latvia,Iceland,0,0,28.04.2004
+San Marino,Liechtenstein,1,0,28.04.2004
+Armenia,Turkmenistan,1,0,28.04.2004
+Bulgaria,Cameroon,3,0,28.04.2004
+Hungary,Brazil,1,4,28.04.2004
+Estonia,Albania,1,1,28.04.2004
+Ukraine,Slovakia,1,1,28.04.2004
+Austria,Luxembourg,4,1,28.04.2004
+Romania,Germany,5,1,28.04.2004
+Italy,Spain,1,1,28.04.2004
+Kazakhstan,Azerbaijan,2,3,28.04.2004
+Bosnia & Herzegovina,Finland,1,0,28.04.2004
+Belarus,Lithuania,1,0,28.04.2004
+Norway,Russia,3,2,28.04.2004
+Switzerland,Slovenia,2,1,28.04.2004
+Denmark,Scotland,1,0,28.04.2004
+Netherlands,Greece,4,0,28.04.2004
+Czech Republic,Japan,0,1,28.04.2004
+Belgium,Turkey,2,3,28.04.2004
+Macedonia,Croatia,0,1,28.04.2004
+Israel,Moldova,1,1,28.04.2004
+North. Ireland,Serbia & Montenegro,1,1,28.04.2004
+Hungary,Japan,3,2,25.04.2004
+Andorra,China,0,0,14.04.2004
+Poland,United States,0,1,31.03.2004
+Albania,Iceland,2,1,31.03.2004
+Slovakia,Austria,1,1,31.03.2004
+Germany,Belgium,3,0,31.03.2004
+Portugal,Italy,1,2,31.03.2004
+Moldova,Azerbaijan,2,1,31.03.2004
+Luxembourg,Bosnia & Herzegovina,1,2,31.03.2004
+Macedonia,Ukraine,1,0,31.03.2004
+Bulgaria,Russia,2,2,31.03.2004
+Scotland,Romania,1,2,31.03.2004
+Malta,Finland,1,2,31.03.2004
+Slovenia,Latvia,0,1,31.03.2004
+Hungary,Wales,1,2,31.03.2004
+Greece,Switzerland,1,0,31.03.2004
+Rep. of Ireland,Czech Republic,2,1,31.03.2004
+Spain,Denmark,2,0,31.03.2004
+Netherlands,France,0,0,31.03.2004
+Croatia,Turkey,2,2,31.03.2004
+Serbia & Montenegro,Norway,0,1,31.03.2004
+Estonia,North. Ireland,0,1,31.03.2004
+Sweden,England,1,0,31.03.2004
+Israel,Lithuania,2,1,30.03.2004
+Faroe Islands*,Luxembourg,4,2,24.02.2004
+Hungary,Romania*,0,3,21.02.2004
+Faroe Islands,Poland,0,6,21.02.2004
+Latvia,Belarus,1,4,21.02.2004
+Cyprus,Kazakhstan,2,1,21.02.2004
+Armenia,Georgia,2,0,21.02.2004
+Hungary,Latvia,2,1,19.02.2004
+Armenia,Kazakhstan,3,3,19.02.2004
+Belarus,Romania*,0,2,19.02.2004
+Cyprus,Georgia,3,1,19.02.2004
+Kazakhstan,Latvia,1,3,18.02.2004
+Albania,Sweden,2,1,18.02.2004
+Hungary,Armenia,2,0,18.02.2004
+Belgium,France,0,2,18.02.2004
+North. Ireland,Norway,1,4,18.02.2004
+Croatia,Germany,1,2,18.02.2004
+Italy,Czech Republic,2,2,18.02.2004
+Israel,Azerbaijan,6,0,18.02.2004
+Macedonia,Bosnia & Herzegovina,1,0,18.02.2004
+Cyprus,Belarus,0,2,18.02.2004
+Libya,Ukraine,1,1,18.02.2004
+Georgia,Romania,0,3,18.02.2004
+Malta,Belarus*,0,4,18.02.2004
+Poland,Slovenia,2,0,18.02.2004
+Wales,Scotland,4,0,18.02.2004
+Greece,Bulgaria,2,0,18.02.2004
+Turkey,Denmark,0,1,18.02.2004
+Morocco,Switzerland,2,1,18.02.2004
+Netherlands,United States,1,0,18.02.2004
+Spain,Peru,2,1,18.02.2004
+Estonia,Moldova,1,0,18.02.2004
+Portugal,England,1,1,18.02.2004
+Rep. of Ireland,Brazil,0,0,18.02.2004
+Belarus*,Moldova,1,0,16.02.2004
+Malta,Estonia,5,2,16.02.2004
+Malta,Moldova,0,0,14.02.2004
+Belarus*,Estonia,1,2,14.02.2004
+China,Finland,2,1,07.02.2004
+China,Finland,2,1,03.02.2004
+China,Macedonia,1,0,29.01.2004
+Singapore,Norway,2,5,28.01.2004
+China,Macedonia,0,0,27.01.2004 
+Honduras,Norway,1,3,25.01.2004
+Norway,Sweden,3,0,22.01.2004
