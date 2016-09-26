@@ -1,0 +1,43 @@
+##### ID team, team name ##### 
+1,Ajaccio
+2,Ajaccio GFCO
+3,Angers
+4,Arles
+5,Auxerre
+6,Bastia
+7,Bordeaux
+8,Boulogne
+9,Brest
+10,Caen
+11,Cannes
+12,Chateauroux
+13,Dijon
+14,Evian Thonon Gaillard
+15,Grenoble
+16,Gueugnon
+17,Guingamp
+18,Istres
+19,Le Havre
+20,Le Mans
+21,Lens
+22,Lille
+23,Lorient
+24,Lyon
+25,Marseille
+26,Martigues
+27,Metz
+28,Monaco
+29,Montpellier
+30,Nancy
+31,Nantes
+32,Nice
+33,Paris SG
+34,Reims
+35,Rennes
+36,Sedan
+37,Sochaux
+38,St Etienne
+39,Strasbourg
+40,Toulouse
+41,Troyes
+42,Valenciennes
